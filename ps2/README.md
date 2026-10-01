@@ -1,4 +1,4 @@
-# PS2 Shortlist — 348 games
+# PS2 Shortlist — 400 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -26,9 +26,12 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
 - **Better on another console (11):** a clearly better version exists on a sibling console, even when emulated, so they're left to that console's list. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
-**Games nudged in using extra data**
+**Games nudged in using extra data** ★
 
-- **★ Nudged in:** Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores but clear the bar once wider, all-platform player ratings are counted.
+Games that fall just short on PS2-only player scores were added in two ways:
+
+- **Several signals agree:** at least two of these point the same way: PS2 players rate it 3.8+ (lower bound), wider all-platform player ratings put it at 3.9+, retro players on Vimm's Lair rate it above their average, or critics gave it 75+.
+- **Liked by retro players:** the rest were taken in order of Vimm's Lair player ratings (adjusted for how many people voted), among games PS2 players still rate solidly (lower bound 3.6+).
 
 Data pulled September 2026.
 
@@ -221,51 +224,84 @@ Data pulled September 2026.
 | Dynasty Warriors 5: Empires (Expansion) | 69 | 382 | 3.98 | 3.90 |  |  |
 | Neo Geo Battle Coliseum |  | 345 | 3.98 | 3.90 |  |  |
 | Radiata Stories | 74 | 1,233 | 3.94 | 3.90 |  | ✓ |
+| Guilty Gear X ★ | 79 | 280 | 3.99 | 3.90 |  |  |
 | OutRun 2006: Coast 2 Coast | 81 | 233 | 4.00 | 3.90 |  |  |
 | WWE SmackDown! Shut Your Mouth | 82 | 612 | 3.96 | 3.89 |  |  |
 | Psychonauts | 86 | 668 | 3.95 | 3.89 |  |  |
+| Onimusha 2: Samurai's Destiny ★ |  | 1,037 | 3.94 | 3.89 |  |  |
 | Mortal Kombat: Shaolin Monks |  | 1,197 | 3.94 | 3.89 | ✓ | ✓ |
 | Prince of Persia: Warrior Within | 83 | 898 | 3.94 | 3.89 |  |  |
+| The Godfather ★ | 75 | 507 | 3.96 | 3.89 |  |  |
 | Time Crisis 3 | 81 | 216 | 3.99 | 3.89 |  |  |
 | Grand Theft Auto: Vice City Stories | 75 | 1,290 | 3.93 | 3.89 | ✓ | ✓ |
 | Gitaroo Man | 82 | 203 | 3.99 | 3.88 |  |  |
 | Resident Evil Code: Veronica X |  | 1,965 | 3.92 | 3.88 | ✓ | ✓ |
+| The King of Fighters 2006 ★ |  | 384 | 3.96 | 3.88 |  |  |
 | Half-Life | 87 | 676 | 3.94 | 3.88 | ✓ | ✓ |
+| Contra: Shattered Soldier ★ | 78 | 420 | 3.96 | 3.88 |  |  |
+| Dynasty Warriors: Gundam 2 ★ | 52 | 251 | 3.98 | 3.88 |  |  |
+| Robot Alchemic Drive ★ |  | 108 | 4.02 | 3.88 |  |  |
+| Test Drive: Eve of Destruction ★ | 73 | 96 | 4.03 | 3.87 |  |  |
+| Steambot Chronicles ★ | 74 | 298 | 3.96 | 3.87 |  |  |
 | Mercenaries: Playground of Destruction | 84 | 552 | 3.93 | 3.86 |  |  |
 | Urban Reign | 60 | 319 | 3.94 | 3.86 | ✓ |  |
+| Dynasty Warriors 3 ★ | 78 | 726 | 3.91 | 3.85 |  |  |
 | Spider-Man 2 | 80 | 1,099 | 3.90 | 3.85 | ✓ | ✓ |
 | Tony Hawk's Pro Skater 4 | 94 | 864 | 3.91 | 3.85 | ✓ |  |
 | Scarface: The World Is Yours | 75 | 557 | 3.92 | 3.85 | ✓ | ✓ |
 | Road Trip | 80 | 131 | 3.99 | 3.85 |  |  |
 | X-Men Legends II: Rise of Apocalypse | 82 | 550 | 3.92 | 3.85 |  |  |
+| Makai Kingdom: Chronicles Of The Sacred Tome ★ | 77 | 495 | 3.92 | 3.85 |  |  |
 | The Punisher | 68 | 445 | 3.92 | 3.84 | ✓ | ✓ |
 | SOCOM 3 U.S. Navy SEALs | 82 | 321 | 3.93 | 3.84 |  |  |
+| Jak X: Combat Racing ★ | 76 | 779 | 3.90 | 3.84 |  |  |
+| Tales of Destiny 2 ★ |  | 171 | 3.96 | 3.84 |  |  |
 | SOCOM II U.S. Navy SEALs | 87 | 351 | 3.92 | 3.84 |  |  |
 | Need for Speed: Carbon | 74 | 917 | 3.89 | 3.84 | ✓ | ✓ |
+| Wild Arms 3 ★ | 78 | 1,101 | 3.89 | 3.84 |  |  |
+| Mega Man X: Command Mission ★ | 69 | 595 | 3.90 | 3.84 |  |  |
+| Burnout Dominator ★ | 76 | 454 | 3.91 | 3.84 |  |  |
+| Champions: Return to Arms ★ | 77 | 484 | 3.91 | 3.84 |  |  |
+| Metal Slug 3 ★ |  | 111 | 3.98 | 3.84 |  |  |
 | WWE SmackDown vs. Raw 2011 | 80 | 305 | 3.92 | 3.84 |  |  |
+| Naruto: Ultimate Ninja 2 ★ | 73 | 740 | 3.89 | 3.83 |  |  |
+| Silent Line: Armored Core ★ | 69 | 184 | 3.95 | 3.83 |  |  |
+| Culdcept ★ |  | 97 | 3.99 | 3.83 |  |  |
 | Need for Speed: Underground | 85 | 1,247 | 3.88 | 3.83 | ✓ | ✓ |
 | The Lord of the Rings: The Return of the King | 85 | 892 | 3.88 | 3.83 | ✓ |  |
 | Prince of Persia: The Two Thrones | 85 | 887 | 3.88 | 3.83 |  |  |
 | Lego Batman: The Videogame |  | 528 | 3.90 | 3.83 | ✓ |  |
 | Dark Cloud | 80 | 2,067 | 3.86 | 3.83 | ✓ | ✓ |
+| Transformers ★ | 75 | 357 | 3.91 | 3.83 |  |  |
+| Romance of the Three Kingdoms VIII ★ |  | 151 | 3.95 | 3.83 |  |  |
 | Time Crisis II | 81 | 242 | 3.92 | 3.82 |  |  |
 | Shadow Hearts | 73 | 1,355 | 3.87 | 3.82 | ✓ |  |
 | Crash Twinsanity | 64 | 1,237 | 3.87 | 3.82 | ✓ | ✓ |
 | Castlevania: Curse of Darkness | 74 | 1,109 | 3.87 | 3.82 | ✓ | ✓ |
+| Monster Rancher 4 ★ | 77 | 230 | 3.93 | 3.82 |  |  |
+| 007: NightFire ★ | 77 | 562 | 3.89 | 3.82 |  |  |
+| Dynasty Warriors 4 ★ | 78 | 939 | 3.87 | 3.82 |  |  |
+| .hack//Mutation Part 2 ★ |  | 933 | 3.87 | 3.82 |  |  |
 | Lego Star Wars: The Video Game | 78 | 903 | 3.87 | 3.82 | ✓ |  |
 | FlatOut 2 ★ | 73 | 295 | 3.91 | 3.82 |  |  |
+| Tokyo Xtreme Racer: Zero ★ | 76 | 175 | 3.93 | 3.82 |  |  |
 | WWE SmackDown! vs. RAW 2006 | 84 | 793 | 3.87 | 3.82 |  |  |
+| Gladius ★ | 78 | 172 | 3.93 | 3.81 |  |  |
 | 007: Everything or Nothing | 84 | 397 | 3.89 | 3.81 |  |  |
+| Destroy All Humans! 2 ★ | 74 | 560 | 3.88 | 3.81 |  |  |
 | Mortal Kombat: Deception |  | 1,089 | 3.86 | 3.81 | ✓ |  |
+| Legacy of Kain: Defiance ★ | 75 | 553 | 3.88 | 3.81 |  |  |
 | Dead or Alive 2: Hardcore | 91 | 409 | 3.89 | 3.81 |  |  |
 | Hot Shots Golf 3 | 85 | 185 | 3.91 | 3.80 |  |  |
 | Onimusha: Dawn of Dreams | 81 | 778 | 3.86 | 3.80 |  |  |
 | Phantom Brave | 81 | 612 | 3.86 | 3.80 |  |  |
+| WWE SmackDown vs. Raw 2010 ★ |  | 303 | 3.88 | 3.80 |  |  |
 | Burnout 2: Point of Impact | 86 | 444 | 3.87 | 3.80 |  |  |
 | Hitman: Contracts | 80 | 406 | 3.87 | 3.79 |  |  |
 | Soul Reaver 2 | 80 | 581 | 3.85 | 3.79 |  |  |
 | Champions of Norrath: Realms of Everquest | 85 | 646 | 3.85 | 3.79 |  |  |
 | Twisted Metal: Black | 91 | 971 | 3.83 | 3.78 |  | ✓ |
+| Urban Chaos: Riot Response ★ | 73 | 194 | 3.89 | 3.78 |  |  |
 | Space Channel 5: Part 2 ★ | 79 | 58 | 3.98 | 3.78 |  |  |
 | Ultimate Spider-Man | 74 | 628 | 3.84 | 3.77 | ✓ | ✓ |
 | Grand Theft Auto: Liberty City Stories | 78 | 1,516 | 3.81 | 3.77 | ✓ | ✓ |
@@ -274,18 +310,27 @@ Data pulled September 2026.
 | Peter Jackson's King Kong: The Official Game of the Movie | 82 | 424 | 3.85 | 3.77 |  |  |
 | Deus Ex: The Conspiracy | 81 | 334 | 3.85 | 3.77 |  |  |
 | Medal of Honor: Frontline | 88 | 898 | 3.82 | 3.77 |  |  |
+| Dokapon Kingdom ★ | 61 | 110 | 3.90 | 3.75 |  |  |
+| Test Drive Unlimited ★ | 75 | 182 | 3.86 | 3.74 |  |  |
+| The Lord of the Rings: The Third Age ★ | 73 | 671 | 3.80 | 3.74 |  |  |
 | Tony Hawk's Pro Skater 3 | 97 | 1,453 | 3.78 | 3.74 | ✓ | ✓ |
 | Psi-Ops: The Mindgate Conspiracy | 84 | 259 | 3.84 | 3.74 |  |  |
+| SOCOM U.S. Navy SEALs: Combined Assault ★ | 72 | 201 | 3.85 | 3.74 |  |  |
 | The Simpsons: Hit & Run | 78 | 1,093 | 3.79 | 3.74 | ✓ | ✓ |
 | .hack//Infection Part 1 |  | 1,482 | 3.78 | 3.74 | ✓ | ✓ |
+| Gun ★ |  | 561 | 3.80 | 3.74 |  |  |
 | PaRappa the Rapper 2 | 67 | 302 | 3.83 | 3.74 | ✓ |  |
 | Castlevania: Lament of Innocence | 79 | 1,363 | 3.78 | 3.73 | ✓ | ✓ |
 | Ring of Red | 82 | 183 | 3.85 | 3.73 |  |  |
 | Killer7 ★ |  | 290 | 3.83 | 3.73 |  |  |
 | Ape Escape 2 | 82 | 506 | 3.80 | 3.73 | ✓ |  |
 | Manhunt | 76 | 911 | 3.78 | 3.73 | ✓ | ✓ |
+| Tenchu: Fatal Shadows ★ | 58 | 273 | 3.82 | 3.73 |  |  |
+| Berserk: Millennium Falcon Hen Seima Senki no Shō ★ |  | 119 | 3.87 | 3.73 |  |  |
+| Tenchu: Wrath of Heaven ★ | 79 | 595 | 3.79 | 3.72 |  |  |
 | Sega Genesis Collection | 82 | 287 | 3.82 | 3.72 |  |  |
 | WRC: Rally Evolved | 80 | 59 | 3.92 | 3.72 |  |  |
+| Blood Will Tell: Tezuka Osamu's Dororo ★ | 67 | 189 | 3.83 | 3.72 |  |  |
 | Amplitude | 86 | 191 | 3.83 | 3.72 |  |  |
 | The Sims Bustin' Out | 81 | 362 | 3.80 | 3.72 |  |  |
 | Red Faction | 88 | 653 | 3.78 | 3.72 |  |  |
@@ -300,6 +345,7 @@ Data pulled September 2026.
 | Tony Hawk's Underground 2 |  | 714 | 3.76 | 3.70 | ✓ | ✓ |
 | Tekken 4 | 79 | 1,488 | 3.74 | 3.70 | ✓ |  |
 | Silent Hill 4: The Room | 76 | 1,876 | 3.73 | 3.69 |  | ✓ |
+| Pac-Man World 2 ★ | 73 | 361 | 3.77 | 3.69 |  |  |
 | Midnight Club II | 85 | 367 | 3.77 | 3.69 |  |  |
 | WWE SmackDown vs. Raw 2007 | 80 | 611 | 3.75 | 3.69 |  |  |
 | Freedom Fighters | 81 | 316 | 3.77 | 3.68 |  |  |
@@ -312,12 +358,19 @@ Data pulled September 2026.
 | F1 2001 | 83 | 77 | 3.83 | 3.66 |  |  |
 | Maximo vs. Army of Zin | 83 | 231 | 3.75 | 3.65 |  |  |
 | Secret Weapons Over Normandy | 81 | 62 | 3.84 | 3.65 |  |  |
+| Spider-Man: Friend or Foe ★ | 62 | 330 | 3.73 | 3.65 |  |  |
+| Armored Core 2 ★ | 78 | 341 | 3.73 | 3.64 |  |  |
+| Tony Hawk's American Wasteland ★ | 77 | 519 | 3.71 | 3.64 |  |  |
 | Wipeout Pulse | 82 | 34 | 3.89 | 3.64 |  |  |
 | Battlefield 2: Modern Combat | 80 | 286 | 3.73 | 3.64 |  |  |
 | Mortal Kombat: Armageddon |  | 1,392 | 3.68 | 3.63 | ✓ | ✓ |
 | Wipeout Fusion | 83 | 172 | 3.75 | 3.63 |  |  |
+| Dynasty Warriors 4: Xtreme Legends (Expansion) ★ | 78 | 312 | 3.72 | 3.63 |  |  |
 | The Lord of the Rings: The Two Towers | 82 | 801 | 3.68 | 3.63 | ✓ |  |
+| Medal of Honor: European Assault ★ | 73 | 369 | 3.70 | 3.62 |  |  |
 | Drakengard | 63 | 1,012 | 3.66 | 3.61 | ✓ |  |
+| Jade Cocoon 2 ★ | 76 | 258 | 3.71 | 3.61 |  |  |
+| I-Ninja ★ | 73 | 173 | 3.72 | 3.60 |  |  |
 | Maximo: Ghosts to Glory | 84 | 399 | 3.68 | 3.60 |  |  |
 | Final Fantasy X-2 | 85 | 7,048 | 3.62 | 3.60 |  |  |
 | Viewtiful Joe 2 | 84 | 224 | 3.70 | 3.60 |  |  |
@@ -327,6 +380,7 @@ Data pulled September 2026.
 | Crash Tag Team Racing |  | 751 | 3.64 | 3.58 | ✓ |  |
 | WRC II Extreme |  | 52 | 3.79 | 3.58 |  |  |
 | The SpongeBob SquarePants Movie | 75 | 201 | 3.69 | 3.58 | ✓ |  |
+| Unreal Tournament ★ | 77 | 222 | 3.68 | 3.57 |  |  |
 | NASCAR: Dirt to Daytona | 84 | 125 | 3.69 | 3.55 |  |  |
 | Colin McRae Rally 3 | 86 | 117 | 3.66 | 3.52 |  |  |
 | Pro Race Driver | 81 | 64 | 3.71 | 3.52 |  |  |
@@ -339,6 +393,7 @@ Data pulled September 2026.
 | Spider-Man | 76 | 602 | 3.55 | 3.49 |  | ✓ |
 | Sonic Heroes | 64 | 1,163 | 3.52 | 3.48 | ✓ |  |
 | ATV Offroad Fury 2 | 82 | 317 | 3.55 | 3.46 |  |  |
+| Super Monkey Ball Deluxe ★ | 78 | 124 | 3.60 | 3.46 |  |  |
 | Fight Night Round 2 | 88 | 106 | 3.61 | 3.46 |  |  |
 | Manhunt 2 | 67 | 364 | 3.54 | 3.46 |  | ✓ |
 | NASCAR Thunder 2003 | 84 | 86 | 3.62 | 3.45 |  |  |
