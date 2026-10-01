@@ -15,7 +15,7 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **User score:** GameFAQs and Metacritic user ratings merged on a /5 scale, with low-vote games pulled toward an average of 3.5
 - **Lower bound:** the score we're ~97.5% sure the game is at least at; it rewards games that are both well-liked *and* rated by lots of people. The list is sorted by this.
 - **RA / Vimm:** ✓ if the game is among the most popular on RetroAchievements / Vimm's Lair
-- **★ after a title:** hand-picked (see below)
+- **★ after a title:** nudged in using extra data (see below)
 
 **What's deliberately left out** (opinionated, so you know what you're not seeing):
 
@@ -26,9 +26,9 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
 - **Better on another console (11):** a clearly better version exists on a sibling console, even when emulated, so they're left to that console's list. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
-**Hand-picked games**
+**Games nudged in using extra data**
 
-- **★ Hand-picked:** Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores, but clear the bar once wider player ratings are counted, so they were added by hand.
+- **★ Nudged in:** Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores but clear the bar once wider, all-platform player ratings are counted.
 
 Data pulled September 2026.
 

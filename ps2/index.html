@@ -83,7 +83,7 @@ footer a,details a{color:var(--accent)}
       <li><strong>User score:</strong> GameFAQs and Metacritic user ratings merged on a /5 scale. Metacritic is converted by matching the two crowds on the same games, and games with few votes are pulled toward an average of 3.5.</li>
       <li><strong>Lower bound:</strong> the score we're ~97.5% confident the game is at least at. A game rated 4.5 by 3,000 people beats one rated 4.5 by six. The list is sorted by this; the bar is the same number drawn on a 2.5–4.5 scale.</li>
       <li><strong>RA / Vimm:</strong> ✓ if the game is among the most popular PS2 games on RetroAchievements / Vimm's Lair.</li>
-      <li><strong>★ after a title:</strong> hand-picked (see below).</li>
+      <li><strong>★ after a title:</strong> nudged in using extra data (see below).</li>
     </ul>
     <p style="color:inherit"><strong>What's deliberately left out</strong> (opinionated, so you know what you're not seeing):</p>
     <ul>
@@ -94,9 +94,9 @@ footer a,details a{color:var(--accent)}
       <li><strong>Online-only games whose servers have closed (8):</strong> Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.</li>
       <li><strong>Better on another console (11):</strong> a clearly better version exists on a sibling console, even when emulated, so they're left to that console's list. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.</li>
     </ul>
-    <p style="color:inherit"><strong>Hand-picked games</strong></p>
+    <p style="color:inherit"><strong>Games nudged in using extra data</strong></p>
     <ul>
-      <li><strong>★ Hand-picked:</strong> Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores, but clear the bar once wider player ratings are counted, so they were added by hand.</li>
+      <li><strong>★ Nudged in:</strong> Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores but clear the bar once wider, all-platform player ratings are counted.</li>
     </ul>
     <p>Data collected September 2026. <a href="shortlist.csv">Download as CSV</a>.</p>
   </details>
@@ -149,7 +149,7 @@ function render(){
   });
   const rows=r.map(d=>{
     const w=Math.max(0,Math.min(1,(d[4]-2.5)/2))*60;
-    return `<tr><td>${esc(d[0])}${d[7]?' <span class="pick" title="Hand-picked">★</span>':''}</td><td>${d[1]??'<span class="dim">–</span>'}</td><td class="hide-sm">${fmt.format(d[2])}</td><td class="hide-sm">${d[3].toFixed(2)}</td>`+
+    return `<tr><td>${esc(d[0])}${d[7]?' <span class="pick" title="Nudged in using extra data">★</span>':''}</td><td>${d[1]??'<span class="dim">–</span>'}</td><td class="hide-sm">${fmt.format(d[2])}</td><td class="hide-sm">${d[3].toFixed(2)}</td>`+
       `<td><span class="lb"><i style="width:60px"><b style="width:${w}px"></b></i>${d[4].toFixed(2)}</span></td>`+
       `<td class="c">${d[5]?'<span class="yes" aria-label="Yes">✓</span>':''}</td><td class="c">${d[6]?'<span class="yes" aria-label="Yes">✓</span>':''}</td></tr>`;
   });
