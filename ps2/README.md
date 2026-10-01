@@ -21,17 +21,18 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 
 - **Japanese-text games (1,123):** Japan-only releases that need you to read Japanese, like RPGs, visual novels and text-heavy sims. Import-friendly Japan-only games such as fighters, shooters and racers are kept.
 - **Team and league sports (386):** American football, soccer, basketball, hockey, baseball, cricket, rugby, volleyball and their management sims. Racing, wrestling, boxing, golf, tennis, pool, fishing and extreme sports stay.
-- **Rhythm and music games that need extra hardware (181):** anything built around a guitar, drums, a dance mat, a microphone or a camera. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included.
+- **Rhythm and music games that need extra hardware (181):** anything built around a guitar, drums, a dance mat, a microphone or a camera. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included. EyeToy: Play is left out too, since it needs the EyeToy camera.
 - **Superseded editions (6):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4.
 - **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
 - **Better on another console (11):** a clearly better version exists on a sibling console, even when emulated, so they're left to that console's list. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
 **Games nudged in using extra data** ★
 
-Games that fall just short on PS2-only player scores were added in two ways:
+Games that fall just short on PS2-only player scores were added in three ways:
 
 - **Several signals agree:** at least two of these point the same way: PS2 players rate it 3.8+ (lower bound), wider all-platform player ratings put it at 3.9+, retro players on Vimm's Lair rate it above their average, or critics gave it 75+.
 - **Liked by retro players:** the rest were taken in order of Vimm's Lair player ratings (adjusted for how many people voted), among games PS2 players still rate solidly (lower bound 3.6+).
+- **Critic score from GameRankings only:** WRC II Extreme (82%, 18 reviews) and World Championship Snooker 2004 (80%, 11 reviews) were released in Europe but not the US, so Metacritic never scored them; their critic scores come from GameRankings, mostly from UK outlets.
 
 Data pulled September 2026.
 
@@ -358,6 +359,7 @@ Data pulled September 2026.
 | F1 2001 | 83 | 77 | 3.83 | 3.66 |  |  |
 | Maximo vs. Army of Zin | 83 | 231 | 3.75 | 3.65 |  |  |
 | Secret Weapons Over Normandy | 81 | 62 | 3.84 | 3.65 |  |  |
+| ObsCure ★ | 65 | 267 | 3.74 | 3.65 |  |  |
 | Spider-Man: Friend or Foe ★ | 62 | 330 | 3.73 | 3.65 |  |  |
 | Armored Core 2 ★ | 78 | 341 | 3.73 | 3.64 |  |  |
 | Tony Hawk's American Wasteland ★ | 77 | 519 | 3.71 | 3.64 |  |  |
@@ -378,7 +380,7 @@ Data pulled September 2026.
 | Escape from Monkey Island | 84 | 156 | 3.71 | 3.59 |  |  |
 | WWE SmackDown! vs. RAW | 80 | 551 | 3.65 | 3.59 |  |  |
 | Crash Tag Team Racing |  | 751 | 3.64 | 3.58 | ✓ |  |
-| WRC II Extreme |  | 52 | 3.79 | 3.58 |  |  |
+| WRC II Extreme ★ |  | 52 | 3.79 | 3.58 |  |  |
 | The SpongeBob SquarePants Movie | 75 | 201 | 3.69 | 3.58 | ✓ |  |
 | Unreal Tournament ★ | 77 | 222 | 3.68 | 3.57 |  |  |
 | NASCAR: Dirt to Daytona | 84 | 125 | 3.69 | 3.55 |  |  |
@@ -429,10 +431,9 @@ Data pulled September 2026.
 | Mashed: Drive To Survive | 80 | 19 | 3.54 | 3.21 |  |  |
 | Tiger Woods PGA Tour 2004 | 89 | 100 | 3.37 | 3.21 |  |  |
 | Spider-Man 3 | 50 | 379 | 3.29 | 3.21 |  | ✓ |
-| EyeToy: Play | 80 | 224 | 3.27 | 3.17 |  |  |
 | Crash of the Titans | 70 | 500 | 3.22 | 3.15 | ✓ | ✓ |
 | Shadow the Hedgehog | 45 | 863 | 3.20 | 3.15 | ✓ |  |
-| World Championship Snooker 2004 |  | 12 | 3.47 | 3.08 |  |  |
+| World Championship Snooker 2004 ★ |  | 12 | 3.47 | 3.08 |  |  |
 | World of Outlaws: Sprint Cars 2002 | 80 | 26 | 3.30 | 3.01 |  |  |
 | Wakeboarding Unleashed Featuring Shaun Murray | 83 | 21 | 3.32 | 3.01 |  |  |
 | World Series of Poker 2008: Battle for the Bracelets | 84 | 12 | 3.19 | 2.79 |  |  |
