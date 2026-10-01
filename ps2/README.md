@@ -24,11 +24,11 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **Rhythm and music games that need extra hardware (181):** anything built around a guitar, drums, a dance mat, a microphone or a camera. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included.
 - **Superseded editions (6):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4.
 - **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
+- **Better on another console (11):** a clearly better version exists on a sibling console, even when emulated, so they're left to that console's list. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
-**Hand-picked and moved games**
+**Hand-picked games**
 
 - **★ Hand-picked:** Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores, but clear the bar once wider player ratings are counted, so they were added by hand.
-- **Better on another console:** a few games are left off because a clearly better version exists on a sibling console, even when emulated. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
 Data pulled September 2026.
 
