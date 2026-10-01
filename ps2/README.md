@@ -1,6 +1,6 @@
-# PS2 Shortlist — 355 games
+# PS2 Shortlist — 352 games
 
-A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,625, and the games here are picked from those.
+A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
 **A game makes the list if any one of these is true:**
 
@@ -20,8 +20,13 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 
 - **Japanese-text games (1,123):** Japan-only releases that need you to read Japanese, like RPGs, visual novels and text-heavy sims. Import-friendly Japan-only games such as fighters, shooters and racers are kept.
 - **Team and league sports (386):** American football, soccer, basketball, hockey, baseball, cricket, rugby, volleyball and their management sims. Racing, wrestling, boxing, golf, tennis, pool, fishing and extreme sports stay.
-- **Rhythm and music games (198):** most need a guitar, drums, a dance mat or a microphone. The peripheral-free ones (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5) are left out too, as a matter of taste.
+- **Rhythm and music games that need extra hardware (181):** anything built around a guitar, drums, a dance mat, a microphone or a camera. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included.
 - **Superseded editions (6):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4.
+
+**Hand-picked and moved games**
+
+- **★ Hand-picked:** Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores, but clear the bar once wider player ratings are counted, so they were added by hand.
+- **Better on another console:** a few games are left off because a clearly better version exists on a sibling console, even when emulated. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
 Data pulled September 2026.
 
@@ -87,7 +92,6 @@ Data pulled September 2026.
 | Naruto Shippuden: Ultimate Ninja 5 |  | 534 | 4.17 | 4.11 | ✓ |  |
 | Klonoa 2: Lunatea's Veil | 91 | 690 | 4.17 | 4.11 |  |  |
 | Shin Megami Tensei: Digital Devil Saga | 78 | 1,879 | 4.14 | 4.10 |  |  |
-| Capcom vs. SNK 2: Mark of the Millennium 2001 | 81 | 699 | 4.16 | 4.10 |  |  |
 | Monster Hunter 2 |  | 161 | 4.22 | 4.10 |  |  |
 | Mana Khemia: Alchemists of Al-Revis | 69 | 824 | 4.14 | 4.09 |  |  |
 | Ace Combat 04: Shattered Skies | 89 | 869 | 4.14 | 4.09 |  | ✓ |
@@ -132,7 +136,6 @@ Data pulled September 2026.
 | Melty Blood: Actress Again |  | 129 | 4.15 | 4.01 |  |  |
 | 2nd Super Robot Wars Alpha |  | 77 | 4.18 | 4.01 |  |  |
 | Ultraman Fighting Evolution Rebirth |  | 47 | 4.23 | 4.01 |  |  |
-| Marvel vs. Capcom 2 | 76 | 796 | 4.06 | 4.01 |  | ✓ |
 | Rogue Galaxy | 83 | 1,754 | 4.04 | 4.01 |  | ✓ |
 | Vampire: Darkstalkers Collection |  | 64 | 4.20 | 4.01 |  |  |
 | Sonic Mega Collection Plus | 73 | 780 | 4.06 | 4.00 |  |  |
@@ -200,7 +203,6 @@ Data pulled September 2026.
 | Siren 2 | 74 | 179 | 4.04 | 3.92 |  |  |
 | Romance of the Three Kingdoms XI |  | 151 | 4.05 | 3.92 |  |  |
 | Mobile Suit Gundam: Gundam vs. Zeta Gundam | 57 | 161 | 4.04 | 3.92 |  |  |
-| Tom Clancy's Splinter Cell: Chaos Theory | 87 | 403 | 4.00 | 3.92 |  |  |
 | Star Wars: Battlefront | 82 | 1,079 | 3.97 | 3.92 |  |  |
 | Marvel: Ultimate Alliance | 81 | 741 | 3.98 | 3.92 |  | ✓ |
 | Naruto Shippuden: Ultimate Ninja 4 |  | 520 | 3.99 | 3.92 |  |  |
@@ -224,10 +226,10 @@ Data pulled September 2026.
 | Prince of Persia: Warrior Within | 83 | 898 | 3.94 | 3.89 |  |  |
 | Time Crisis 3 | 81 | 216 | 3.99 | 3.89 |  |  |
 | Grand Theft Auto: Vice City Stories | 75 | 1,290 | 3.93 | 3.89 | ✓ | ✓ |
+| Gitaroo Man | 82 | 203 | 3.99 | 3.88 |  |  |
 | Resident Evil Code: Veronica X |  | 1,965 | 3.92 | 3.88 | ✓ | ✓ |
 | Half-Life | 87 | 676 | 3.94 | 3.88 | ✓ | ✓ |
 | Mercenaries: Playground of Destruction | 84 | 552 | 3.93 | 3.86 |  |  |
-| Sega Sports Tennis | 83 | 174 | 3.98 | 3.86 |  |  |
 | Urban Reign | 60 | 319 | 3.94 | 3.86 | ✓ |  |
 | Spider-Man 2 | 80 | 1,099 | 3.90 | 3.85 | ✓ | ✓ |
 | Tony Hawk's Pro Skater 4 | 94 | 864 | 3.91 | 3.85 | ✓ |  |
@@ -249,6 +251,7 @@ Data pulled September 2026.
 | Crash Twinsanity | 64 | 1,237 | 3.87 | 3.82 | ✓ | ✓ |
 | Castlevania: Curse of Darkness | 74 | 1,109 | 3.87 | 3.82 | ✓ | ✓ |
 | Lego Star Wars: The Video Game | 78 | 903 | 3.87 | 3.82 | ✓ |  |
+| FlatOut 2 ★ | 73 | 295 | 3.91 | 3.82 |  |  |
 | WWE SmackDown! vs. RAW 2006 | 84 | 793 | 3.87 | 3.82 |  |  |
 | 007: Everything or Nothing | 84 | 397 | 3.89 | 3.81 |  |  |
 | Mortal Kombat: Deception |  | 1,089 | 3.86 | 3.81 | ✓ |  |
@@ -263,9 +266,7 @@ Data pulled September 2026.
 | Soul Reaver 2 | 80 | 581 | 3.85 | 3.79 |  |  |
 | Champions of Norrath: Realms of Everquest | 85 | 646 | 3.85 | 3.79 |  |  |
 | Twisted Metal: Black | 91 | 971 | 3.83 | 3.78 |  | ✓ |
-| Max Payne | 80 | 782 | 3.83 | 3.78 |  | ✓ |
-| Tom Clancy's Splinter Cell | 89 | 566 | 3.84 | 3.78 |  |  |
-| Max Payne 2: The Fall of Max Payne | 73 | 462 | 3.85 | 3.77 |  | ✓ |
+| Space Channel 5: Part 2 ★ | 79 | 58 | 3.98 | 3.78 |  |  |
 | Ultimate Spider-Man | 74 | 628 | 3.84 | 3.77 | ✓ | ✓ |
 | Grand Theft Auto: Liberty City Stories | 78 | 1,516 | 3.81 | 3.77 | ✓ | ✓ |
 | Baldur's Gate: Dark Alliance | 87 | 975 | 3.82 | 3.77 | ✓ |  |
@@ -277,13 +278,15 @@ Data pulled September 2026.
 | Psi-Ops: The Mindgate Conspiracy | 84 | 259 | 3.84 | 3.74 |  |  |
 | The Simpsons: Hit & Run | 78 | 1,093 | 3.79 | 3.74 | ✓ | ✓ |
 | .hack//Infection Part 1 |  | 1,482 | 3.78 | 3.74 | ✓ | ✓ |
+| PaRappa the Rapper 2 | 67 | 302 | 3.83 | 3.74 | ✓ |  |
 | Castlevania: Lament of Innocence | 79 | 1,363 | 3.78 | 3.73 | ✓ | ✓ |
 | Ring of Red | 82 | 183 | 3.85 | 3.73 |  |  |
+| Killer7 ★ |  | 290 | 3.83 | 3.73 |  |  |
 | Ape Escape 2 | 82 | 506 | 3.80 | 3.73 | ✓ |  |
 | Manhunt | 76 | 911 | 3.78 | 3.73 | ✓ | ✓ |
 | Sega Genesis Collection | 82 | 287 | 3.82 | 3.72 |  |  |
 | WRC: Rally Evolved | 80 | 59 | 3.92 | 3.72 |  |  |
-| Tom Clancy's Splinter Cell: Pandora Tomorrow | 87 | 346 | 3.81 | 3.72 |  |  |
+| Amplitude | 86 | 191 | 3.83 | 3.72 |  |  |
 | The Sims Bustin' Out | 81 | 362 | 3.80 | 3.72 |  |  |
 | Red Faction | 88 | 653 | 3.78 | 3.72 |  |  |
 | War of the Monsters | 80 | 287 | 3.81 | 3.72 |  |  |
@@ -304,7 +307,6 @@ Data pulled September 2026.
 | Freedom Fighters | 81 | 316 | 3.77 | 3.68 |  |  |
 | Call of Duty 3 | 82 | 587 | 3.74 | 3.68 |  |  |
 | TOCA Race Driver 3 | 82 | 116 | 3.81 | 3.67 |  |  |
-| Tom Clancy's Splinter Cell: Double Agent | 84 | 270 | 3.76 | 3.67 |  |  |
 | MotoGP 3 | 80 | 52 | 3.87 | 3.66 |  |  |
 | Red Dead Revolver | 73 | 601 | 3.72 | 3.66 | ✓ |  |
 | NASCAR 2005: Chase for the Cup | 87 | 86 | 3.82 | 3.66 |  |  |
@@ -338,7 +340,6 @@ Data pulled September 2026.
 | Aggressive Inline | 85 | 111 | 3.64 | 3.49 |  |  |
 | Spider-Man | 76 | 602 | 3.55 | 3.49 |  | ✓ |
 | Sonic Heroes | 64 | 1,163 | 3.52 | 3.48 | ✓ |  |
-| Crazy Taxi | 80 | 374 | 3.55 | 3.47 |  |  |
 | ATV Offroad Fury 2 | 82 | 317 | 3.55 | 3.46 |  |  |
 | Fight Night Round 2 | 88 | 106 | 3.61 | 3.46 |  |  |
 | Manhunt 2 | 67 | 364 | 3.54 | 3.46 |  | ✓ |
@@ -362,6 +363,7 @@ Data pulled September 2026.
 | Brothers in Arms: Road to Hill 30 | 82 | 130 | 3.47 | 3.34 |  |  |
 | Dave Mirra Freestyle BMX 2 | 81 | 105 | 3.49 | 3.34 |  |  |
 | Fight Night Round 3 | 84 | 190 | 3.45 | 3.33 |  |  |
+| Frequency | 83 | 155 | 3.46 | 3.33 |  |  |
 | NASCAR Heat 2002 | 81 | 44 | 3.56 | 3.33 |  |  |
 | Broken Sword: The Sleeping Dragon | 82 | 87 | 3.48 | 3.32 |  |  |
 | Star Wars: Jedi Starfighter | 81 | 210 | 3.42 | 3.31 |  |  |

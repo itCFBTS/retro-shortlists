@@ -8,7 +8,7 @@ Each console's full library, narrowed to the games worth your time: picked by a 
 
 | Console | Games | List |
 |---|---:|---|
-| PlayStation 2 | 355 | [ps2/](ps2/) |
+| PlayStation 2 | 352 | [ps2/](ps2/) |
 
 ## How a game makes the list
 
