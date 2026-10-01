@@ -34,7 +34,7 @@ Games that fall just short on PS2-only player scores were added in three ways:
 - **Liked by retro players:** the rest were taken in order of Vimm's Lair player ratings (adjusted for how many people voted), among games PS2 players still rate solidly (lower bound 3.6+).
 - **Critic score from GameRankings only:** WRC II Extreme (82%, 18 reviews) and World Championship Snooker 2004 (80%, 11 reviews) were released in Europe but not the US, so Metacritic never scored them; their critic scores come from GameRankings, mostly from UK outlets.
 
-Data pulled September 2026.
+Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) for ROM managers.
 
 | Title | Metascore | Votes | User score | Lower bound | RA | Vimm |
 |---|---:|---:|---:|---:|:-:|:-:|

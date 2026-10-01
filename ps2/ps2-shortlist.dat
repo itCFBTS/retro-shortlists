@@ -1,0 +1,2062 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
+		<description>PS2 Shortlist (400 games, 404 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<version>2026-06-15 03-41-38</version>
+		<author>Retro Shortlists (derived from redump.org)</author>
+		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Final Fantasy X (USA, Canada)">
+		<category>Games</category>
+		<description>Final Fantasy X (USA, Canada)</description>
+		<rom name="Final Fantasy X (USA, Canada).iso" size="4508221440" crc="9ad80720" md5="57998b60010b7583c423d5b2142ad1a3" sha1="42ab110b759e600365b99612e76cf51ef3e95901" />
+	</game>
+	<game name="Final Fantasy X-2 (USA, Canada)">
+		<category>Games</category>
+		<description>Final Fantasy X-2 (USA, Canada)</description>
+		<rom name="Final Fantasy X-2 (USA, Canada).iso" size="3982229504" crc="874b3062" md5="6f6e0fafecdbdd231c7178e39ac476b2" sha1="cdedba9ebb6b02ec2b473305bedf8eb036019413" />
+	</game>
+	<game name="Metal Gear Solid 3 - Snake Eater (USA)">
+		<category>Games</category>
+		<description>Metal Gear Solid 3 - Snake Eater (USA)</description>
+		<rom name="Metal Gear Solid 3 - Snake Eater (USA).iso" size="4558848000" crc="ab641e5c" md5="10310a8e67b7f6c43616e0886bdc973c" sha1="818e30d52feaf134ecb0ccc306efebc16022f5e8" />
+	</game>
+	<game name="Tekken 4 (USA)">
+		<category>Games</category>
+		<description>Tekken 4 (USA)</description>
+		<rom name="Tekken 4 (USA).iso" size="2698346496" crc="7fa500e6" md5="d23a54b2375fb5e30d9399e188f353d6" sha1="afac756d0ec06e86f1b69f7db710cbe82e9835d7" />
+	</game>
+	<game name="Disgaea - Hour of Darkness (USA)">
+		<category>Games</category>
+		<description>Disgaea - Hour of Darkness (USA)</description>
+		<rom name="Disgaea - Hour of Darkness (USA).iso" size="1236893696" crc="823a70de" md5="ea4323c1560059259cf6a718ea0d299a" sha1="886cdff2662ba74b5bcbb2f2df42a967d11dcb68" />
+	</game>
+	<game name="Shin Megami Tensei - Digital Devil Saga (USA)">
+		<category>Games</category>
+		<description>Shin Megami Tensei - Digital Devil Saga (USA)</description>
+		<rom name="Shin Megami Tensei - Digital Devil Saga (USA).iso" size="4539547648" crc="e1567b57" md5="ae4330140ef56f9eb1c689b9bb383401" sha1="f022cc27d2c333db64f1f1a46b312aafc5ce632e" />
+	</game>
+	<game name="Xenosaga Episode I - Der Wille zur Macht (USA)">
+		<category>Games</category>
+		<description>Xenosaga Episode I - Der Wille zur Macht (USA)</description>
+		<rom name="Xenosaga Episode I - Der Wille zur Macht (USA).iso" size="8468299776" crc="3d9843e9" md5="542ecb80b46c710664d3c9eb1547692e" sha1="a332b6fc32be58a20751049a2d78ef8a6ef83b2a" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (USA)">
+		<category>Games</category>
+		<description>Resident Evil - Code - Veronica X (USA)</description>
+		<rom name="Resident Evil - Code - Veronica X (USA).iso" size="1883996160" crc="f979efa5" md5="0f78c6d2103114a37fa3f7a2b57dd85f" sha1="004659e31af4293fe6c0a57e20178a9cc8a5fdac" />
+	</game>
+	<game name="Metal Gear Solid 2 - Sons of Liberty (USA)">
+		<category>Games</category>
+		<description>Metal Gear Solid 2 - Sons of Liberty (USA)</description>
+		<rom name="Metal Gear Solid 2 - Sons of Liberty (USA).iso" size="4620910592" crc="576e3d2c" md5="9f4a571b5bd78bcba19b2a4e8f8d7359" sha1="f5ea9c94b0b1429e3608bffead48193c206f778c" />
+	</game>
+	<game name="Onimusha 2 - Samurai's Destiny (USA)">
+		<category>Games</category>
+		<description>Onimusha 2 - Samurai's Destiny (USA)</description>
+		<rom name="Onimusha 2 - Samurai's Destiny (USA).iso" size="3785392128" crc="70d99486" md5="5b2ca7551299185cfb1379866d966703" sha1="9e338cf478cef5a2851bf383a681c15ee5cda9c2" />
+	</game>
+	<game name="Devil May Cry (USA)">
+		<category>Games</category>
+		<description>Devil May Cry (USA)</description>
+		<rom name="Devil May Cry (USA).iso" size="4698767360" crc="01e8eac9" md5="1bd66d7c661ea9f1d8d9a0dd4eed6d40" sha1="591d2febcfe23969fa2e09da92f1e4c149c314ba" />
+	</game>
+	<game name="Shadow of the Colossus (USA)">
+		<category>Games</category>
+		<description>Shadow of the Colossus (USA)</description>
+		<rom name="Shadow of the Colossus (USA).iso" size="2693955584" crc="2ed81371" md5="6d4a7a9d9c139a9d93db37538ba6d984" sha1="bd5dcb38bc1a08b261accd1b53894ee4e934788f" />
+	</game>
+	<game name="God of War (USA)">
+		<category>Games</category>
+		<description>God of War (USA)</description>
+		<rom name="God of War (USA).iso" size="8522792960" crc="587635e4" md5="7dd68e0f5964abcf8282fc4e1ad41400" sha1="8dabdfd1fbda148f253d590f86839a03553410c3" />
+	</game>
+	<game name="Kingdom Hearts (USA)">
+		<category>Games</category>
+		<description>Kingdom Hearts (USA)</description>
+		<rom name="Kingdom Hearts (USA).iso" size="3041132544" crc="d231ed24" md5="3cf7399001c46a2b826f72625b24e6eb" sha1="fb14a4c785106c1b024d5afd712cdf9ff516802b" />
+	</game>
+	<game name="Ico (USA)">
+		<category>Games</category>
+		<description>Ico (USA)</description>
+		<rom name="Ico (USA).cue" size="75" crc="74266efd" md5="1789f54a2f8579470f5ae84c4f9f7eed" sha1="2f4295e78a686d7e157de5b7eab2b362e07dc529" />
+		<rom name="Ico (USA).bin" size="638640912" crc="90ad6845" md5="12e5df728050e253bb455e49abf8ef24" sha1="ade3d3ffab406d97d258a8f8afdd7a11b109e5e3" />
+	</game>
+	<game name="Lara Croft Tomb Raider - Anniversary (USA)">
+		<category>Games</category>
+		<description>Lara Croft Tomb Raider - Anniversary (USA)</description>
+		<rom name="Lara Croft Tomb Raider - Anniversary (USA).iso" size="4698570752" crc="80955c2c" md5="fd53e7606373ddb30c5420fcb0faa320" sha1="35920b3f0bab01cb33fa4ac3d62f8ea738a4ec18" />
+	</game>
+	<game name="Ace Combat 04 - Shattered Skies (USA)">
+		<category>Games</category>
+		<description>Ace Combat 04 - Shattered Skies (USA)</description>
+		<rom name="Ace Combat 04 - Shattered Skies (USA).iso" size="3554705408" crc="3462d403" md5="8c7cbadb78b2eebeabbf546e0c1d0372" sha1="aaa707214aea7f8f9c2904c4b5e00c372c943533" />
+	</game>
+	<game name="Guilty Gear X (USA)">
+		<category>Games</category>
+		<description>Guilty Gear X (USA)</description>
+		<rom name="Guilty Gear X (USA).cue" size="85" crc="8cbaacdb" md5="94226e38db05ed5a8e58893358542bc1" sha1="f6ca58901f5cad589351138aab852dcddb84ea24" />
+		<rom name="Guilty Gear X (USA).bin" size="751894416" crc="bbeab9f2" md5="911cf5e792b7839423928af5dc8bf8e7" sha1="0aa7078bc0449c0a9d23eec13f4ecf2b6fcc3373" />
+	</game>
+	<game name="Maximo - Ghosts to Glory (USA)">
+		<category>Games</category>
+		<description>Maximo - Ghosts to Glory (USA)</description>
+		<rom name="Maximo - Ghosts to Glory (USA).cue" size="96" crc="294e43f4" md5="3be348d8536bf2d2c76177a7eafd030e" sha1="9d9f194e7d9a449f8b7052829709f22aae90d9b4" />
+		<rom name="Maximo - Ghosts to Glory (USA).bin" size="720765696" crc="78422b6d" md5="1054cc7a8e455ee5e7c8f01d3fada398" sha1="a6a16da4a87b23615fd2da130762b8c57e237f2c" />
+	</game>
+	<game name="Suikoden III (USA)">
+		<category>Games</category>
+		<description>Suikoden III (USA)</description>
+		<rom name="Suikoden III (USA).iso" size="4295000064" crc="ad692e43" md5="904a882671d0c1f1b8cc46c51ef473ff" sha1="e6d5afb003904c34fa18306c96e2982d92935490" />
+	</game>
+	<game name="God of War II (USA)">
+		<category>Games</category>
+		<description>God of War II (USA)</description>
+		<rom name="God of War II (USA).iso" size="8533671936" crc="e271930d" md5="46fa5dfa94ba6259f37001bfcdb95a6a" sha1="1dcb9adde645d06bb2b4747070664bfdd51bb287" />
+	</game>
+	<game name="Odin Sphere (USA)">
+		<category>Games</category>
+		<description>Odin Sphere (USA)</description>
+		<rom name="Odin Sphere (USA).iso" size="3484385280" crc="27e773bc" md5="d4c24e062a422767f1f9b630a2cfd859" sha1="2adb1295bd106d69d01180747c960827de0bc294" />
+	</game>
+	<game name="Grand Theft Auto III (USA, Canada)">
+		<category>Games</category>
+		<description>Grand Theft Auto III (USA, Canada)</description>
+		<rom name="Grand Theft Auto III (USA, Canada).iso" size="4640997376" crc="431c2b33" md5="c4c935cc566a32a81af471fef6cde741" sha1="c053ffcbe14d7176608a3d4c113319dfacf91391" />
+	</game>
+	<game name="Final Fantasy XII (USA)">
+		<category>Games</category>
+		<description>Final Fantasy XII (USA)</description>
+		<rom name="Final Fantasy XII (USA).iso" size="4066508800" crc="bea84100" md5="94de2953397236dae94ac9a0dd80b6c6" sha1="68d76e464e95625cc701ca88a251b34d04931cdf" />
+	</game>
+	<game name="Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1)</description>
+		<rom name="Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1).iso" size="3923804160" crc="cfd0d722" md5="a1fa0f0388b19220cb1115c998600586" sha1="30a887e6942cef57099bc9c84de5b39974e62f9a" />
+	</game>
+	<game name="Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2)</description>
+		<rom name="Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).iso" size="4515954688" crc="1855b442" md5="3bdd9a387aa259d11f39d81158b1972d" sha1="9902a798f2f4a7d7a4af6078ec3e5ec5107d5450" />
+	</game>
+	<game name="Kingdom Hearts II (USA)">
+		<category>Games</category>
+		<description>Kingdom Hearts II (USA)</description>
+		<rom name="Kingdom Hearts II (USA).iso" size="3966500864" crc="480fff02" md5="555a44810ada3c45a1333203b43f8bb3" sha1="7e57081735d82fd84be7f79ab05ad3e795bc7e5e" />
+	</game>
+	<game name="Dragon Quest VIII - Journey of the Cursed King (USA)">
+		<category>Games</category>
+		<description>Dragon Quest VIII - Journey of the Cursed King (USA)</description>
+		<rom name="Dragon Quest VIII - Journey of the Cursed King (USA).iso" size="4180148224" crc="c12732ac" md5="7c4aacc0bb5108b9e6e12734c0f84967" sha1="a8410e3f5cbca3aaf7445c3babfce29621e37b2d" />
+	</game>
+	<game name="WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)">
+		<category>Games</category>
+		<description>WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)</description>
+		<rom name="WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).iso" size="3691479040" crc="c711ad65" md5="ea2c948b508aa4eff466772af4de7d25" sha1="0de0fc4c4e13ba278f070170fa663d42edd2835c" />
+	</game>
+	<game name="Star Ocean - Till the End of Time (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Star Ocean - Till the End of Time (USA) (Disc 1)</description>
+		<rom name="Star Ocean - Till the End of Time (USA) (Disc 1).iso" size="4658429952" crc="42d02704" md5="1c75444663a84d71d5a89e678eff5aed" sha1="efddee8f359738887a688847d80d32bbf10a059f" />
+	</game>
+	<game name="Star Ocean - Till the End of Time (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Star Ocean - Till the End of Time (USA) (Disc 2)</description>
+		<rom name="Star Ocean - Till the End of Time (USA) (Disc 2).iso" size="4658692096" crc="1974e922" md5="de739cfbdbed8cb1095bbd456fedaffc" sha1="e9f7a686072bc414758e683165d3c786d4b32960" />
+	</game>
+	<game name="Soulcalibur II (USA)">
+		<category>Games</category>
+		<description>Soulcalibur II (USA)</description>
+		<rom name="Soulcalibur II (USA).iso" size="4343595008" crc="69f10765" md5="a303fbef9858a5049f5c3414008c6b61" sha1="198c629715c4ad056cd90f7916d8bb04f0cebce5" />
+	</game>
+	<game name="Star Wars - Battlefront (USA)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront (USA)</description>
+		<rom name="Star Wars - Battlefront (USA).iso" size="4697260032" crc="12a56268" md5="3d8e481e3e78b9e2af6b493857db6e47" sha1="99d1cfed9237eee823d6595afefb7fafa2ee9cb1" />
+	</game>
+	<game name="Metal Slug 3 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Metal Slug 3 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Metal Slug 3 (Europe) (En,Fr,De,Es,It).iso" size="1679687680" crc="ecc9d5f7" md5="9bb62496c49707e3e9f8f22992765ed0" sha1="1b82fe38569b0962fd1648f3d83436c374877384" />
+	</game>
+	<game name="Lord of the Rings, The - The Two Towers (USA)">
+		<category>Games</category>
+		<description>Lord of the Rings, The - The Two Towers (USA)</description>
+		<rom name="Lord of the Rings, The - The Two Towers (USA).iso" size="4116250624" crc="7723ab98" md5="2be0d4a7730fdff8d4eb2f95ac7a7bc8" sha1="f6a63934521febb2e0c83d78510dfe8e78bbf214" />
+	</game>
+	<game name="Unreal Tournament (USA)">
+		<category>Games</category>
+		<description>Unreal Tournament (USA)</description>
+		<rom name="Unreal Tournament (USA).cue" size="89" crc="98a3304d" md5="11dc548e3cfd6d93482b28f7f3f9093b" sha1="ea7dd8d15395db883ef72bcebe84117d329d2695" />
+		<rom name="Unreal Tournament (USA).bin" size="536328912" crc="dc4d81bf" md5="1cdca86d2963697cd6ae22c99b8bab76" sha1="b867571ab0dbb6fbbeafd149c562a99c10422047" />
+	</game>
+	<game name="Quake III - Revolution (USA)">
+		<category>Games</category>
+		<description>Quake III - Revolution (USA)</description>
+		<rom name="Quake III - Revolution (USA).cue" size="94" crc="09d5bb31" md5="b9eeb555c94abc9336261a59d1490808" sha1="d33fd75e764a1dcb42b945c7d372555927e2d617" />
+		<rom name="Quake III - Revolution (USA).bin" size="745555776" crc="2c8aaaee" md5="16efd1e8e7bb6018a3637ff81b6393ef" sha1="6aff2669048382c44d11e6074d9482caedc0dd9a" />
+	</game>
+	<game name="Mega Man X Collection (USA)">
+		<category>Games</category>
+		<description>Mega Man X Collection (USA)</description>
+		<rom name="Mega Man X Collection (USA).iso" size="2919923712" crc="96670557" md5="c11aa78f53581f4c25082c9a96b9dc74" sha1="f0266a12a91f63d19245dbd087811e31ed601f4f" />
+	</game>
+	<game name="Mega Man X - Command Mission (USA)">
+		<category>Games</category>
+		<description>Mega Man X - Command Mission (USA)</description>
+		<rom name="Mega Man X - Command Mission (USA).iso" size="3138748416" crc="ff3bf301" md5="31a58c12ce2e8c05f297fdc3c392bc54" sha1="a16083b1d36714f3a7f1b8a611a5e772567b0d21" />
+	</game>
+	<game name="Need for Speed - Carbon (USA, Canada)">
+		<category>Games</category>
+		<description>Need for Speed - Carbon (USA, Canada)</description>
+		<rom name="Need for Speed - Carbon (USA, Canada).iso" size="3698720768" crc="15bb997c" md5="bd7cb624a86abe7c185090005ae15564" sha1="327d54e6dec66b94640e946992ca022921b832b6" />
+	</game>
+	<game name="Burnout 3 - Takedown (USA, Canada)">
+		<category>Games</category>
+		<description>Burnout 3 - Takedown (USA, Canada)</description>
+		<rom name="Burnout 3 - Takedown (USA, Canada).iso" size="2867822592" crc="70f0e224" md5="53d793704ac0a263546d05893804d0cc" sha1="11a7f335a37d2f3f5c13b967f3072c84f8eded02" />
+	</game>
+	<game name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It).iso" size="5844074496" crc="730e498f" md5="7806835609b22ce0e45c2bb5e5548504" sha1="4c174c37d6b392157d4be5eaf7170908dfc7ab54" />
+	</game>
+	<game name="Gran Turismo 3 - A-Spec (USA) (v1.10)">
+		<category>Games</category>
+		<description>Gran Turismo 3 - A-Spec (USA) (v1.10)</description>
+		<rom name="Gran Turismo 3 - A-Spec (USA) (v1.10).iso" size="3878649856" crc="1d364f0a" md5="05e47ea6aee8da89289c5567c742db8d" sha1="8130fa32f4d873a104d2b64f92def14d6ea596ac" />
+	</game>
+	<game name="Midnight Club II (USA)">
+		<category>Games</category>
+		<description>Midnight Club II (USA)</description>
+		<rom name="Midnight Club II (USA).iso" size="3243900928" crc="14af49a7" md5="dacaf3d64668f5373cb557b9bfc7914d" sha1="a7a7c9b01240f0cba66990a70bde5f88fb075b4b" />
+	</game>
+	<game name="Burnout Dominator (USA, Canada)">
+		<category>Games</category>
+		<description>Burnout Dominator (USA, Canada)</description>
+		<rom name="Burnout Dominator (USA, Canada).iso" size="4218617856" crc="b86c5f50" md5="0ba329d070cd6179df80b4197df6b17e" sha1="6eb7358c00fe6fc0d1141e5e58a20680a6cfc1c0" />
+	</game>
+	<game name="Valkyrie Profile 2 - Silmeria (USA)">
+		<category>Games</category>
+		<description>Valkyrie Profile 2 - Silmeria (USA)</description>
+		<rom name="Valkyrie Profile 2 - Silmeria (USA).iso" size="4661706752" crc="cabbe0aa" md5="0b7d4e1c924d43f2e84d48b5a7017679" sha1="406140de9924f5644efb52cad9f360b2c3533fed" />
+	</game>
+	<game name="Sega Genesis Collection (USA)">
+		<category>Games</category>
+		<description>Sega Genesis Collection (USA)</description>
+		<rom name="Sega Genesis Collection (USA).iso" size="3933863936" crc="cc0ae3a8" md5="7a74531ca0f9da1e4917df7b22cb5fdd" sha1="9396ba6e2d9c0db24e1a2a50618a7fbcac13054e" />
+	</game>
+	<game name="Hyper Street Fighter II - The Anniversary Edition (Europe)">
+		<category>Games</category>
+		<description>Hyper Street Fighter II - The Anniversary Edition (Europe)</description>
+		<rom name="Hyper Street Fighter II - The Anniversary Edition (Europe).iso" size="2488598528" crc="c27a8b15" md5="7e728fdebb77ab6b6683b783810fd629" sha1="b6bbdc82c4f8d14fbb5760046d70ac1cb8277d2d" />
+	</game>
+	<game name="ATV Offroad Fury 2 (USA) (v2.00)">
+		<category>Games</category>
+		<description>ATV Offroad Fury 2 (USA) (v2.00)</description>
+		<rom name="ATV Offroad Fury 2 (USA) (v2.00).iso" size="4487446528" crc="1d0891b9" md5="ae99bb7daff6ad94cbd4e58ed2566c9a" sha1="5c17d8ac5853ee418f3a433b38e0067426f4f997" />
+	</game>
+	<game name="Tales of Destiny - Director's Cut (Japan, Asia)">
+		<category>Games</category>
+		<description>Tales of Destiny - Director's Cut (Japan, Asia)</description>
+		<rom name="Tales of Destiny - Director's Cut (Japan, Asia).iso" size="4479647744" crc="340b189d" md5="bd5a9c4c95814acf24593d60d36909df" sha1="289587a819d533180d8e067d5490b67aa590a884" />
+	</game>
+	<game name="Viewtiful Joe 2 (USA)">
+		<category>Games</category>
+		<description>Viewtiful Joe 2 (USA)</description>
+		<rom name="Viewtiful Joe 2 (USA).iso" size="1228832768" crc="a19e1470" md5="01e2dff870f7e436505555dbb4db37e4" sha1="ee178a1291facd9050341c818aeb87dc22d762b7" />
+	</game>
+	<game name="Medal of Honor - Frontline (USA)">
+		<category>Games</category>
+		<description>Medal of Honor - Frontline (USA)</description>
+		<rom name="Medal of Honor - Frontline (USA).iso" size="3367927808" crc="8f920375" md5="127be723c816f0a46a60372fe1b5630f" sha1="4fca933293edc2208c5a1a6b84dbea1065ecae37" />
+	</game>
+	<game name="Tekken Tag Tournament (USA) (v2.00)">
+		<category>Games</category>
+		<description>Tekken Tag Tournament (USA) (v2.00)</description>
+		<rom name="Tekken Tag Tournament (USA) (v2.00).cue" size="101" crc="f7d2825a" md5="c4e8b60b9b1f6a5c4a43e8608b3d3061" sha1="30d6bc05b1a249e4e30dd010f1e2bc1f8417788a" />
+		<rom name="Tekken Tag Tournament (USA) (v2.00).bin" size="728143920" crc="940d7b23" md5="d17fd4d9193168e0f0431fb24cef199a" sha1="574901545805b543503148a1f1b9c286b13dac54" />
+	</game>
+	<game name="Gauntlet - Dark Legacy (USA)">
+		<category>Games</category>
+		<description>Gauntlet - Dark Legacy (USA)</description>
+		<rom name="Gauntlet - Dark Legacy (USA).cue" size="94" crc="aff25511" md5="d0eaf8224140245378d5fa9c7fac8e7e" sha1="228f149cc2734d5ce311392a7522402508a9db05" />
+		<rom name="Gauntlet - Dark Legacy (USA).bin" size="712545456" crc="dd1b3f41" md5="2adcb98c3931e83ec80bdfa30635ed6d" sha1="e78bac058ff8d8f0f00337bed368bbfd05dfa31c" />
+	</game>
+	<game name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Prince of Persia - The Sands of Time (USA) (En,Fr,Es)</description>
+		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es).iso" size="2409725952" crc="d9e52d16" md5="0f10adf3c83adae47e249814c6090aa6" sha1="75e42f5e1ecf31014c4b725038465799209f57db" />
+	</game>
+	<game name="Red Faction II (USA)">
+		<category>Games</category>
+		<description>Red Faction II (USA)</description>
+		<rom name="Red Faction II (USA).iso" size="2228486144" crc="9130d191" md5="0ca7aa78a63c998dc35cf8539f1b6b65" sha1="f40b0247ec16306feddde0bc5b80f761e0a211d3" />
+	</game>
+	<game name="Dot Hack G.U. Vol. 3 - Redemption (USA)">
+		<category>Games</category>
+		<description>Dot Hack G.U. Vol. 3 - Redemption (USA)</description>
+		<rom name="Dot Hack G.U. Vol. 3 - Redemption (USA).iso" size="4332748800" crc="84c91420" md5="51f76becfb32d4a31a01eb3320843134" sha1="b678ee924e9ea3147071fc90e799eae29775cf0b" />
+	</game>
+	<game name="Dragon Ball Z - Budokai 3 (USA)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Budokai 3 (USA)</description>
+		<rom name="Dragon Ball Z - Budokai 3 (USA).iso" size="4657807360" crc="8a9c98d3" md5="225b94da75fa16da774e4fcf18f82d0f" sha1="dd7bdb1c1f27eca8135487565b19406b4d181859" />
+	</game>
+	<game name="SOCOM - U.S. Navy SEALs - Combined Assault (USA)">
+		<category>Games</category>
+		<description>SOCOM - U.S. Navy SEALs - Combined Assault (USA)</description>
+		<rom name="SOCOM - U.S. Navy SEALs - Combined Assault (USA).iso" size="4021190656" crc="bcffc950" md5="14debb0ef1bf99dd1b0ca83631c4b49c" sha1="2f2c325a0c5ede699893854cea5a6a3c1b0ba8ca" />
+	</game>
+	<game name="Mortal Kombat - Armageddon (USA)">
+		<category>Games</category>
+		<description>Mortal Kombat - Armageddon (USA)</description>
+		<rom name="Mortal Kombat - Armageddon (USA).iso" size="4366794752" crc="da3f4f6e" md5="d26462b1c0d43394b92e3eee72009c1e" sha1="8ea8c20dd75ae333915f4ca35754ecbf8b48ebd9" />
+	</game>
+	<game name="Mortal Kombat - Shaolin Monks (USA)">
+		<category>Games</category>
+		<description>Mortal Kombat - Shaolin Monks (USA)</description>
+		<rom name="Mortal Kombat - Shaolin Monks (USA).iso" size="3495460864" crc="bf58984f" md5="29814fa04d11ed605a89f3b820e756b0" sha1="85241571d5c6c53e04d5089d3496272b70ee2118" />
+	</game>
+	<game name="Mortal Kombat - Deception (USA)">
+		<category>Games</category>
+		<description>Mortal Kombat - Deception (USA)</description>
+		<rom name="Mortal Kombat - Deception (USA).iso" size="4677500928" crc="fd7995c4" md5="30475534206060c42c6bdbc56f6b278d" sha1="e6076a4c3d5453b0797699747b4ea771226f8749" />
+	</game>
+	<game name="Ace Combat Zero - The Belkan War (USA)">
+		<category>Games</category>
+		<description>Ace Combat Zero - The Belkan War (USA)</description>
+		<rom name="Ace Combat Zero - The Belkan War (USA).iso" size="4240605184" crc="f7e98eeb" md5="61c016fad9d992dee8dcb0aec2a6c31f" sha1="e72c3d5fd27bcd6c71cdd1a5bee26956bc625e43" />
+	</game>
+	<game name="Ace Combat 5 - The Unsung War (USA) (En,Ja)">
+		<category>Games</category>
+		<description>Ace Combat 5 - The Unsung War (USA) (En,Ja)</description>
+		<rom name="Ace Combat 5 - The Unsung War (USA) (En,Ja).iso" size="4440719360" crc="aa955654" md5="8fcc89eaf8a5481bce65ef713d42a6c1" sha1="b0823e719afac1d6b9c4ce1697bd6b8546382e8d" />
+	</game>
+	<game name="Radiata Stories (USA)">
+		<category>Games</category>
+		<description>Radiata Stories (USA)</description>
+		<rom name="Radiata Stories (USA).iso" size="4600791040" crc="76870ee5" md5="1e497abb0c59cac8627d98b82e4148f0" sha1="a2fad0c752c51ac693c32852d6d2223c09bd2456" />
+	</game>
+	<game name="Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)">
+		<category>Games</category>
+		<description>Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)</description>
+		<rom name="Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan).iso" size="4285595648" crc="91b96589" md5="da1cfc296bd896e88dddcccc374d4b08" sha1="54f96270425ce1f40acc0f949b3ae43d779485cd" />
+	</game>
+	<game name="Shin Megami Tensei - Digital Devil Saga 2 (USA)">
+		<category>Games</category>
+		<description>Shin Megami Tensei - Digital Devil Saga 2 (USA)</description>
+		<rom name="Shin Megami Tensei - Digital Devil Saga 2 (USA).iso" size="4677500928" crc="8ad5fba5" md5="6da339563e7d8f14033faa18df6c2962" sha1="07e38497b8fbea50fb6da6313bfd62d4090fb693" />
+	</game>
+	<game name="Disgaea 2 - Cursed Memories (USA)">
+		<category>Games</category>
+		<description>Disgaea 2 - Cursed Memories (USA)</description>
+		<rom name="Disgaea 2 - Cursed Memories (USA).iso" size="1428619264" crc="5ac689a2" md5="c7619f588fb8f7faaee072f7064a30c1" sha1="149369943f17ce3635eb2bfd72c19b134233bc9d" />
+	</game>
+	<game name="Soul Nomad &amp; the World Eaters (USA)">
+		<category>Games</category>
+		<description>Soul Nomad &amp; the World Eaters (USA)</description>
+		<rom name="Soul Nomad &amp; the World Eaters (USA).iso" size="1927544832" crc="2f715c46" md5="847dfbf2df51d12c9b2a11d4763891a8" sha1="b1341c93c33aef26e9205f389b2f84d6e78f9cab" />
+	</game>
+	<game name="Onimusha 3 - Demon Siege (USA)">
+		<category>Games</category>
+		<description>Onimusha 3 - Demon Siege (USA)</description>
+		<rom name="Onimusha 3 - Demon Siege (USA).iso" size="4683857920" crc="367dce86" md5="52f6e0556ef477b64c1c6a6226858569" sha1="dc08b4737dfd328f98a812434fbc974c85c93573" />
+	</game>
+	<game name="Gitaroo Man (USA)">
+		<category>Games</category>
+		<description>Gitaroo Man (USA)</description>
+		<rom name="Gitaroo Man (USA).iso" size="2865823744" crc="c2dc3f97" md5="26f4b74f8331528b5318ddd214b1eda5" sha1="bb6280d94bc23ae56ef66401c73793c9632f207d" />
+	</game>
+	<game name="Onimusha - Warlords (USA)">
+		<category>Games</category>
+		<description>Onimusha - Warlords (USA)</description>
+		<rom name="Onimusha - Warlords (USA).iso" size="4043276288" crc="f8ff73be" md5="95ba88f008047afe383438de812d947d" sha1="44b17cc016ec0da641dbda5102eb66f0f294bce3" />
+	</game>
+	<game name="Onimusha - Dawn of Dreams (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Onimusha - Dawn of Dreams (USA) (Disc 1)</description>
+		<rom name="Onimusha - Dawn of Dreams (USA) (Disc 1).iso" size="4695425024" crc="89b18867" md5="185e2d38829166c49892b94f103c7519" sha1="b50c28e1e5fa5565216baba1fd08dafccedac698" />
+	</game>
+	<game name="Onimusha - Dawn of Dreams (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Onimusha - Dawn of Dreams (USA) (Disc 2)</description>
+		<rom name="Onimusha - Dawn of Dreams (USA) (Disc 2).iso" size="4695425024" crc="39fdea1c" md5="ad820d278f150a005c826a9572676389" sha1="553f047762589d4f4abb5b250191a94a040efdc2" />
+	</game>
+	<game name="Drakengard (USA)">
+		<category>Games</category>
+		<description>Drakengard (USA)</description>
+		<rom name="Drakengard (USA).iso" size="4401659904" crc="73a0e68f" md5="300f66970511bf6133cf3af11ffd2a13" sha1="3d63d8e2a5e46790befcc1f1e4486783f54d0667" />
+	</game>
+	<game name="Fatal Frame (USA)">
+		<category>Games</category>
+		<description>Fatal Frame (USA)</description>
+		<rom name="Fatal Frame (USA).iso" size="2756706304" crc="0d54f7a4" md5="b4cba3dfbc03b87f8843e1c2a5945916" sha1="574e55d2b47955d64db21071469176698de9fb64" />
+	</game>
+	<game name="Resident Evil 4 (USA)">
+		<category>Games</category>
+		<description>Resident Evil 4 (USA)</description>
+		<rom name="Resident Evil 4 (USA).iso" size="4435836928" crc="12c8b35c" md5="84330d2465d55ae391000a475ef4ac76" sha1="319feec780c4cc5a4174033951c0cc98b53db72a" />
+	</game>
+	<game name="Phantom Brave (USA)">
+		<category>Games</category>
+		<description>Phantom Brave (USA)</description>
+		<rom name="Phantom Brave (USA).iso" size="1228865536" crc="80380c7b" md5="ab980b90c3c618034e8f65596ea147a2" sha1="2f27789eec06be7aa45915ac5635201afdffd784" />
+	</game>
+	<game name="Tales of the Abyss (USA)">
+		<category>Games</category>
+		<description>Tales of the Abyss (USA)</description>
+		<rom name="Tales of the Abyss (USA).iso" size="4048191488" crc="17988afa" md5="7629b262da685bc46fcb1e6d5fc831e0" sha1="ee645c3a336cebb2a087bcbf7ef47f8d437d5533" />
+	</game>
+	<game name="Ar Tonelico - Melody of Elemia (USA)">
+		<category>Games</category>
+		<description>Ar Tonelico - Melody of Elemia (USA)</description>
+		<rom name="Ar Tonelico - Melody of Elemia (USA).iso" size="3146481664" crc="265b23ae" md5="fdda7f8bb670acc26c273d314f22bc62" sha1="f7a83336281affcbffd3e39bab2a2f8fb8b2e484" />
+	</game>
+	<game name="Suikoden V (USA)">
+		<category>Games</category>
+		<description>Suikoden V (USA)</description>
+		<rom name="Suikoden V (USA).iso" size="4504649728" crc="33fc7df5" md5="a5e90aa127f076dac07436d7ac2f105e" sha1="9a0faed4cf34b78aaa2ed2d232a234bb9aadc209" />
+	</game>
+	<game name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)</description>
+		<rom name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es).iso" size="1809907712" crc="ad3efe18" md5="fd0f196594fd5c6f9c1c163da0a7681e" sha1="fe7a36ac2a9f832b7efa50be31df6ec6d5f99ec6" />
+	</game>
+	<game name="Mana Khemia - Alchemists of Al-Revis (USA)">
+		<category>Games</category>
+		<description>Mana Khemia - Alchemists of Al-Revis (USA)</description>
+		<rom name="Mana Khemia - Alchemists of Al-Revis (USA).iso" size="2801958912" crc="b01d3440" md5="b19cc27849129bba68a69efad2a451aa" sha1="115caf613adbef17ef3f4a4c6cb4ea1f7509a922" />
+	</game>
+	<game name="Castlevania - Curse of Darkness (USA)">
+		<category>Games</category>
+		<description>Castlevania - Curse of Darkness (USA)</description>
+		<rom name="Castlevania - Curse of Darkness (USA).iso" size="3522396160" crc="5ab0fa04" md5="daae00ab859b47720a4d8a506086d0c1" sha1="c47a1da51dfd77a4f021b2c1425a8652323abdc0" />
+	</game>
+	<game name="Wild Arms 3 (USA)">
+		<category>Games</category>
+		<description>Wild Arms 3 (USA)</description>
+		<rom name="Wild Arms 3 (USA).iso" size="2683895808" crc="03b2461c" md5="83372774ab1e82b8b1c4755b62276c62" sha1="bc9a8c4226c85dfb840dc7975c0ea0cbc57f3718" />
+	</game>
+	<game name="Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja)</description>
+		<rom name="Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja).iso" size="2998829056" crc="22b867bd" md5="37393b158051af0ab5cb3c86d04d51b7" sha1="0b11f7a2a4c178b555c45a58ce8ee725e57a1423" />
+	</game>
+	<game name="Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja)</description>
+		<rom name="Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).iso" size="3020816384" crc="10466681" md5="350404a81de912347c8b262542fed970" sha1="a1c4d21c154da8b1d4b15055907edb0abb055e63" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA)">
+		<category>Games</category>
+		<description>Shin Megami Tensei - Persona 3 FES (USA)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA).iso" size="4594302976" crc="9e15fb39" md5="4b16317a11f3089090748b7eca2acbaf" sha1="0c596450c0fd021bde3120748ba448a25ffe5fa7" />
+	</game>
+	<game name="Dragon Ball Z - Budokai (USA)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Budokai (USA)</description>
+		<rom name="Dragon Ball Z - Budokai (USA).iso" size="1437466624" crc="69f0dfc0" md5="dafce356e2fd4fb94b4b41a0f2839a0d" sha1="40f31b1c8bea9b4712b8e6b35fbcda53925de8f1" />
+	</game>
+	<game name="God Hand (USA)">
+		<category>Games</category>
+		<description>God Hand (USA)</description>
+		<rom name="God Hand (USA).iso" size="1567686656" crc="07220ad2" md5="edfe683b6973fe45cbd75e30664f2a70" sha1="2215fb65a9ae391741950970bd88b79ca87d9d05" />
+	</game>
+	<game name="Tiger Woods PGA Tour 2005 (USA)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 2005 (USA)</description>
+		<rom name="Tiger Woods PGA Tour 2005 (USA).iso" size="4651450368" crc="a02cba49" md5="5f434e94641ac86771153aec2ae930fa" sha1="0b225d36e1a11411db6f744d9f3fab4c212882dc" />
+	</game>
+	<game name="LEGO Star Wars - The Video Game (USA) (v2.00)">
+		<category>Games</category>
+		<description>LEGO Star Wars - The Video Game (USA) (v2.00)</description>
+		<rom name="LEGO Star Wars - The Video Game (USA) (v2.00).iso" size="1869316096" crc="c60f83a2" md5="48cf20e6476d6f4f20992522a2d2d37e" sha1="68f304ddf4a7c96b32727145dda6f3468f9ec64a" />
+	</game>
+	<game name="LEGO Star Wars II - The Original Trilogy (USA)">
+		<category>Games</category>
+		<description>LEGO Star Wars II - The Original Trilogy (USA)</description>
+		<rom name="LEGO Star Wars II - The Original Trilogy (USA).iso" size="4610850816" crc="b05f93ad" md5="c89beea1f18daa080602253118dd8b34" sha1="2e6c7126cca3dd296b64fb60c58cde96a90f4533" />
+	</game>
+	<game name="Viewtiful Joe (USA)">
+		<category>Games</category>
+		<description>Viewtiful Joe (USA)</description>
+		<rom name="Viewtiful Joe (USA).iso" size="2432663552" crc="ba4e76c8" md5="090acf453d58e60e592f6d9a05b15b6b" sha1="eaa13608d1f0e7871c4e00d7510270d413cf5e7c" />
+	</game>
+	<game name="Tiger Woods PGA Tour 2003 (USA)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 2003 (USA)</description>
+		<rom name="Tiger Woods PGA Tour 2003 (USA).iso" size="2445901824" crc="1d8e30bc" md5="bd4944b3b8e8a66486657293d6fbe9e8" sha1="f572781eb900586f9bd546a2936e0e32d12e4895" />
+	</game>
+	<game name="Hitman - Contracts (USA)">
+		<category>Games</category>
+		<description>Hitman - Contracts (USA)</description>
+		<rom name="Hitman - Contracts (USA).iso" size="4357357568" crc="c3536cb2" md5="2c507d289c8bce9987162d461e55a17e" sha1="45c441e41a9e8353f8fea5c26c1207772e8bbd33" />
+	</game>
+	<game name="Hitman 2 - Silent Assassin (USA) (v3.01)">
+		<category>Games</category>
+		<description>Hitman 2 - Silent Assassin (USA) (v3.01)</description>
+		<rom name="Hitman 2 - Silent Assassin (USA) (v3.01).iso" size="2084339712" crc="ecb55f7e" md5="627438d6d9589842844cb2d193818f3a" sha1="77d024413ffb1a9bbfdd7f65cad8bc3deb5cc16c" />
+	</game>
+	<game name="Hitman - Blood Money (USA)">
+		<category>Games</category>
+		<description>Hitman - Blood Money (USA)</description>
+		<rom name="Hitman - Blood Money (USA).iso" size="3154280448" crc="248acbe4" md5="943129229e72adbd865af3c78afd2321" sha1="1a85ec1eca69ebb77581d2d597fe243044c56291" />
+	</game>
+	<game name="Sly Cooper and the Thievius Raccoonus (USA)">
+		<category>Games</category>
+		<description>Sly Cooper and the Thievius Raccoonus (USA)</description>
+		<rom name="Sly Cooper and the Thievius Raccoonus (USA).iso" size="2802319360" crc="046bbcec" md5="5be8ed86954c4d661567ac62bd32ec39" sha1="347b54b4a0d8b2c2e6c18cdbde5f1cabcc45b5da" />
+	</game>
+	<game name="Sly 2 - Band of Thieves (USA)">
+		<category>Games</category>
+		<description>Sly 2 - Band of Thieves (USA)</description>
+		<rom name="Sly 2 - Band of Thieves (USA).iso" size="2884141056" crc="32dc7bc5" md5="aba8d07bbc6f75050733f7abaeb6e8ec" sha1="7241cd566c9ee94ae1ba294ea31ed8f63fd56999" />
+	</game>
+	<game name="Sly 3 - Honor Among Thieves (USA)">
+		<category>Games</category>
+		<description>Sly 3 - Honor Among Thieves (USA)</description>
+		<rom name="Sly 3 - Honor Among Thieves (USA).iso" size="3553755136" crc="0a9386cf" md5="1dfe7f0aac25320678244b4c43f12b4f" sha1="9f89eba20011bda2ea8e839c96b9100cf7762fc6" />
+	</game>
+	<game name="Spider-Man 2 (USA)">
+		<category>Games</category>
+		<description>Spider-Man 2 (USA)</description>
+		<rom name="Spider-Man 2 (USA).iso" size="4134502400" crc="b402c582" md5="64408505827959a0bc2efc241d2023b2" sha1="f8df9c63451b26705fc581c53db031731a6bc081" />
+	</game>
+	<game name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)">
+		<category>Games</category>
+		<description>WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)</description>
+		<rom name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi).iso" size="4175036416" crc="e71cedb7" md5="40dc3d64a7c89a075b0e26bf0a1eb40e" sha1="710393806b842f88ab9391ab35b163e821513b46" />
+	</game>
+	<game name="Dot Hack Part 1 - Infection (USA)">
+		<category>Games</category>
+		<description>Dot Hack Part 1 - Infection (USA)</description>
+		<rom name="Dot Hack Part 1 - Infection (USA).iso" size="2598567936" crc="da0304b4" md5="eca5b2c41b7833ee38d489002c7aabc4" sha1="b0956193524f51a704a3057f91346c2d2528020c" />
+	</game>
+	<game name="Dot Hack Part 2 - Mutation (USA)">
+		<category>Games</category>
+		<description>Dot Hack Part 2 - Mutation (USA)</description>
+		<rom name="Dot Hack Part 2 - Mutation (USA).iso" size="3748757504" crc="8c55c266" md5="75c2cfdab4a880833caf7d3fd2f4e0b9" sha1="5842b528024b971204e0d7c2517a8155474d5ff1" />
+	</game>
+	<game name="Dot Hack Part 4 - Quarantine (USA)">
+		<category>Games</category>
+		<description>Dot Hack Part 4 - Quarantine (USA)</description>
+		<rom name="Dot Hack Part 4 - Quarantine (USA).iso" size="4458315776" crc="c6453825" md5="7277c0bd0905ec307b9216f9f8de4d1a" sha1="b33c566b9a5269d5d8204c49e5be215f51735194" />
+	</game>
+	<game name="Maximo vs Army of Zin (USA)">
+		<category>Games</category>
+		<description>Maximo vs Army of Zin (USA)</description>
+		<rom name="Maximo vs Army of Zin (USA).iso" size="1232011264" crc="f5260853" md5="b626f0571067da2144d266a939c27366" sha1="2825e10c0ecf5e5d2884ef2893f0bef900bd25c0" />
+	</game>
+	<game name="LEGO Batman - The Videogame (USA)">
+		<category>Games</category>
+		<description>LEGO Batman - The Videogame (USA)</description>
+		<rom name="LEGO Batman - The Videogame (USA).iso" size="2152562688" crc="aa44b03d" md5="e5b6316bb1cf987589af9f4f0cd39601" sha1="ec38c94f6e04b97b525a5dea5c0ad405fda01da1" />
+	</game>
+	<game name="Shadow Hearts (USA)">
+		<category>Games</category>
+		<description>Shadow Hearts (USA)</description>
+		<rom name="Shadow Hearts (USA).iso" size="3101032448" crc="68ed77e2" md5="c2782ace8bd69ddae0b0b77d285c4373" sha1="58074c97b03f56c5c83208800d02ea049c2b22d9" />
+	</game>
+	<game name="Wipeout Fusion (USA)">
+		<category>Games</category>
+		<description>Wipeout Fusion (USA)</description>
+		<rom name="Wipeout Fusion (USA).iso" size="2327150592" crc="27639205" md5="4060dd8a7c4aff391ebf1c05ff9246ca" sha1="211042de1418969cd938dbf5a2c70e69535a178f" />
+	</game>
+	<game name="World Championship Snooker 2004 (Europe)">
+		<category>Games</category>
+		<description>World Championship Snooker 2004 (Europe)</description>
+		<rom name="World Championship Snooker 2004 (Europe).iso" size="1566179328" crc="20a8f5ff" md5="e94c59594dce91dd950cb80a14c76c71" sha1="d06642393521c84a15c6ad3bd4775ef9ef099b93" />
+	</game>
+	<game name="Colin McRae Rally 3 (USA)">
+		<category>Games</category>
+		<description>Colin McRae Rally 3 (USA)</description>
+		<rom name="Colin McRae Rally 3 (USA).iso" size="3272867840" crc="714aa704" md5="afb4eedba70c86df31ebabc057f84ecb" sha1="83928d291b3186411638c615776a0c2133d126d5" />
+	</game>
+	<game name="Crash Bandicoot - The Wrath of Cortex (USA) (v1.01)">
+		<category>Games</category>
+		<description>Crash Bandicoot - The Wrath of Cortex (USA) (v1.01)</description>
+		<rom name="Crash Bandicoot - The Wrath of Cortex (USA) (v1.01).cue" size="117" crc="1a0009b6" md5="36fed3798411d83bf99c64d5d587b74e" sha1="503642f3989e27f18983c728ed8771fd1e464454" />
+		<rom name="Crash Bandicoot - The Wrath of Cortex (USA) (v1.01).bin" size="538161120" crc="aedc001f" md5="b2ced6c0f098fca1087c3ca7e1ea099d" sha1="e3be92c014f115b63db844042977e9719d0d5048" />
+	</game>
+	<game name="Star Wars - Starfighter (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Star Wars - Starfighter (USA) (Rev 1)</description>
+		<rom name="Star Wars - Starfighter (USA) (Rev 1).cue" size="103" crc="9e5ba295" md5="1d61bdba6db57e5b70b85b94eec8f798" sha1="47eb7a9c9fb08e1956aed6b1f248faac90a4fa68" />
+		<rom name="Star Wars - Starfighter (USA) (Rev 1).bin" size="751964976" crc="91b3ce78" md5="589cb48e28f9078f9ac34482514a2ee2" sha1="dde31c2bce6c079581cfd14ce8c436d8a5463be9" />
+	</game>
+	<game name="SSX (USA)">
+		<category>Games</category>
+		<description>SSX (USA)</description>
+		<rom name="SSX (USA).cue" size="75" crc="d6093a59" md5="540bbb44c1441f899c70ca0e1ca09695" sha1="0e35a794517e2b988563383413c2a196747361df" />
+		<rom name="SSX (USA).bin" size="669223968" crc="5b237088" md5="4ede743850f9b1a23e8e227447f6a07f" sha1="7820e8bca1ea6b8407295a90b2e75b173a16077c" />
+	</game>
+	<game name="SOCOM II - U.S. Navy SEALs (USA)">
+		<category>Games</category>
+		<description>SOCOM II - U.S. Navy SEALs (USA)</description>
+		<rom name="SOCOM II - U.S. Navy SEALs (USA).iso" size="4380753920" crc="9e40ea01" md5="2591f0aaaa58ca0eb9bcf1f33f1e3be2" sha1="ef56534ff346679f88aff78bad4d73facf43590b" />
+	</game>
+	<game name="King of Fighters XI, The (USA, Canada)">
+		<category>Games</category>
+		<description>King of Fighters XI, The (USA, Canada)</description>
+		<rom name="King of Fighters XI, The (USA, Canada).iso" size="2456387584" crc="656bb3dc" md5="7a894aecf26968042f333a9732d412b6" sha1="edf007845af9c744dc24f1781c963bd5773c9c01" />
+	</game>
+	<game name="Wild Arms 5 (USA)">
+		<category>Games</category>
+		<description>Wild Arms 5 (USA)</description>
+		<rom name="Wild Arms 5 (USA).iso" size="4354605056" crc="de7558a7" md5="8cf4df56b09a5d24ea856fa7b851b47c" sha1="18bb1751497ea338be4e0e69b312feaa631530bb" />
+	</game>
+	<game name="SSX on Tour (USA)">
+		<category>Games</category>
+		<description>SSX on Tour (USA)</description>
+		<rom name="SSX on Tour (USA).iso" size="4698341376" crc="19c19f42" md5="131d8b3dfa8a1a5bf842b58840fed0ac" sha1="d48b75458e72bc305953bcde6bfe50f0f9aa3278" />
+	</game>
+	<game name="Wild Arms - Alter Code - F (USA)">
+		<category>Games</category>
+		<description>Wild Arms - Alter Code - F (USA)</description>
+		<rom name="Wild Arms - Alter Code - F (USA).iso" size="8289943552" crc="c70eca4d" md5="5f6addce3c0ad231fd2ad410ed7ddcb9" sha1="060f0e437b4e5a63c78a59c242227327d0a4eba8" />
+	</game>
+	<game name="Tony Hawk's Underground (USA)">
+		<category>Games</category>
+		<description>Tony Hawk's Underground (USA)</description>
+		<rom name="Tony Hawk's Underground (USA).iso" size="4660396032" crc="2c33fa15" md5="39ed88773503866f9223f937d1ffd37d" sha1="b1c7b98412ce6921ea97af48627f0fd81ba0ec64" />
+	</game>
+	<game name="Virtua Fighter 4 - Evolution (USA)">
+		<category>Games</category>
+		<description>Virtua Fighter 4 - Evolution (USA)</description>
+		<rom name="Virtua Fighter 4 - Evolution (USA).iso" size="1558740992" crc="4f5175bf" md5="46fbdccbe61654218d3c0a944591a56c" sha1="e818cf52f50288240a866016825d513721cfb4f0" />
+	</game>
+	<game name="Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1)">
+		<category>Games</category>
+		<description>Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1).iso" size="1460305920" crc="17531efe" md5="e5563b152759f11e037fe67b6cd65676" sha1="e695d5b98d598bfc0262ec73ba1baf368a81039b" />
+	</game>
+	<game name="TimeSplitters 2 (USA)">
+		<category>Games</category>
+		<description>TimeSplitters 2 (USA)</description>
+		<rom name="TimeSplitters 2 (USA).iso" size="4696047616" crc="f439fbfc" md5="c5af61b889429c170847dbfe9e3575bf" sha1="9bd861a706e1a291d466912a20c811fe934cb4b2" />
+	</game>
+	<game name="Grand Theft Auto - Vice City Stories (USA)">
+		<category>Games</category>
+		<description>Grand Theft Auto - Vice City Stories (USA)</description>
+		<rom name="Grand Theft Auto - Vice City Stories (USA).iso" size="4149182464" crc="69c1139c" md5="3bf85783142bd4ebf8535b29d4251a67" sha1="08febf554e53d6aff4c9f7144ec715909994b2d9" />
+	</game>
+	<game name="Ratchet &amp; Clank (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Ratchet &amp; Clank (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Ratchet &amp; Clank (USA) (En,Fr,De,Es,It).iso" size="4214095872" crc="960318d0" md5="a62a8ae0e44c2580be38c82f48b7d181" sha1="aee9275384f739c9b24cd5de6f7e200292db7b01" />
+	</game>
+	<game name="Grand Theft Auto - Liberty City Stories (USA)">
+		<category>Games</category>
+		<description>Grand Theft Auto - Liberty City Stories (USA)</description>
+		<rom name="Grand Theft Auto - Liberty City Stories (USA).iso" size="4010016768" crc="30784522" md5="2d0cd1f12841de894a9a668f7c8fd5d3" sha1="f690b24e4f6f7cfcb642f9faaa1e05d2ba6a3a3a" />
+	</game>
+	<game name="Amplitude (USA)">
+		<category>Games</category>
+		<description>Amplitude (USA)</description>
+		<rom name="Amplitude (USA).iso" size="1765736448" crc="c1209c64" md5="e9300e04d64f6eb48a77e04085a321fd" sha1="49eb489bfd7f8f72cade0cbdac527034e107bfbc" />
+	</game>
+	<game name="Dark Cloud (USA)">
+		<category>Games</category>
+		<description>Dark Cloud (USA)</description>
+		<rom name="Dark Cloud (USA).iso" size="1797980160" crc="fe4adb70" md5="b500237e456cd2722cf9189b7b34ad0a" sha1="ff3d6656b1403aae3156e5600f1aef1489d704b9" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 4 (USA)">
+		<category>Games</category>
+		<description>Shin Megami Tensei - Persona 4 (USA)</description>
+		<rom name="Shin Megami Tensei - Persona 4 (USA).iso" size="4405952512" crc="66e20de9" md5="7419b3f9c1d68585960c8c32aab5c758" sha1="179381f67a412dc56e9b7ae40dbc1c00a0beea59" />
+	</game>
+	<game name="SSX Tricky (USA)">
+		<category>Games</category>
+		<description>SSX Tricky (USA)</description>
+		<rom name="SSX Tricky (USA).iso" size="2902425600" crc="28aeb570" md5="7d8ee567145bdf0c236ce5f5c679108a" sha1="32f2e711c3f6bf773137d8ab1f46e24dd41dc8c4" />
+	</game>
+	<game name="Kessen III (USA)">
+		<category>Games</category>
+		<description>Kessen III (USA)</description>
+		<rom name="Kessen III (USA).iso" size="8509325312" crc="61de88dd" md5="a20473da62f771b68cb6ce4c9ece3afe" sha1="8b4957649a85e2517de3d5285c73a69f24267757" />
+	</game>
+	<game name="Soulcalibur III (USA)">
+		<category>Games</category>
+		<description>Soulcalibur III (USA)</description>
+		<rom name="Soulcalibur III (USA).iso" size="4384325632" crc="1fc5ad65" md5="ed5ff3a9de3a269db0c20af603c88391" sha1="96f9c9cc246664f3bb71cc060d918b9bdc3f886d" />
+	</game>
+	<game name="Lord of the Rings, The - The Return of the King (USA)">
+		<category>Games</category>
+		<description>Lord of the Rings, The - The Return of the King (USA)</description>
+		<rom name="Lord of the Rings, The - The Return of the King (USA).iso" size="4557438976" crc="0c81cf8e" md5="fc854af9492938c54620267e01bc0da5" sha1="3900af5031440e88f5af432d0a6c3e06a9c188d3" />
+	</game>
+	<game name="TimeSplitters (USA) (v2.00)">
+		<category>Games</category>
+		<description>TimeSplitters (USA) (v2.00)</description>
+		<rom name="TimeSplitters (USA) (v2.00).cue" size="93" crc="648f6803" md5="4988ad32bbd9b85d886fc37da34ac64d" sha1="e94d583cea881e745db8c4c7c9bc4dbbfd5fb10b" />
+		<rom name="TimeSplitters (USA) (v2.00).bin" size="719502672" crc="b0c2978a" md5="207cfeacc6af19d0a83ce3a39da05125" sha1="d2bcecd734fcc775b0fed7e8376f1eb8c7ea1bd4" />
+	</game>
+	<game name="Gun (USA)">
+		<category>Games</category>
+		<description>Gun (USA)</description>
+		<rom name="Gun (USA).iso" size="3025993728" crc="75e9ab86" md5="b90372101250e3900735c2c5caf38ea9" sha1="57cce10f6528900e9111a21e3cb8fcb80f061916" />
+	</game>
+	<game name="Space Channel 5 Part 2 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Space Channel 5 Part 2 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Space Channel 5 Part 2 (Europe) (En,Fr,De,Es,It).iso" size="1637318656" crc="ad53ea58" md5="7b7481d63b85726aa6ff38d004312b2b" sha1="2dd9da5fd2a5e167d4a9b72fd85c8bf820c37d78" />
+	</game>
+	<game name="Tiger Woods PGA Tour 06 (USA)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 06 (USA)</description>
+		<rom name="Tiger Woods PGA Tour 06 (USA).iso" size="4698734592" crc="4c43418e" md5="e8e46e3ee4e6fe201c7aefa3b68169e2" sha1="91ff19ef0fedf4d9cdc8618406122672261528bc" />
+	</game>
+	<game name="Grand Theft Auto - San Andreas (USA, Canada) (v3.00)">
+		<category>Games</category>
+		<description>Grand Theft Auto - San Andreas (USA, Canada) (v3.00)</description>
+		<rom name="Grand Theft Auto - San Andreas (USA, Canada) (v3.00).iso" size="4517036032" crc="f3884e41" md5="0cc7e76c94e4842a87085fa5484832df" sha1="31933aae559944c9189af67d3902a5e5f7a97a43" />
+	</game>
+	<game name="Need for Speed - Underground 2 (USA, Canada)">
+		<category>Games</category>
+		<description>Need for Speed - Underground 2 (USA, Canada)</description>
+		<rom name="Need for Speed - Underground 2 (USA, Canada).iso" size="2874605568" crc="c89aeb2b" md5="b50fab373b43926f771345141dd4aef0" sha1="6241acf4a165f3b74c157039e2cde2d310b48317" />
+	</game>
+	<game name="Brothers in Arms - Road to Hill 30 (USA)">
+		<category>Games</category>
+		<description>Brothers in Arms - Road to Hill 30 (USA)</description>
+		<rom name="Brothers in Arms - Road to Hill 30 (USA).iso" size="3126820864" crc="0f27c387" md5="74b1a0d2226f2b0cccec945ac4a9a9b2" sha1="248a7be13947fe18fd02d107bd1722a01ff75d92" />
+	</game>
+	<game name="Red Dead Revolver (USA)">
+		<category>Games</category>
+		<description>Red Dead Revolver (USA)</description>
+		<rom name="Red Dead Revolver (USA).iso" size="2340487168" crc="adb54266" md5="b68142ed452436319bff1a2cc80fa697" sha1="7bbe502a1b170f80e378a566ad8ec313dba78361" />
+	</game>
+	<game name="Tokyo Xtreme Racer - Zero (USA)">
+		<category>Games</category>
+		<description>Tokyo Xtreme Racer - Zero (USA)</description>
+		<rom name="Tokyo Xtreme Racer - Zero (USA).iso" size="1570373632" crc="86b2a352" md5="75b84cc555d40da2e367c72fd51aa381" sha1="080d10db8cabb80d53133175531ed9be665f3564" />
+	</game>
+	<game name="Need for Speed - Hot Pursuit 2 (USA)">
+		<category>Games</category>
+		<description>Need for Speed - Hot Pursuit 2 (USA)</description>
+		<rom name="Need for Speed - Hot Pursuit 2 (USA).iso" size="3121184768" crc="2da6b351" md5="46d29850b0be374d7cd28a7ce71b6f73" sha1="6a9335758f8faa1bd9e910eb4db40b5aa279e968" />
+	</game>
+	<game name="Fatal Frame II - Crimson Butterfly (USA)">
+		<category>Games</category>
+		<description>Fatal Frame II - Crimson Butterfly (USA)</description>
+		<rom name="Fatal Frame II - Crimson Butterfly (USA).iso" size="3270836224" crc="f734064c" md5="3a6e6f4b0496d661e1e4e1ff6186cea8" sha1="267ff958bc0f02bec862023bc16e73831eea9359" />
+	</game>
+	<game name="Ar Tonelico II - Melody of Metafalica (USA)">
+		<category>Games</category>
+		<description>Ar Tonelico II - Melody of Metafalica (USA)</description>
+		<rom name="Ar Tonelico II - Melody of Metafalica (USA).iso" size="4401790976" crc="49205494" md5="1b83937656fd8fede5c0fbc8dbc11f8f" sha1="df94f6a165cfc829821a5a18c1e3bf650624de52" />
+	</game>
+	<game name="Beyond Good &amp; Evil (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Beyond Good &amp; Evil (USA) (En,Fr,Es)</description>
+		<rom name="Beyond Good &amp; Evil (USA) (En,Fr,Es).iso" size="2070544384" crc="0fc8d585" md5="dbb65210e86adfa7adafa29912cfe851" sha1="59c33660ee43722c68c11db581bb7b36e9e73bd6" />
+	</game>
+	<game name="Zone of the Enders - The 2nd Runner (USA)">
+		<category>Games</category>
+		<description>Zone of the Enders - The 2nd Runner (USA)</description>
+		<rom name="Zone of the Enders - The 2nd Runner (USA).iso" size="2590474240" crc="dcebb329" md5="a17c88aadb8cc8c5d6a096226a80bb91" sha1="a2ec2c10feea6e74d3332ba711892125eb45b45f" />
+	</game>
+	<game name="Ookami (USA)">
+		<category>Games</category>
+		<description>Ookami (USA)</description>
+		<rom name="Ookami (USA).iso" size="3967877120" crc="3c37758b" md5="bddad007952b3f04d129dcb14fa85b47" sha1="b62790ebc844ae4e8fcc2d9ebe52e730ccadb4c1" />
+	</game>
+	<game name="Fight Night Round 2 (USA)">
+		<category>Games</category>
+		<description>Fight Night Round 2 (USA)</description>
+		<rom name="Fight Night Round 2 (USA).iso" size="3930980352" crc="41b03d39" md5="3559a60366f87703dac2922df5578bcd" sha1="a0b206d7bfb54dd9c27c6e8713dd54b290bedff6" />
+	</game>
+	<game name="SSX 3 (USA)">
+		<category>Games</category>
+		<description>SSX 3 (USA)</description>
+		<rom name="SSX 3 (USA).iso" size="3005415424" crc="a741bebf" md5="517f203e2c5458597f90f98103b86ead" sha1="667c9b2bbfef45ca3f89a55aab296701916120f6" />
+	</game>
+	<game name="Street Fighter Anniversary Collection (USA)">
+		<category>Games</category>
+		<description>Street Fighter Anniversary Collection (USA)</description>
+		<rom name="Street Fighter Anniversary Collection (USA).iso" size="3406594048" crc="2ddb5823" md5="b60e7704f7c65747ecc54cec26ba3ee0" sha1="a992c274bc598694ea192aaa2b86a6676f11557f" />
+	</game>
+	<game name="Dokapon Kingdom (USA)">
+		<category>Games</category>
+		<description>Dokapon Kingdom (USA)</description>
+		<rom name="Dokapon Kingdom (USA).iso" size="3074654208" crc="97280424" md5="8f616595023d1b180bed11fe55195500" sha1="e3c15563d83f227f2cec886317b92cec65343441" />
+	</game>
+	<game name="Fight Night 2004 (USA)">
+		<category>Games</category>
+		<description>Fight Night 2004 (USA)</description>
+		<rom name="Fight Night 2004 (USA).iso" size="3217195008" crc="5de6e877" md5="146c10fc9933d23028a7cd5b036758d1" sha1="602d61d1f546e7bacf145b3f234ceee667706c79" />
+	</game>
+	<game name="Gladius (USA)">
+		<category>Games</category>
+		<description>Gladius (USA)</description>
+		<rom name="Gladius (USA).iso" size="2435022848" crc="0d0ddda6" md5="aa7f67458af5d10decfff4bd9aa6652e" sha1="be6747afbaa3e8f46a42a0712802ff13ea0819da" />
+	</game>
+	<game name="Dynasty Warriors 3 (USA)">
+		<category>Games</category>
+		<description>Dynasty Warriors 3 (USA)</description>
+		<rom name="Dynasty Warriors 3 (USA).iso" size="2262433792" crc="5349f038" md5="7867ebadcc4901d9e9e901cae4431ac3" sha1="2310a2a1e46b147b13425d397e33a03c05010a61" />
+	</game>
+	<game name="Dynasty Warriors 4 - Xtreme Legends (USA)">
+		<category>Games</category>
+		<description>Dynasty Warriors 4 - Xtreme Legends (USA)</description>
+		<rom name="Dynasty Warriors 4 - Xtreme Legends (USA).iso" size="3620831232" crc="e4fcf429" md5="4f9ead5d1183e3bbbc9a6006b02c113b" sha1="7b6fec03f9a3d4151f5efefee6bce6c2244ea84f" />
+	</game>
+	<game name="Broken Sword - The Sleeping Dragon (Europe, Australia) (En,Es,It)">
+		<category>Games</category>
+		<description>Broken Sword - The Sleeping Dragon (Europe, Australia) (En,Es,It)</description>
+		<rom name="Broken Sword - The Sleeping Dragon (Europe, Australia) (En,Es,It).iso" size="3694493696" crc="00bcca6c" md5="65e87b723cf9d6b85c82837d93ddab84" sha1="0013e1c54cc81a8addf6c2aff53d14dcbc997291" />
+	</game>
+	<game name="Champions of Norrath (USA)">
+		<category>Games</category>
+		<description>Champions of Norrath (USA)</description>
+		<rom name="Champions of Norrath (USA).iso" size="8319303680" crc="21cf5560" md5="35c9feb77a5d0927286938c83ff71a3d" sha1="f0b5ca74e7d54915304431f0b2b7dce58ea70a0d" />
+	</game>
+	<game name="Rogue Galaxy (USA)">
+		<category>Games</category>
+		<description>Rogue Galaxy (USA)</description>
+		<rom name="Rogue Galaxy (USA).iso" size="6967721984" crc="044f1164" md5="86170ff39c8e02c82bc043c9fe42baaf" sha1="87377e721be58e8b6a5a7501721563500d237df7" />
+	</game>
+	<game name="Killer7 (USA)">
+		<category>Games</category>
+		<description>Killer7 (USA)</description>
+		<rom name="Killer7 (USA).iso" size="3007905792" crc="a5eead0e" md5="121e713fa6757cc6a7093f5d07f5c190" sha1="9ef1d07a801369cdb33e68c19e7bd0a29784a08c" />
+	</game>
+	<game name="TimeSplitters - Future Perfect (USA)">
+		<category>Games</category>
+		<description>TimeSplitters - Future Perfect (USA)</description>
+		<rom name="TimeSplitters - Future Perfect (USA).iso" size="4383899648" crc="7962d3df" md5="2180703147eb25c3cbb8a1469ddcf9a4" sha1="a8f4444baff98319f9ab90d81ce2dc3eb27000da" />
+	</game>
+	<game name="Jade Cocoon 2 (USA)">
+		<category>Games</category>
+		<description>Jade Cocoon 2 (USA)</description>
+		<rom name="Jade Cocoon 2 (USA).iso" size="3099557888" crc="5a3a4361" md5="671d42d134a789560a51bcc6cb2859c2" sha1="1677169b4bde5fcea6213aa005f8e8c3b630c59b" />
+	</game>
+	<game name="Makai Kingdom - Chronicles of the Sacred Tome (USA)">
+		<category>Games</category>
+		<description>Makai Kingdom - Chronicles of the Sacred Tome (USA)</description>
+		<rom name="Makai Kingdom - Chronicles of the Sacred Tome (USA).iso" size="1256030208" crc="09027dda" md5="734a56f8552873c9120b7157eeecd6a1" sha1="3d724aeaddcfedfab6142e0fc73d2017c7c10f53" />
+	</game>
+	<game name="Blood Will Tell - Tezuka Osamu's Dororo (USA)">
+		<category>Games</category>
+		<description>Blood Will Tell - Tezuka Osamu's Dororo (USA)</description>
+		<rom name="Blood Will Tell - Tezuka Osamu's Dororo (USA).iso" size="3217358848" crc="34d7b926" md5="fb0ab1b51ff7925e0acc37ad39c00e0d" sha1="d4f047c830d592d789392aecd755e1002e8a5227" />
+	</game>
+	<game name="Legaia 2 - Duel Saga (USA)">
+		<category>Games</category>
+		<description>Legaia 2 - Duel Saga (USA)</description>
+		<rom name="Legaia 2 - Duel Saga (USA).iso" size="2372698112" crc="c113bfb8" md5="877d74ee733e757d9fddf3d976bb181e" sha1="25b353b1dec9c72c2f3459d6a205799f50e96161" />
+	</game>
+	<game name="Baldur's Gate - Dark Alliance (USA)">
+		<category>Games</category>
+		<description>Baldur's Gate - Dark Alliance (USA)</description>
+		<rom name="Baldur's Gate - Dark Alliance (USA).iso" size="3742662656" crc="982be5ce" md5="69151d9e47aff6237d71bc4b12abf0db" sha1="09f10d5763f2eae74c688d34543884d5802d88ef" />
+	</game>
+	<game name="Rygar - The Legendary Adventure (USA)">
+		<category>Games</category>
+		<description>Rygar - The Legendary Adventure (USA)</description>
+		<rom name="Rygar - The Legendary Adventure (USA).iso" size="1799487488" crc="69771a17" md5="047025301beb48f9896729ea6d25d2a7" sha1="c3983f11d4f6d5eedc307aead0be862a8114f744" />
+	</game>
+	<game name="Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA)">
+		<category>Games</category>
+		<description>Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA)</description>
+		<rom name="Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA).iso" size="3853156352" crc="52e288ea" md5="424bce97a7921a4bc60abe3f3e1f7a10" sha1="931f076a7c2a02e23a72f19c53bb64442d96fcc8" />
+	</game>
+	<game name="Splashdown - Rides Gone Wild (USA)">
+		<category>Games</category>
+		<description>Splashdown - Rides Gone Wild (USA)</description>
+		<rom name="Splashdown - Rides Gone Wild (USA).iso" size="1901985792" crc="d2789843" md5="b4ef470b4653d390d882a290995b0e24" sha1="56989c28083af8697a55ae3455ccb79e1ea08591" />
+	</game>
+	<game name="Nights into Dreams... (Japan)">
+		<category>Games</category>
+		<description>Nights into Dreams... (Japan)</description>
+		<rom name="Nights into Dreams... (Japan).iso" size="2898296832" crc="25f273d0" md5="3a6587656d942f49a8d3478cf1ae92d5" sha1="25a9aa0dc5348eff2f8a89dd61aff04ac57d1a0a" />
+	</game>
+	<game name="Psychonauts (USA)">
+		<category>Games</category>
+		<description>Psychonauts (USA)</description>
+		<rom name="Psychonauts (USA).iso" size="3514302464" crc="6ce5d0cd" md5="599a1889474d6d7e92095ab7b5265a32" sha1="4644391e69a38c073e7c08712070997f2cd4d92a" />
+	</game>
+	<game name="Star Wars - Battlefront II (USA) (v2.01)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront II (USA) (v2.01)</description>
+		<rom name="Star Wars - Battlefront II (USA) (v2.01).iso" size="4665671680" crc="ae403115" md5="6bdc85acb6cd0d31912d61590005e4db" sha1="b385edc89d053ca8238b47c6549e78f45eb88ca4" />
+	</game>
+	<game name="Tekken 5 (USA)">
+		<category>Games</category>
+		<description>Tekken 5 (USA)</description>
+		<rom name="Tekken 5 (USA).iso" size="4483547136" crc="b1c8b5a6" md5="7472a628307a0e4309aef66c14d6dbc4" sha1="aec7958a90d603daec0bf850f2f0eb19029cf11f" />
+	</game>
+	<game name="Bully (USA)">
+		<category>Games</category>
+		<description>Bully (USA)</description>
+		<rom name="Bully (USA).iso" size="4636835840" crc="c991d508" md5="0477a28df3c4b625eecc2eb1da24501e" sha1="d801adc0ef54c8094283276f88ea84869c57b182" />
+	</game>
+	<game name="Aggressive Inline (USA)">
+		<category>Games</category>
+		<description>Aggressive Inline (USA)</description>
+		<rom name="Aggressive Inline (USA).iso" size="1008730112" crc="c9d2a62f" md5="c1e418325ddf3c2ebe2f63da24f80cf0" sha1="79f90e423d096f19be9884543003e7b05a785a77" />
+	</game>
+	<game name="Yakuza (USA)">
+		<category>Games</category>
+		<description>Yakuza (USA)</description>
+		<rom name="Yakuza (USA).iso" size="4390912000" crc="294babbd" md5="251059e4d54fb61369e1139b5d4d5e6c" sha1="54697fdb616c7d30327bfc62be3f193eae466f94" />
+	</game>
+	<game name="X-Men Legends II - Rise of Apocalypse (USA)">
+		<category>Games</category>
+		<description>X-Men Legends II - Rise of Apocalypse (USA)</description>
+		<rom name="X-Men Legends II - Rise of Apocalypse (USA).iso" size="1758429184" crc="6fdb7b91" md5="fa2964a7dced7e1fe9a755e08d2bd67a" sha1="a7abf506b7ea9d1aedb3bbae351f5c15bc1c4abe" />
+	</game>
+	<game name="Tiger Woods PGA Tour 2002 (USA)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 2002 (USA)</description>
+		<rom name="Tiger Woods PGA Tour 2002 (USA).iso" size="1109098496" crc="014d829e" md5="6af3f2f6f2a869bf0a804b25c7000d5d" sha1="112b3208e4390739bdfbf410eebd16aa53c0d24b" />
+	</game>
+	<game name="Tiger Woods PGA Tour 2004 (USA)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 2004 (USA)</description>
+		<rom name="Tiger Woods PGA Tour 2004 (USA).iso" size="3568893952" crc="7c0ffd5d" md5="9cfe13fd82855cdcec76f8e34f48a340" sha1="f3ff3206e9359205d37235e6037271db412b21b4" />
+	</game>
+	<game name="Dynasty Warriors 4 (USA)">
+		<category>Games</category>
+		<description>Dynasty Warriors 4 (USA)</description>
+		<rom name="Dynasty Warriors 4 (USA).iso" size="3723919360" crc="92df7be5" md5="100555c0f9ef2c8fd909ee7ef8ee37d1" sha1="3b4514c08f015cc004bbab7a409e6f66f89d057a" />
+	</game>
+	<game name="ATV Offroad Fury (USA) (v3.01)">
+		<category>Games</category>
+		<description>ATV Offroad Fury (USA) (v3.01)</description>
+		<rom name="ATV Offroad Fury (USA) (v3.01).iso" size="882343936" crc="b9229e0d" md5="cda1ae0d9f719325e4686eb19dc7f954" sha1="07b3b92da4cfb55ccf0d8711db7e851482b826c6" />
+	</game>
+	<game name="ATV Offroad Fury 4 (USA, Canada)">
+		<category>Games</category>
+		<description>ATV Offroad Fury 4 (USA, Canada)</description>
+		<rom name="ATV Offroad Fury 4 (USA, Canada).iso" size="7903084544" crc="98af3840" md5="bbc38eb9d5d702624993add72fe479b6" sha1="60adc4e491e1b5337fa0c9dd0cd878fa7bd8fef5" />
+	</game>
+	<game name="Armored Core 2 (USA)">
+		<category>Games</category>
+		<description>Armored Core 2 (USA)</description>
+		<rom name="Armored Core 2 (USA).iso" size="3546906624" crc="f4c00f6e" md5="e5ee46238eea5cb7dafea722b19af077" sha1="0a545d977a61ed4a45cb691f3ee6fbbaa8f0f321" />
+	</game>
+	<game name="Manhunt 2 (USA)">
+		<category>Games</category>
+		<description>Manhunt 2 (USA)</description>
+		<rom name="Manhunt 2 (USA).iso" size="2657058816" crc="8f57c95b" md5="edb70f8fb513588df559e3b117b31f91" sha1="c5c1c775831fe8614189bee80064e4fc324e9ec1" />
+	</game>
+	<game name="WRC - World Rally Championship (USA)">
+		<category>Games</category>
+		<description>WRC - World Rally Championship (USA)</description>
+		<rom name="WRC - World Rally Championship (USA).iso" size="2843541504" crc="1c2f8881" md5="04556644f34fc6c4d4a0776e620cb1af" sha1="0668f084119f132d2f904f6c36c4adadb823e647" />
+	</game>
+	<game name="Burnout 2 - Point of Impact (USA)">
+		<category>Games</category>
+		<description>Burnout 2 - Point of Impact (USA)</description>
+		<rom name="Burnout 2 - Point of Impact (USA).iso" size="4132634624" crc="44db518d" md5="357e5829d8055115c35af321c254ccfc" sha1="751d93ac715bf756e8a7d3f3f881ec0bafa75279" />
+	</game>
+	<game name="Super Monkey Ball Deluxe (USA)">
+		<category>Games</category>
+		<description>Super Monkey Ball Deluxe (USA)</description>
+		<rom name="Super Monkey Ball Deluxe (USA).iso" size="2243788800" crc="afef21e5" md5="498c5c30364f74fb7fc2671fd7a3dec1" sha1="0aa4dd5b791c1b1d3fbf08a0f14ff5fb20eacef2" />
+	</game>
+	<game name="Burnout Revenge (USA, Canada)">
+		<category>Games</category>
+		<description>Burnout Revenge (USA, Canada)</description>
+		<rom name="Burnout Revenge (USA, Canada).iso" size="3650453504" crc="afa0c9d3" md5="9ef21db5eb663e30fee600e29407b97e" sha1="e9594f61f5bac9ba6410cf7c54e68e50aafceef5" />
+	</game>
+	<game name="Mana Khemia 2 - Fall of Alchemy (USA)">
+		<category>Games</category>
+		<description>Mana Khemia 2 - Fall of Alchemy (USA)</description>
+		<rom name="Mana Khemia 2 - Fall of Alchemy (USA).iso" size="4331732992" crc="ac1c65ee" md5="cf711814bab77c6e737a381e7c754d8a" sha1="39a1611ccf3fd27dbb7150dc08350a3a84f99274" />
+	</game>
+	<game name="Fatal Frame III - The Tormented (USA)">
+		<category>Games</category>
+		<description>Fatal Frame III - The Tormented (USA)</description>
+		<rom name="Fatal Frame III - The Tormented (USA).iso" size="3111354368" crc="756ab4bf" md5="9b92e727019341045cafcef2eae3f192" sha1="624dd8fa38bacf24328edd357718a114eeb858bb" />
+	</game>
+	<game name="Melty Blood - Actress Again (Japan)">
+		<category>Games</category>
+		<description>Melty Blood - Actress Again (Japan)</description>
+		<rom name="Melty Blood - Actress Again (Japan).iso" size="1611431936" crc="4dd74fac" md5="fdef3743a448dc8b926f8304f92bdfe3" sha1="915f021c41589a92b9d18148b3cf116eb3612e14" />
+	</game>
+	<game name="Spider-Man (USA) (v2.01)">
+		<category>Games</category>
+		<description>Spider-Man (USA) (v2.01)</description>
+		<rom name="Spider-Man (USA) (v2.01).iso" size="3033333760" crc="fbcae186" md5="1c26a0602691862a06a5f68d1589fd22" sha1="7912afef08578eae7647f913e7df512666d846c1" />
+	</game>
+	<game name="Black (USA)">
+		<category>Games</category>
+		<description>Black (USA)</description>
+		<rom name="Black (USA).iso" size="3919609856" crc="3a92e548" md5="c74d48888cf2f19daeab17c87e9878a8" sha1="83a2ed80784a7456ca46087d2640f6597ebc0d38" />
+	</game>
+	<game name="Ape Escape 3 (USA)">
+		<category>Games</category>
+		<description>Ape Escape 3 (USA)</description>
+		<rom name="Ape Escape 3 (USA).iso" size="2174091264" crc="171127e2" md5="fb6e2c0236897b061835630264fadbd0" sha1="a2cd74af4dd49d6b319ce555afc61ae73b4520f3" />
+	</game>
+	<game name="007 - Everything or Nothing (USA)">
+		<category>Games</category>
+		<description>007 - Everything or Nothing (USA)</description>
+		<rom name="007 - Everything or Nothing (USA).iso" size="3489366016" crc="d7621bc4" md5="106dcb1524fb82c6030d78c11cd49b96" sha1="197276e0d7abc58dbe5b6d6f5fc9dc8c30f05697" />
+	</game>
+	<game name="Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01)">
+		<category>Games</category>
+		<description>Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01)</description>
+		<rom name="Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01).iso" size="4410671104" crc="25c094e4" md5="a69e13869875b63edb9ff9491095ae4b" sha1="6950c8cdea9f34e4a2f5550b2700c2ed5da9ab06" />
+	</game>
+	<game name="Katamari Damacy (USA)">
+		<category>Games</category>
+		<description>Katamari Damacy (USA)</description>
+		<rom name="Katamari Damacy (USA).iso" size="3158212608" crc="e8ca0330" md5="f24b383424d17c837cb625ebdbfe4592" sha1="e661900e37b23497c24e2464484c53d0d569a362" />
+	</game>
+	<game name="Castlevania - Lament of Innocence (USA)">
+		<category>Games</category>
+		<description>Castlevania - Lament of Innocence (USA)</description>
+		<rom name="Castlevania - Lament of Innocence (USA).iso" size="3027042304" crc="be3b05ed" md5="cdf520cafea264d7dbaef0780fd9c02f" sha1="2cdf5a7bf469c2426d6cbd59967351bae367f225" />
+	</game>
+	<game name="Tony Hawk's Pro Skater 3 (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Tony Hawk's Pro Skater 3 (USA) (Rev 1)</description>
+		<rom name="Tony Hawk's Pro Skater 3 (USA) (Rev 1).iso" size="3250716672" crc="bb830d5d" md5="cdad22713141f2e313526071c4e6c0fe" sha1="c04402249cfa820ec5ece16bedfc7bf9371156db" />
+	</game>
+	<game name="Call of Duty 3 (USA)">
+		<category>Games</category>
+		<description>Call of Duty 3 (USA)</description>
+		<rom name="Call of Duty 3 (USA).iso" size="3730374656" crc="32875e90" md5="723cc1164f46836d487cbf95ceee70c4" sha1="58b2a2134c2eefd7b8d8c579c85c8197ebfbf0eb" />
+	</game>
+	<game name="Fight Night Round 3 (USA)">
+		<category>Games</category>
+		<description>Fight Night Round 3 (USA)</description>
+		<rom name="Fight Night Round 3 (USA).iso" size="4536631296" crc="71591dbe" md5="e94f25ebeafa48ca05711c75a547841a" sha1="32bfb47a634ff5342ee31b2d6c3687eaf15b13d4" />
+	</game>
+	<game name="Godfather, The - The Game (USA)">
+		<category>Games</category>
+		<description>Godfather, The - The Game (USA)</description>
+		<rom name="Godfather, The - The Game (USA).iso" size="4298178560" crc="5843ed1c" md5="41550414ea24af2ccc7821db96629f33" sha1="c773eefc89b0c5c55708992dd71cb9c0fe284a43" />
+	</game>
+	<game name="Wipeout Pulse (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Wipeout Pulse (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Wipeout Pulse (Europe) (En,Fr,De,Es,It).iso" size="3892936704" crc="5e731329" md5="4eef59c9a1c98b9202904c571bd14a3f" sha1="4ba7e0fca9ef5032a45653972faf3cfe08991284" />
+	</game>
+	<game name="Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It).iso" size="1926234112" crc="9be2d475" md5="9a383ded52147f8a3efc632f9e352a4b" sha1="50eedd72f0a8ee95b16c6e4e7a6b259743925012" />
+	</game>
+	<game name="Warriors, The (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Warriors, The (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Warriors, The (USA) (En,Fr,De,Es,It).iso" size="4295917568" crc="1009fa84" md5="56a021f03e5718aa3e4760eb0dc179cd" sha1="3b68f15cc0c831597467b477ecd9c0944b08c17f" />
+	</game>
+	<game name="Need for Speed - Most Wanted (USA, Canada) (v2.00)">
+		<category>Games</category>
+		<description>Need for Speed - Most Wanted (USA, Canada) (v2.00)</description>
+		<rom name="Need for Speed - Most Wanted (USA, Canada) (v2.00).iso" size="3702456320" crc="b9842fac" md5="566a6e7255142d4c909ae74529cd90bd" sha1="7a388a12f47ff4244d5a0d9b8fcbd20e6fd90772" />
+	</game>
+	<game name="Metal Slug Anthology (USA)">
+		<category>Games</category>
+		<description>Metal Slug Anthology (USA)</description>
+		<rom name="Metal Slug Anthology (USA).iso" size="1375633408" crc="efcefc0d" md5="7ec8577fd63606399fce4f656a270d38" sha1="b9fcbfb2fbcda293976fedf065c487293cd5ab94" />
+	</game>
+	<game name="Mega Man Anniversary Collection (USA)">
+		<category>Games</category>
+		<description>Mega Man Anniversary Collection (USA)</description>
+		<rom name="Mega Man Anniversary Collection (USA).iso" size="3785719808" crc="f4aa73c6" md5="0518ca9c0e3075168d78de12ad4a7d1c" sha1="b21ac19313cfd2e4978b6cb8b02ec52d21450897" />
+	</game>
+	<game name="Culdcept (USA)">
+		<category>Games</category>
+		<description>Culdcept (USA)</description>
+		<rom name="Culdcept (USA).iso" size="4266098688" crc="a9704fdf" md5="1a2a286f6033f3aa5e1188cbb76a0c87" sha1="0a6d522db8efdc7362daa65b592308f524a84962" />
+	</game>
+	<game name="Hot Shots Golf Fore! (USA)">
+		<category>Games</category>
+		<description>Hot Shots Golf Fore! (USA)</description>
+		<rom name="Hot Shots Golf Fore! (USA).iso" size="2915729408" crc="0883ef63" md5="6bd9d9f101cc224dfa4684b3d7b0ccca" sha1="656300289468473937a05fcea36c7a8c1522f1ad" />
+	</game>
+	<game name="Jak 3 (USA) (En,Fr,De,Es,It,Pt,Ru)">
+		<category>Games</category>
+		<description>Jak 3 (USA) (En,Fr,De,Es,It,Pt,Ru)</description>
+		<rom name="Jak 3 (USA) (En,Fr,De,Es,It,Pt,Ru).iso" size="4516773888" crc="a13baf4e" md5="de2dbea7846d664de682b712828b3b71" sha1="8b7ff72d5d4a446a8a1fa5c7ecdea33bf2f6860a" />
+	</game>
+	<game name="Mark of Kri, The (USA)">
+		<category>Games</category>
+		<description>Mark of Kri, The (USA)</description>
+		<rom name="Mark of Kri, The (USA).iso" size="2697428992" crc="8eae4899" md5="21169426b3cb78e1a4f387d0a439d427" sha1="9d50c6346ea63435a89d53053677ec6b0083d72e" />
+	</game>
+	<game name="Monster Hunter (USA)">
+		<category>Games</category>
+		<description>Monster Hunter (USA)</description>
+		<rom name="Monster Hunter (USA).iso" size="3996745728" crc="8da5f31b" md5="4ce184da236f65a5c1df37e5e9c32d00" sha1="5d957d13ae795f40c71d884971397d3a5f2d2533" />
+	</game>
+	<game name="NeoGeo Battle Coliseum (USA)">
+		<category>Games</category>
+		<description>NeoGeo Battle Coliseum (USA)</description>
+		<rom name="NeoGeo Battle Coliseum (USA).iso" size="1990590464" crc="7d838983" md5="a6cef0d374c375394fbd2ab2e36672cf" sha1="932a9c908fe3ff961b2c2146972a531a383c3297" />
+	</game>
+	<game name="Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es)</description>
+		<rom name="Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).iso" size="4379377664" crc="2b9b91f7" md5="ba9f2b38c7346e7b6e5b8e87717d5893" sha1="b080139c5a94688ef9472b78d5f5585a756d1ee4" />
+	</game>
+	<game name="Shin Megami Tensei - Nocturne (USA)">
+		<category>Games</category>
+		<description>Shin Megami Tensei - Nocturne (USA)</description>
+		<rom name="Shin Megami Tensei - Nocturne (USA).iso" size="4270227456" crc="7ed7fd30" md5="92e00a8a00c72d25e23d01694ac89193" sha1="0bd24019b524876f1d95387be5cc03678c4065d5" />
+	</game>
+	<game name="SOCOM 3 - U.S. Navy SEALs (USA)">
+		<category>Games</category>
+		<description>SOCOM 3 - U.S. Navy SEALs (USA)</description>
+		<rom name="SOCOM 3 - U.S. Navy SEALs (USA).iso" size="4203282432" crc="7b97033b" md5="527aaf9744e66b9ada585e4729fa7899" sha1="75a9e237f481decece3aea75e9910852f0d7e2a3" />
+	</game>
+	<game name="Street Fighter Alpha Anthology (USA)">
+		<category>Games</category>
+		<description>Street Fighter Alpha Anthology (USA)</description>
+		<rom name="Street Fighter Alpha Anthology (USA).iso" size="4698767360" crc="16676c2c" md5="12561a272a0475de3ccb702c0fc85f4c" sha1="906b23e96a591d0bdc87201dacdef1ff7c875494" />
+	</game>
+	<game name="Tokyo Xtreme Racer 3 (USA, Canada)">
+		<category>Games</category>
+		<description>Tokyo Xtreme Racer 3 (USA, Canada)</description>
+		<rom name="Tokyo Xtreme Racer 3 (USA, Canada).iso" size="2865725440" crc="a0b96c06" md5="054c01f5ca1a069a339b8c127b848ff0" sha1="d8266cf638985736b11de5ce83623543b8eb6b66" />
+	</game>
+	<game name="We Love Katamari (USA)">
+		<category>Games</category>
+		<description>We Love Katamari (USA)</description>
+		<rom name="We Love Katamari (USA).iso" size="3552477184" crc="67bd6a1e" md5="94e909dfd5e1d573bc68e59585b200f6" sha1="d83b352b364818b4d6012c2bbf1b2796b3ed955c" />
+	</game>
+	<game name="Yakuza 2 (USA)">
+		<category>Games</category>
+		<description>Yakuza 2 (USA)</description>
+		<rom name="Yakuza 2 (USA).iso" size="8288305152" crc="0eda9df2" md5="0c463653e86ab8a9bbd64c2991a44032" sha1="139a1aeb2c8065cdbe22bd04ddd4b4e771ef1179" />
+	</game>
+	<game name="Ape Escape 2 (USA)">
+		<category>Games</category>
+		<description>Ape Escape 2 (USA)</description>
+		<rom name="Ape Escape 2 (USA).iso" size="1780285440" crc="1d7e40f5" md5="567c25c07ae307d99c6c21f61ae7cd62" sha1="a2170559df85d873341fe0dc7dd11cdc004d9243" />
+	</game>
+	<game name="Silent Line - Armored Core (USA)">
+		<category>Games</category>
+		<description>Silent Line - Armored Core (USA)</description>
+		<rom name="Silent Line - Armored Core (USA).iso" size="1709506560" crc="7211ff62" md5="b631e251f5067a195e81cd942982d40e" sha1="668185272d963dd38c36565f104b50788848910e" />
+	</game>
+	<game name="Manhunt (USA)">
+		<category>Games</category>
+		<description>Manhunt (USA)</description>
+		<rom name="Manhunt (USA).iso" size="4698767360" crc="eb46a40b" md5="899091a154fb99d78bf1235017ef7177" sha1="a3dc3aa93aefcf84354aa67cd649b5d60f240250" />
+	</game>
+	<game name="Dot Hack G.U. Vol. 2 - Reminisce (USA)">
+		<category>Games</category>
+		<description>Dot Hack G.U. Vol. 2 - Reminisce (USA)</description>
+		<rom name="Dot Hack G.U. Vol. 2 - Reminisce (USA).iso" size="4120576000" crc="c3ebe4bf" md5="d7d4a0b97efe525c0081b016ad5f0877" sha1="276610ffa1f1933e5f569545d274e7d91c39de8f" />
+	</game>
+	<game name="Battlefield 2 - Modern Combat (USA)">
+		<category>Games</category>
+		<description>Battlefield 2 - Modern Combat (USA)</description>
+		<rom name="Battlefield 2 - Modern Combat (USA).iso" size="3614113792" crc="7ef88d2b" md5="7c2e28907800529b686de0f4cba286e2" sha1="e19017c10ed2fa3116e5e1f4d1f5a67829394fbd" />
+	</game>
+	<game name="Colin McRae Rally 04 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Colin McRae Rally 04 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Colin McRae Rally 04 (Europe, Australia) (En,Fr,De,Es,It).iso" size="1735163904" crc="e822d73a" md5="5ff7095b81b9fa6026edc5a0455ce7a4" sha1="a7379bd61bcf611e69468ead6be4ebd6102521c4" />
+	</game>
+	<game name="Need for Speed - Underground (USA, Canada)">
+		<category>Games</category>
+		<description>Need for Speed - Underground (USA, Canada)</description>
+		<rom name="Need for Speed - Underground (USA, Canada).iso" size="2726166528" crc="8d1f7a13" md5="5a27191623e2248e14bd6f0aca2eb476" sha1="5c4e254f0994ef9cbd1b774d88e5713bc4953c31" />
+	</game>
+	<game name="Tenchu - Fatal Shadows (USA)">
+		<category>Games</category>
+		<description>Tenchu - Fatal Shadows (USA)</description>
+		<rom name="Tenchu - Fatal Shadows (USA).iso" size="3853975552" crc="646aea3e" md5="169343ca1b1191b4acfd7be98aafb3d5" sha1="9d4286c5ec2e3ad627c77086ed6632bfc82c1f3b" />
+	</game>
+	<game name="Tenchu - Wrath of Heaven (USA) (En,Ja)">
+		<category>Games</category>
+		<description>Tenchu - Wrath of Heaven (USA) (En,Ja)</description>
+		<rom name="Tenchu - Wrath of Heaven (USA) (En,Ja).iso" size="3933995008" crc="75e16f45" md5="e75aa4c38bf757f0d32fcbb96c2120e9" sha1="0893fca6b969b33b315d83877e47058bc960481d" />
+	</game>
+	<game name="Champions - Return to Arms (USA) (v2.00)">
+		<category>Games</category>
+		<description>Champions - Return to Arms (USA) (v2.00)</description>
+		<rom name="Champions - Return to Arms (USA) (v2.00).iso" size="4293984256" crc="ec74b7b0" md5="886c884b18f4ccc301907d2c11d98dd1" sha1="9ecd092eefbac8776b3981606aad1166f4bac227" />
+	</game>
+	<game name="Contra - Shattered Soldier (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Contra - Shattered Soldier (USA) (En,Fr,Es)</description>
+		<rom name="Contra - Shattered Soldier (USA) (En,Fr,Es).cue" size="109" crc="aa44a74b" md5="b0fc948e063b9b93bac16636a850c65b" sha1="7937c32e3a023c458cd2970ec372de5d81723777" />
+		<rom name="Contra - Shattered Soldier (USA) (En,Fr,Es).bin" size="751990848" crc="9ddcf476" md5="f60f4c7c7cf92d3260ced2cb1d55954d" sha1="c4adf424dc77d80f02a5c8e4dcc8ed02de7bbe24" />
+	</game>
+	<game name="Crash of the Titans (USA)">
+		<category>Games</category>
+		<description>Crash of the Titans (USA)</description>
+		<rom name="Crash of the Titans (USA).iso" size="3280273408" crc="69302f23" md5="fa28881ce4a6dfcee8332d7d1b205755" sha1="9fcd0934d394be72ba044f99afc34f0046b8bff0" />
+	</game>
+	<game name="DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).iso" size="4674387968" crc="6743309e" md5="fb91e2e32406aeeeb463448afe1192f5" sha1="9d036eea47cea69a33fe7f092c4e2f8ae958fccb" />
+	</game>
+	<game name="Marvel - Ultimate Alliance (USA)">
+		<category>Games</category>
+		<description>Marvel - Ultimate Alliance (USA)</description>
+		<rom name="Marvel - Ultimate Alliance (USA).iso" size="2948825088" crc="c1f1659c" md5="0fb65e2c3118026d76ab290cc05bc6a4" sha1="627f726a19c651f12217aec3fa8c6ebca7427a7f" />
+	</game>
+	<game name="Star Wars - Jedi Starfighter (USA)">
+		<category>Games</category>
+		<description>Star Wars - Jedi Starfighter (USA)</description>
+		<rom name="Star Wars - Jedi Starfighter (USA).iso" size="1981087744" crc="90be6aa4" md5="94b958aff6047a9f4cb5b7e85eec8b52" sha1="5182d7f83f186a6e04c1ab978c8a6de93f6e0d15" />
+	</game>
+	<game name="Punisher, The (USA)">
+		<category>Games</category>
+		<description>Punisher, The (USA)</description>
+		<rom name="Punisher, The (USA).iso" size="1990492160" crc="778c9170" md5="4bb4c2604a2c517e8ceefa803c54dc6d" sha1="83430df906ab0fa097d0c13cf996d4491c5fb2e5" />
+	</game>
+	<game name="World of Outlaws - Sprint Cars 2002 (USA)">
+		<category>Games</category>
+		<description>World of Outlaws - Sprint Cars 2002 (USA)</description>
+		<rom name="World of Outlaws - Sprint Cars 2002 (USA).iso" size="4439506944" crc="b536c2f0" md5="92e5f36556ed0401134f3db9fbdc3a45" sha1="94ed0576ac46ef01673bbe34484fe6cc5856702c" />
+	</game>
+	<game name="Mashed - Drive to Survive (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Mashed - Drive to Survive (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Mashed - Drive to Survive (Europe) (En,Fr,De,Es,It).cue" size="117" crc="735de4f9" md5="462145700d99e108ed8d0149a4e52288" sha1="c30054f4265ceb78a2f9df934aa6a59f765aae41" />
+		<rom name="Mashed - Drive to Survive (Europe) (En,Fr,De,Es,It).bin" size="488834976" crc="00b55ac6" md5="014b0e80875fc20b6ea2ec7de0c224a6" sha1="90ed7ddff7e3433984339188675c1c3f7f75c50e" />
+	</game>
+	<game name="WWE SmackDown! Here Comes the Pain (USA)">
+		<category>Games</category>
+		<description>WWE SmackDown! Here Comes the Pain (USA)</description>
+		<rom name="WWE SmackDown! Here Comes the Pain (USA).iso" size="4525228032" crc="736e6931" md5="014ae3d46510de9f6b01ce9a6e436a82" sha1="de7c90306843b97d18deaf46a627f5f375d94a22" />
+	</game>
+	<game name="Half-Life (USA)">
+		<category>Games</category>
+		<description>Half-Life (USA)</description>
+		<rom name="Half-Life (USA).cue" size="81" crc="e11b53d4" md5="3a33978ee800b149179df1b4cc12482b" sha1="fe7a59f00c8549dde6434192cc2ceac0d3b7eab5" />
+		<rom name="Half-Life (USA).bin" size="629336400" crc="c20fb34c" md5="ad5c9d710a7b74686d864036de3a4d26" sha1="3f84dc2bfb43eba72d5c85c80997b2e7c341bcd4" />
+	</game>
+	<game name="Dave Mirra Freestyle BMX 2 (USA)">
+		<category>Games</category>
+		<description>Dave Mirra Freestyle BMX 2 (USA)</description>
+		<rom name="Dave Mirra Freestyle BMX 2 (USA).cue" size="98" crc="3b387e9c" md5="a0b415cd564373fd0e064b1363782df6" sha1="d298ac4b4906a56426b5763538b008269142b4ec" />
+		<rom name="Dave Mirra Freestyle BMX 2 (USA).bin" size="720728064" crc="f37eefca" md5="faae63afaf60874f010afab9d1e734a2" sha1="fb9a1ee77566de629507b3433473030958928dd5" />
+	</game>
+	<game name="Def Jam - Vendetta (USA)">
+		<category>Games</category>
+		<description>Def Jam - Vendetta (USA)</description>
+		<rom name="Def Jam - Vendetta (USA).iso" size="2216034304" crc="53b1531c" md5="b30fd71345a2c8abedfeb18102e732ce" sha1="410e9e2dd1c31a8a952d94dd9b26c6d44e00f7eb" />
+	</game>
+	<game name="Destroy All Humans! 2 (USA)">
+		<category>Games</category>
+		<description>Destroy All Humans! 2 (USA)</description>
+		<rom name="Destroy All Humans! 2 (USA).iso" size="4502323200" crc="23617beb" md5="e6ad962a09349ce6b92c7b1d9bc9f5e3" sha1="aaa1dff39a51e183f4c11df1fea1fb524a9a6948" />
+	</game>
+	<game name="Deus Ex - The Conspiracy (USA)">
+		<category>Games</category>
+		<description>Deus Ex - The Conspiracy (USA)</description>
+		<rom name="Deus Ex - The Conspiracy (USA).iso" size="1383399424" crc="4b69d1a8" md5="81d53bf07d144b8fb2ee67f1760e50ca" sha1="4d29d01ff53924744b3d6ab683266605595922d3" />
+	</game>
+	<game name="Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)">
+		<category>Games</category>
+		<description>Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<rom name="Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko).iso" size="3584229376" crc="4f5f29e7" md5="a7ab10fbcf20e4aa2f8f6d7c026d6630" sha1="0f7b0d5d75fe34ddf72e26aae1b4f5e7891282b0" />
+	</game>
+	<game name="Dark Cloud 2 (USA) (v2.00)">
+		<category>Games</category>
+		<description>Dark Cloud 2 (USA) (v2.00)</description>
+		<rom name="Dark Cloud 2 (USA) (v2.00).iso" size="4437770240" crc="08f931e6" md5="0bec104614687df18f28f6f58c2285ad" sha1="25a8397194d7243f84c9755406720bc32585113a" />
+	</game>
+	<game name="Front Mission 4 (USA)">
+		<category>Games</category>
+		<description>Front Mission 4 (USA)</description>
+		<rom name="Front Mission 4 (USA).iso" size="2023227392" crc="d8defa68" md5="2ce492a906939c893d7f301d3e267e06" sha1="9fc768bbf975dd88e072cdb54bbe27c8cacf9bfc" />
+	</game>
+	<game name="Dot Hack G.U. Vol. 1 - Rebirth (USA)">
+		<category>Games</category>
+		<description>Dot Hack G.U. Vol. 1 - Rebirth (USA)</description>
+		<rom name="Dot Hack G.U. Vol. 1 - Rebirth (USA).iso" size="3635773440" crc="36dbf2a7" md5="23c320b2803cf5c448541e8e6127ed24" sha1="3511e97fc173f0cada25e6b540b1af8c7c01d977" />
+	</game>
+	<game name="Ring of Red (USA)">
+		<category>Games</category>
+		<description>Ring of Red (USA)</description>
+		<rom name="Ring of Red (USA).cue" size="83" crc="146158b5" md5="8162ee147df5e6110839ff3bed0f52e6" sha1="ef60785bd81589de68cd13a3c8067883db3e5859" />
+		<rom name="Ring of Red (USA).bin" size="582668016" crc="ddb29e94" md5="316a3e8a69ca54757be456f2cf74777c" sha1="a44f039cc3512891d6e49346cabb1e3013c008d8" />
+	</game>
+	<game name="Monster Rancher 4 (USA)">
+		<category>Games</category>
+		<description>Monster Rancher 4 (USA)</description>
+		<rom name="Monster Rancher 4 (USA).iso" size="1674739712" crc="04de64a4" md5="940a0b1a2aab76d1d59affc43d0d318c" sha1="94a56938776e99b77741640a773c388b37282a55" />
+	</game>
+	<game name="MS Saga - A New Dawn (USA)">
+		<category>Games</category>
+		<description>MS Saga - A New Dawn (USA)</description>
+		<rom name="MS Saga - A New Dawn (USA).iso" size="1632796672" crc="e7c78655" md5="4e07492a41def41c464892df8aaa65b0" sha1="c52faa9b5f0ef0187b2fc44f85c8e81436471620" />
+	</game>
+	<game name="Medal of Honor - European Assault (USA)">
+		<category>Games</category>
+		<description>Medal of Honor - European Assault (USA)</description>
+		<rom name="Medal of Honor - European Assault (USA).iso" size="3857154048" crc="0828e793" md5="d98d69a67245920e4b0ad8951a6c527f" sha1="bc5d4d545effcde7252df964d4c6f3e9c7c6ff63" />
+	</game>
+	<game name="Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over)">
+		<category>Games</category>
+		<description>Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over)</description>
+		<rom name="Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over).iso" size="7702773760" crc="8c68b2fa" md5="740da626e4ee741a3a0df26b672e52b9" sha1="db24acbb4da3d8a6828d76b4bf7b4f4c21956fa8" />
+	</game>
+	<game name="Time Crisis 3 (USA)">
+		<category>Games</category>
+		<description>Time Crisis 3 (USA)</description>
+		<rom name="Time Crisis 3 (USA).iso" size="1694564352" crc="788553fa" md5="d5cc226c6bb6c9a8342deb2a302c5c64" sha1="509d52850c009c9c44ba5bfe8dc637a9c8830cc4" />
+	</game>
+	<game name="Sims, The - Bustin' Out (USA)">
+		<category>Games</category>
+		<description>Sims, The - Bustin' Out (USA)</description>
+		<rom name="Sims, The - Bustin' Out (USA).iso" size="2138636288" crc="beeff144" md5="4cac91a6834ca4f798a3fefd468961e9" sha1="1d30fcdf446dbb793ad39c732b8c2dbdb321c2d1" />
+	</game>
+	<game name="Simpsons, The - Hit &amp; Run (USA)">
+		<category>Games</category>
+		<description>Simpsons, The - Hit &amp; Run (USA)</description>
+		<rom name="Simpsons, The - Hit &amp; Run (USA).iso" size="2154266624" crc="386cf439" md5="9efe68564fbc397fd6eb0e5b1e7085da" sha1="8cca1f4968ae7fb3916edc39f7ccee337383af63" />
+	</game>
+	<game name="Steambot Chronicles (USA)">
+		<category>Games</category>
+		<description>Steambot Chronicles (USA)</description>
+		<rom name="Steambot Chronicles (USA).iso" size="2637758464" crc="128614ed" md5="28e761070947a119974be0b6aeec589d" sha1="c1c287504400e66d95724719edc8a50010aa7595" />
+	</game>
+	<game name="Shadow Hearts - Covenant (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Shadow Hearts - Covenant (USA) (Disc 1)</description>
+		<rom name="Shadow Hearts - Covenant (USA) (Disc 1).iso" size="3839328256" crc="991aa667" md5="4cb5352eaa3aeb25a05eaaf17c729592" sha1="aa1aa1c5ae43fc9861e8b19e3fb038a363ce32c0" />
+	</game>
+	<game name="Shadow Hearts - Covenant (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Shadow Hearts - Covenant (USA) (Disc 2)</description>
+		<rom name="Shadow Hearts - Covenant (USA) (Disc 2).iso" size="4369350656" crc="47008aa4" md5="046ba7dd230604dadbd08bbd666c5a64" sha1="0b0784996f0f13a652fc9e65ffec953adf335d48" />
+	</game>
+	<game name="Time Crisis II (USA)">
+		<category>Games</category>
+		<description>Time Crisis II (USA)</description>
+		<rom name="Time Crisis II (USA).cue" size="86" crc="d9d83b4b" md5="78c7e94b6ea63b71a1e32548232175ac" sha1="4f8c6158985dfe5c1d7ad00817da5ec9b7f6d1d5" />
+		<rom name="Time Crisis II (USA).bin" size="737930592" crc="00f8d4f9" md5="ae422fa4614592909d3961bc16651dcb" sha1="482852ef8abeab0f52f09edbd79f72b4afeca41f" />
+	</game>
+	<game name="Crash Twinsanity (USA) (v2.00)">
+		<category>Games</category>
+		<description>Crash Twinsanity (USA) (v2.00)</description>
+		<rom name="Crash Twinsanity (USA) (v2.00).iso" size="2108489728" crc="06c5bb4a" md5="24588dbb3a0ec54fe7e2a7f813096849" sha1="4f1a56f633c1b500bf3e39a0df1fdc8f101018ff" />
+	</game>
+	<game name="MDK2 - Armageddon (USA)">
+		<category>Games</category>
+		<description>MDK2 - Armageddon (USA)</description>
+		<rom name="MDK2 - Armageddon (USA).cue" size="89" crc="5a7befa3" md5="f3c63dba6483dad3d24792a97ea8fad3" sha1="9fe312e522d152176a6139cb20a399cbedc94ab9" />
+		<rom name="MDK2 - Armageddon (USA).bin" size="609596064" crc="d0e8d703" md5="206f7bbf7a454a5c259c3c58c3e5684e" sha1="00208ad732fff0a6b6fb101ab9efd55b9b39c4d7" />
+	</game>
+	<game name="Rumble Racing (USA)">
+		<category>Games</category>
+		<description>Rumble Racing (USA)</description>
+		<rom name="Rumble Racing (USA).cue" size="85" crc="b952a138" md5="c92cc575b3542ed8523e9ff4fdaceb81" sha1="5cae0855d8afc61588975bf1b7d073594553a17d" />
+		<rom name="Rumble Racing (USA).bin" size="601453440" crc="23fb060a" md5="fc5885a160d57cbafebc8f5bf50dac2d" sha1="6547381e6056c6cb9262a77e44a03bba1aa067bb" />
+	</game>
+	<game name="Urban Chaos - Riot Response (USA)">
+		<category>Games</category>
+		<description>Urban Chaos - Riot Response (USA)</description>
+		<rom name="Urban Chaos - Riot Response (USA).iso" size="3555328000" crc="396963af" md5="f0d5471f16c3b0f5f515f713593f0df8" sha1="22bbcf7474509d7f07c4496a12fc8f109822f797" />
+	</game>
+	<game name="Tony Hawk's Underground 2 (USA)">
+		<category>Games</category>
+		<description>Tony Hawk's Underground 2 (USA)</description>
+		<rom name="Tony Hawk's Underground 2 (USA).iso" size="3364945920" crc="c1324d49" md5="96d2abe7e09fc43f6bbbe47307464dc7" sha1="6dab2e14c1525a24b2dd446366086cc7f08094c3" />
+	</game>
+	<game name="Psi-Ops - The Mindgate Conspiracy (USA)">
+		<category>Games</category>
+		<description>Psi-Ops - The Mindgate Conspiracy (USA)</description>
+		<rom name="Psi-Ops - The Mindgate Conspiracy (USA).iso" size="2782887936" crc="08f55dde" md5="d7695c8ec852175a260bf09561d7779f" sha1="1e6fa488dcfa284fe4fb1f051186ebc2bd487384" />
+	</game>
+	<game name="I-Ninja (USA)">
+		<category>Games</category>
+		<description>I-Ninja (USA)</description>
+		<rom name="I-Ninja (USA).iso" size="1320910848" crc="f6a9c927" md5="c120866cea9b4bdc4a6f2cd614d91593" sha1="c6536783fd6eb715ec2f2953bc83111f2af432b9" />
+	</game>
+	<game name="Incredible Hulk, The - Ultimate Destruction (USA)">
+		<category>Games</category>
+		<description>Incredible Hulk, The - Ultimate Destruction (USA)</description>
+		<rom name="Incredible Hulk, The - Ultimate Destruction (USA).iso" size="4143775744" crc="e40f8172" md5="144562b96587c2564433273ffc26c859" sha1="ceb21a4d9a271a0156b92b1186ef26fd5add47e0" />
+	</game>
+	<game name="Devil May Cry 3 - Dante's Awakening (USA) (En,Ja,Ko)">
+		<category>Games</category>
+		<description>Devil May Cry 3 - Dante's Awakening (USA) (En,Ja,Ko)</description>
+		<rom name="Devil May Cry 3 - Dante's Awakening (USA) (En,Ja,Ko).iso" size="3865706496" crc="57fe4c7a" md5="04d74bfeccb7a15ca1c7826bda07f54a" sha1="0eb1e437cc30b6e89bffe01708585587c3def7fc" />
+	</game>
+	<game name="Ultimate Spider-Man (USA)">
+		<category>Games</category>
+		<description>Ultimate Spider-Man (USA)</description>
+		<rom name="Ultimate Spider-Man (USA).iso" size="4154982400" crc="f1938362" md5="c3f201c415ad946905d9ecda3af7f474" sha1="13fba9cbc046ac40c55f0cc9a709439d4d5ebdf1" />
+	</game>
+	<game name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Prince of Persia - The Two Thrones (USA) (En,Fr,Es)</description>
+		<rom name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es).iso" size="4670685184" crc="7b53e8cb" md5="861fc26f064181dc8d04b378e0363969" sha1="0216baab741a664ad0446ab473d2ea7619a00791" />
+	</game>
+	<game name="Mercenaries (USA)">
+		<category>Games</category>
+		<description>Mercenaries (USA)</description>
+		<rom name="Mercenaries (USA).iso" size="4696604672" crc="26d80e98" md5="f91736e5512c3980e493a5c75e59d2da" sha1="80285a6741e2680af2f70e3c34e6b5d4d1ef3078" />
+	</game>
+	<game name="Mobile Suit Gundam - Federation vs. Zeon (USA)">
+		<category>Games</category>
+		<description>Mobile Suit Gundam - Federation vs. Zeon (USA)</description>
+		<rom name="Mobile Suit Gundam - Federation vs. Zeon (USA).iso" size="4262264832" crc="5bf8279f" md5="2477525a4ce6684eac7ab2ab267b6543" sha1="184a0b5a6470753cc3dd988299c2ea06ff122bd2" />
+	</game>
+	<game name="Naruto - Ultimate Ninja 2 (USA)">
+		<category>Games</category>
+		<description>Naruto - Ultimate Ninja 2 (USA)</description>
+		<rom name="Naruto - Ultimate Ninja 2 (USA).iso" size="4134338560" crc="4db80997" md5="4db7cb553f1ef3d5e60b6b0b350494f0" sha1="2e02e534c492a284c297ed702462a18d27c922dd" />
+	</game>
+	<game name="Twisted Metal - Black (USA)">
+		<category>Games</category>
+		<description>Twisted Metal - Black (USA)</description>
+		<rom name="Twisted Metal - Black (USA).iso" size="3799744512" crc="347e93f9" md5="f55bb3c22c2133f55dbd589dd7b0220d" sha1="30b6043f9d91ab3d44bcd8f7484d925c0c6d806d" />
+	</game>
+	<game name="Frequency (USA)">
+		<category>Games</category>
+		<description>Frequency (USA)</description>
+		<rom name="Frequency (USA).cue" size="81" crc="7fc80ef5" md5="90e636307a6115d7e5fd740594121bff" sha1="72d5fd24d08e644637e2eb115693c2c870d4468b" />
+		<rom name="Frequency (USA).bin" size="448448784" crc="37e2786a" md5="fa2b6e22a706e89bdce0da1dcbe18be5" sha1="644f3c6c26dcb2704462bcdd489849d3e8d61f23" />
+	</game>
+	<game name="Rez (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Rez (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Rez (USA) (En,Fr,De,Es,It).cue" size="92" crc="686e3e69" md5="57fa09e03774a776ba978c3e25d1a83f" sha1="b0f4c4f8051dc37c7a55e1135fb7aa4c3d4f8469" />
+		<rom name="Rez (USA) (En,Fr,De,Es,It).bin" size="230785296" crc="76b51326" md5="d0f7adbe1245c5d0ec6f68b4d785d845" sha1="f6ac65761e9d8c8c9eb9d3377ff53719557ae346" />
+	</game>
+	<game name="Freedom Fighters (USA)">
+		<category>Games</category>
+		<description>Freedom Fighters (USA)</description>
+		<rom name="Freedom Fighters (USA).iso" size="2068938752" crc="b5f3ddc6" md5="4465d9e6df6b378d8d8bb557cbb502e4" sha1="5c129aaa25ecc53139fe543cf664b697e7902eb6" />
+	</game>
+	<game name="Klonoa 2 - Lunatea's Veil (USA)">
+		<category>Games</category>
+		<description>Klonoa 2 - Lunatea's Veil (USA)</description>
+		<rom name="Klonoa 2 - Lunatea's Veil (USA).iso" size="1302233088" crc="b2affa86" md5="a4a2456c13d61f74438be145bd2bb033" sha1="d46e0e090f33c324c691ccbadc3cc1b16f405b8a" />
+	</game>
+	<game name="Prince of Persia - Warrior Within (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Prince of Persia - Warrior Within (USA) (En,Fr,Es)</description>
+		<rom name="Prince of Persia - Warrior Within (USA) (En,Fr,Es).iso" size="3846406144" crc="329634de" md5="3864c5e22ca0b89b974b969e383e1ae5" sha1="3f9462e52b982199ab6d239f1c4a3cbab988e5e2" />
+	</game>
+	<game name="Ratchet - Deadlocked (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Ratchet - Deadlocked (USA) (En,Fr,Es)</description>
+		<rom name="Ratchet - Deadlocked (USA) (En,Fr,Es).iso" size="4356898816" crc="66eb35f4" md5="c1e1992076becc7de5aa70ef1de8bcd0" sha1="a85482348f741d848dd2ff4e4c3ba7c2c40f431d" />
+	</game>
+	<game name="Shadow of Rome (USA)">
+		<category>Games</category>
+		<description>Shadow of Rome (USA)</description>
+		<rom name="Shadow of Rome (USA).iso" size="4694016000" crc="e8729f49" md5="c094753730ec3ded623a53f061ba1c01" sha1="8a4c66a6bbc814d6c7edb31f9568072c837902bd" />
+	</game>
+	<game name="Silent Hill 4 - The Room (USA) (En,Ja)">
+		<category>Games</category>
+		<description>Silent Hill 4 - The Room (USA) (En,Ja)</description>
+		<rom name="Silent Hill 4 - The Room (USA) (En,Ja).iso" size="3933929472" crc="e231d332" md5="e6df30a9802174a22d9f7d6df1bb3384" sha1="195e77e6a3422b1ef8ebaf4165533f3bf68121a6" />
+	</game>
+	<game name="Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).iso" size="4262789120" crc="bd5e79a4" md5="f04abf6cd15090db3c8edf9773e49eed" sha1="15da183d54a514f745f008f22000c562ab1a9504" />
+	</game>
+	<game name="Robot Alchemic Drive (USA)">
+		<category>Games</category>
+		<description>Robot Alchemic Drive (USA)</description>
+		<rom name="Robot Alchemic Drive (USA).cue" size="92" crc="ef340de5" md5="151887057973f4d9fc61b013c3f86d6e" sha1="98790baff495bb66bef75020e9d4290e1600dc7f" />
+		<rom name="Robot Alchemic Drive (USA).bin" size="519222816" crc="c1a34199" md5="d2ce9dbad77ebd48377534f997588af4" sha1="2764e06e77b2dc5dd78dc04b2f20b6231ca63ce2" />
+	</game>
+	<game name="007 - Nightfire (USA)">
+		<category>Games</category>
+		<description>007 - Nightfire (USA)</description>
+		<rom name="007 - Nightfire (USA).iso" size="2439315456" crc="848bacb6" md5="008302d82a305e9ad04e349f1f6982ee" sha1="03717059f97630e9ee2fd56dcf537c6fe3ed96d1" />
+	</game>
+	<game name="WWE SmackDown! vs. Raw (USA)">
+		<category>Games</category>
+		<description>WWE SmackDown! vs. Raw (USA)</description>
+		<rom name="WWE SmackDown! vs. Raw (USA).iso" size="4384358400" crc="d22b875b" md5="c0b7696b2c557b30065e6600cbedf0db" sha1="c10110a127879fd55abe1d1e8c5654c9d2a8b1dd" />
+	</game>
+	<game name="WWE SmackDown! vs. Raw 2006 (USA)">
+		<category>Games</category>
+		<description>WWE SmackDown! vs. Raw 2006 (USA)</description>
+		<rom name="WWE SmackDown! vs. Raw 2006 (USA).iso" size="4251484160" crc="96c01ff3" md5="96e52ee526b7e8e1829a1542a8df9b08" sha1="163ae8f76b365c47616f6c70b8ed33ebc6534cee" />
+	</game>
+	<game name="Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).iso" size="4698767360" crc="62ba7ff1" md5="5a9a0789ffdb0a9fb2d7b9af50d1bc38" sha1="528a88770443c34a086f8785a3e3793b74198892" />
+	</game>
+	<game name="Gradius V (USA)">
+		<category>Games</category>
+		<description>Gradius V (USA)</description>
+		<rom name="Gradius V (USA).cue" size="81" crc="04286247" md5="3915973a4939ea0bf4c7fea27a793322" sha1="2ef30018585d72e7d0b5f501f77f17301b818e3a" />
+		<rom name="Gradius V (USA).bin" size="465832416" crc="cd10c7f2" md5="bed560ec8de61e192371c3b16df911fa" sha1="57a4a82fa3aa89d2fdd68c0d354aacca0fc82fd2" />
+	</game>
+	<game name="Tales of Destiny 2 (Japan, Asia)">
+		<category>Games</category>
+		<description>Tales of Destiny 2 (Japan, Asia)</description>
+		<rom name="Tales of Destiny 2 (Japan, Asia).iso" size="3234004992" crc="359de692" md5="57cc3626a9cdc44bcde55efde9d22e78" sha1="3b2be72b751607a7a2a56d62feec71584b4b8c72" />
+	</game>
+	<game name="Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Rayman 2 - Revolution (USA) (En,Fr,De,Es,It).iso" size="4492525568" crc="4f9ac0f1" md5="adb3ab8eb9769ad2e87580dc69f4dd94" sha1="4d750a655609a4e0a9d0e29f04fddc15ddcffdeb" />
+	</game>
+	<game name="Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It).iso" size="4493967360" crc="9aaef11d" md5="19b9dee202d83312a23b795ba0544234" sha1="4b10891453f72732a04dedc08252f5e53fbd088c" />
+	</game>
+	<game name="Romance of the Three Kingdoms XI (USA)">
+		<category>Games</category>
+		<description>Romance of the Three Kingdoms XI (USA)</description>
+		<rom name="Romance of the Three Kingdoms XI (USA).iso" size="1913356288" crc="abfa2425" md5="844572c820b534669a0531255dffb35c" sha1="5796a4fbeba8e430f95667f15b7c6d176d5c9bdf" />
+	</game>
+	<game name="WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es)</description>
+		<rom name="WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es).iso" size="3442769920" crc="c7afa5b6" md5="5d530f59b3eb3b4ef7d1cfc717b472fe" sha1="14f3058a9436c67f4e85dda4538531af5a0ab50b" />
+	</game>
+	<game name="NeoGeo Online Collection Vol. 1 - Garou - Mark of the Wolves (Japan)">
+		<category>Games</category>
+		<description>NeoGeo Online Collection Vol. 1 - Garou - Mark of the Wolves (Japan)</description>
+		<rom name="NeoGeo Online Collection Vol. 1 - Garou - Mark of the Wolves (Japan).iso" size="1360396288" crc="c8a8082b" md5="25fd9f63b4a3e1ffe5dc8597436a9fa5" sha1="7aae4ad77f1a9e39d72acc881479a1817d1d47c9" />
+	</game>
+	<game name="Syphon Filter - Logan's Shadow (USA)">
+		<category>Games</category>
+		<description>Syphon Filter - Logan's Shadow (USA)</description>
+		<rom name="Syphon Filter - Logan's Shadow (USA).iso" size="4413915136" crc="0162d060" md5="da599ff54a5c352214e2b4885cc74237" sha1="d6eafe3423894783a38b23d906dbd69317e7cccc" />
+	</game>
+	<game name="Guilty Gear XX Accent Core (USA)">
+		<category>Games</category>
+		<description>Guilty Gear XX Accent Core (USA)</description>
+		<rom name="Guilty Gear XX Accent Core (USA).iso" size="4171071488" crc="fcd807af" md5="91f85d648b31a2a9d56329e11b664319" sha1="ca72aa439480a814ffd81d59b26c44a32ab3aa7c" />
+	</game>
+	<game name="World Series of Poker 2008 - Battle for the Bracelets (USA)">
+		<category>Games</category>
+		<description>World Series of Poker 2008 - Battle for the Bracelets (USA)</description>
+		<rom name="World Series of Poker 2008 - Battle for the Bracelets (USA).iso" size="3304095744" crc="78ef9c65" md5="0a39115148df2bc6b1a51274aecd2947" sha1="4c223aa9f9c5a62917e2d61e2422f1be1ea3ee7b" />
+	</game>
+	<game name="WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es)</description>
+		<rom name="WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).iso" size="3945037824" crc="c4c6fcbd" md5="4d50da1aa0f251569daa9c64e4464b33" sha1="8e951fc385a843a101bc8c530a3704acec94f992" />
+	</game>
+	<game name="Wakeboarding Unleashed featuring Shaun Murray (USA)">
+		<category>Games</category>
+		<description>Wakeboarding Unleashed featuring Shaun Murray (USA)</description>
+		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA).iso" size="4505731072" crc="d1179e50" md5="691343ff34919e25bd81002d088f18e3" sha1="663981bf4c24eb13affbbe5d235b9eb62fc6727d" />
+	</game>
+	<game name="Ghost Rider (USA)">
+		<category>Games</category>
+		<description>Ghost Rider (USA)</description>
+		<rom name="Ghost Rider (USA).iso" size="2637594624" crc="41798329" md5="ca98880e7f298197a02b1435bb5876ae" sha1="b2d3b644361ca6c67741894689bae4930ca3c86b" />
+	</game>
+	<game name="Dynasty Warriors 5 (USA)">
+		<category>Games</category>
+		<description>Dynasty Warriors 5 (USA)</description>
+		<rom name="Dynasty Warriors 5 (USA).iso" size="3721560064" crc="cfe472d5" md5="672aafc07fcd57700129b366ec220452" sha1="019fdbd1d5f8a1a60c68c8a784a661ed08f33a2d" />
+	</game>
+	<game name="Spider-Man - Friend or Foe (USA)">
+		<category>Games</category>
+		<description>Spider-Man - Friend or Foe (USA)</description>
+		<rom name="Spider-Man - Friend or Foe (USA).iso" size="4215799808" crc="14b3a916" md5="75f06f4118e97145979aed499c9ec9a5" sha1="8cfb542da32bcebb6d746775f65cf926ab1ac5e1" />
+	</game>
+	<game name="Dai-2-ji Super Robot Taisen Alpha (Japan)">
+		<category>Games</category>
+		<description>Dai-2-ji Super Robot Taisen Alpha (Japan)</description>
+		<rom name="Dai-2-ji Super Robot Taisen Alpha (Japan).iso" size="2501378048" crc="4a562a40" md5="f56b0a17680f43c95787383dbc731b89" sha1="9424c117f19837d31ae0c1c4dcad54ba75c4be1b" />
+	</game>
+	<game name="SD Gundam - GGeneration Neo (Japan)">
+		<category>Games</category>
+		<description>SD Gundam - GGeneration Neo (Japan)</description>
+		<rom name="SD Gundam - GGeneration Neo (Japan).iso" size="3766616064" crc="61f461d1" md5="90b8979f03fc1ce8e9def93ad5d36623" sha1="4a5d86aa3011fb5ff744401dad8025aa3ff9c25d" />
+	</game>
+	<game name="Test Drive Unlimited (USA)">
+		<category>Games</category>
+		<description>Test Drive Unlimited (USA)</description>
+		<rom name="Test Drive Unlimited (USA).iso" size="3999531008" crc="92004796" md5="dabc6cc76d54d689e11987e578f06107" sha1="31ba86e3f32573c2c180028d520442d6b478953d" />
+	</game>
+	<game name="Fatal Fury - Battle Archives Volume 2 (USA, Canada)">
+		<category>Games</category>
+		<description>Fatal Fury - Battle Archives Volume 2 (USA, Canada)</description>
+		<rom name="Fatal Fury - Battle Archives Volume 2 (USA, Canada).iso" size="2044887040" crc="2e51e938" md5="6bc9701132b54d919e7bef89f520b7b9" sha1="37d0cfdea442aa974b777e630eb7c69fe2724dfe" />
+	</game>
+	<game name="Samurai Shodown Anthology (USA, Canada)">
+		<category>Games</category>
+		<description>Samurai Shodown Anthology (USA, Canada)</description>
+		<rom name="Samurai Shodown Anthology (USA, Canada).iso" size="2969436160" crc="b18e8b00" md5="9586c46286f3269c15dccf84a31cead0" sha1="c60c91900bdcdea8fee5ede4e20315936cfaeb8e" />
+	</game>
+	<game name="Ben 10 - Protector of Earth (USA)">
+		<category>Games</category>
+		<description>Ben 10 - Protector of Earth (USA)</description>
+		<rom name="Ben 10 - Protector of Earth (USA).iso" size="3400499200" crc="872c6408" md5="ef10a0b21a33bb51808e7328536dfd08" sha1="d212e3cbe2cf234b98c4d0cb35e0edc555b83d6e" />
+	</game>
+	<game name="Sonic Mega Collection Plus (USA)">
+		<category>Games</category>
+		<description>Sonic Mega Collection Plus (USA)</description>
+		<rom name="Sonic Mega Collection Plus (USA).iso" size="4698767360" crc="cd10bf95" md5="54ba00d69f9d345db6c762745eac4bd7" sha1="1d7741b1ada9f0fcf7082b06bbaf32a93cd3b3a1" />
+	</game>
+	<game name="NASCAR Thunder 2003 (USA)">
+		<category>Games</category>
+		<description>NASCAR Thunder 2003 (USA)</description>
+		<rom name="NASCAR Thunder 2003 (USA).iso" size="1566539776" crc="0a87469f" md5="aced857f4c20b22c651f9ce784e89827" sha1="5becaa3ddbe9f2601474ae67226548f79877ae0e" />
+	</game>
+	<game name="Scarface - The World Is Yours (USA)">
+		<category>Games</category>
+		<description>Scarface - The World Is Yours (USA)</description>
+		<rom name="Scarface - The World Is Yours (USA).iso" size="3791028224" crc="efb00924" md5="aad9ed361e5697bf6960b9ac895e0565" sha1="36725583a2d8335cbdbe8679ffe2107ec8167bba" />
+	</game>
+	<game name="Another Century's Episode 3 - The Final (Japan)">
+		<category>Games</category>
+		<description>Another Century's Episode 3 - The Final (Japan)</description>
+		<rom name="Another Century's Episode 3 - The Final (Japan).iso" size="4447076352" crc="094a5306" md5="3f8bc41101635b152fed920182cd36e3" sha1="e28be00d97ee6624e3985acf9b5267b184c58d78" />
+	</game>
+	<game name="King of Fighters '98, The - Ultimate Match (USA)">
+		<category>Games</category>
+		<description>King of Fighters '98, The - Ultimate Match (USA)</description>
+		<rom name="King of Fighters '98, The - Ultimate Match (USA).iso" size="3300196352" crc="b22aec89" md5="7cca765e1685d82213a5ed09caec783e" sha1="4185134c89d56a8eacbe28861c71227033149530" />
+	</game>
+	<game name="War of the Monsters (USA)">
+		<category>Games</category>
+		<description>War of the Monsters (USA)</description>
+		<rom name="War of the Monsters (USA).iso" size="1258815488" crc="eb9d9583" md5="f49f3679bff43b194b479c3dc3f01225" sha1="55de29708e1943299d40f7e07d7fecbf0e2ae0a8" />
+	</game>
+	<game name="Crash Tag Team Racing (USA)">
+		<category>Games</category>
+		<description>Crash Tag Team Racing (USA)</description>
+		<rom name="Crash Tag Team Racing (USA).iso" size="3533438976" crc="d8b2aa1c" md5="ea57654961fd197f91f54ffd53893323" sha1="0eab8e6edfff13a4aee6a9fe48ef288817ae4248" />
+	</game>
+	<game name="NASCAR Thunder 2004 (USA)">
+		<category>Games</category>
+		<description>NASCAR Thunder 2004 (USA)</description>
+		<rom name="NASCAR Thunder 2004 (USA).iso" size="3379298304" crc="019c44a0" md5="bb9cc312a9d56046591d47b823237fe6" sha1="597254c3d678acac7cff0a5f16bb8e977e96f2da" />
+	</game>
+	<game name="Urban Reign (USA)">
+		<category>Games</category>
+		<description>Urban Reign (USA)</description>
+		<rom name="Urban Reign (USA).iso" size="4140924928" crc="87803691" md5="7de3002510bdf1397d3fbc5b94158377" sha1="4d06b400fdc763e61c81ae65adbb2017361dd78c" />
+	</game>
+	<game name="NASCAR Heat 2002 (USA)">
+		<category>Games</category>
+		<description>NASCAR Heat 2002 (USA)</description>
+		<rom name="NASCAR Heat 2002 (USA).iso" size="1842708480" crc="b9ca943d" md5="e101ced3c4069065e13947ebe0864d8a" sha1="38162d450c37bbffb5e7d928ebe1ed30221fe0c3" />
+	</game>
+	<game name="Pac-Man World 2 (USA) (v2.00)">
+		<category>Games</category>
+		<description>Pac-Man World 2 (USA) (v2.00)</description>
+		<rom name="Pac-Man World 2 (USA) (v2.00).iso" size="1118175232" crc="8ad2c3f1" md5="a00a39461b6fe2580ceb7af4e5048d2d" sha1="ddfacda5878666192985c689f09c7fead440ec03" />
+	</game>
+	<game name="King of Fighters 2006, The (USA)">
+		<category>Games</category>
+		<description>King of Fighters 2006, The (USA)</description>
+		<rom name="King of Fighters 2006, The (USA).iso" size="2141487104" crc="7565b887" md5="d70ccd9e2b65975926ae06a5528fdb05" sha1="edef0651286419e04de7620459f2a1dfe9f525f8" />
+	</game>
+	<game name="Monster Hunter 2 (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter 2 (Japan)</description>
+		<rom name="Monster Hunter 2 (Japan).iso" size="4333469696" crc="76063fe3" md5="2cff8ae6975e12858314567dbf888228" sha1="aa53a5244214f933cf7c2607573c69b8c6f18b8f" />
+	</game>
+	<game name="Tales of Rebirth (Japan)">
+		<category>Games</category>
+		<description>Tales of Rebirth (Japan)</description>
+		<rom name="Tales of Rebirth (Japan).iso" size="4508516352" crc="73765f13" md5="13f24dbea15c1d5ca4fbefe41f4613aa" sha1="21aa2923e0c63c46368156b301bc5c22aa3f55e9" />
+	</game>
+	<game name="SD Gundam - GGeneration Spirits - G-Spirits (Japan, Korea)">
+		<category>Games</category>
+		<description>SD Gundam - GGeneration Spirits - G-Spirits (Japan, Korea)</description>
+		<rom name="SD Gundam - GGeneration Spirits - G-Spirits (Japan, Korea).iso" size="4222877696" crc="14d277f5" md5="31c69c95d24634f44f01785b7c643634" sha1="487f699a7ce1efb7e899791cffdce96212b1ea3a" />
+	</game>
+	<game name="MX Unleashed (USA)">
+		<category>Games</category>
+		<description>MX Unleashed (USA)</description>
+		<rom name="MX Unleashed (USA).iso" size="2219933696" crc="32d9c449" md5="e390d93e93a69fcdc439d62b337e4109" sha1="ccb221d5e9af0833038084fa600e41525ec33393" />
+	</game>
+	<game name="Legacy of Kain - Defiance (USA)">
+		<category>Games</category>
+		<description>Legacy of Kain - Defiance (USA)</description>
+		<rom name="Legacy of Kain - Defiance (USA).iso" size="4346478592" crc="d2cbb4ad" md5="2e4bbe86ed87ba9e59a232dd8d1be792" sha1="d743e21aefa466d850b3672a81be130426148352" />
+	</game>
+	<game name="Indigo Prophecy (USA)">
+		<category>Games</category>
+		<description>Indigo Prophecy (USA)</description>
+		<rom name="Indigo Prophecy (USA).iso" size="1944158208" crc="3644ae26" md5="210b465c195d8c63af5087457030cc29" sha1="a22bf7da2322b339766512537511436b5eb49be6" />
+	</game>
+	<game name="Transformers (USA)">
+		<category>Games</category>
+		<description>Transformers (USA)</description>
+		<rom name="Transformers (USA).iso" size="2900951040" crc="5a8a6dbb" md5="0662529bcfd29553d3193d952d380d1e" sha1="d05fd3651af7a3ba1a0dd3b142ec4212a4ad88f7" />
+	</game>
+	<game name="Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es)</description>
+		<rom name="Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es).iso" size="1303773184" crc="de721ed4" md5="cd0d9b9a510cc32d66218854edf98fec" sha1="75f69fe73add0f728300bb85e8a4d700287d26ee" />
+	</game>
+	<game name="Fire Pro Wrestling Returns (USA)">
+		<category>Games</category>
+		<description>Fire Pro Wrestling Returns (USA)</description>
+		<rom name="Fire Pro Wrestling Returns (USA).iso" size="4680187904" crc="8b9f8597" md5="c0972aa1630afbba49b88f352fb8eec7" sha1="d504cbd86114e8471f5f44eb938a79f84a27d829" />
+	</game>
+	<game name="Splashdown (USA) (v2.01)">
+		<category>Games</category>
+		<description>Splashdown (USA) (v2.01)</description>
+		<rom name="Splashdown (USA) (v2.01).iso" size="2176483328" crc="ce763d0e" md5="799df73a316ea682ad168d7cf3848feb" sha1="fc9d30473568fe37cd389c516dea0703f96745e3" />
+	</game>
+	<game name="Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr)</description>
+		<rom name="Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr).iso" size="4099506176" crc="6d3e4c51" md5="06a67ddd0c0c902b36b49ba2e5bd467b" sha1="377b2ed3be39e3dcc2df3200916162a210281d1f" />
+	</game>
+	<game name="Melty Blood - Act Cadenza (Japan)">
+		<category>Games</category>
+		<description>Melty Blood - Act Cadenza (Japan)</description>
+		<rom name="Melty Blood - Act Cadenza (Japan).iso" size="1540423680" crc="669ddcf0" md5="e544756052e9a3fa92ffe838ca03b49e" sha1="3bdef6328f08e9061dddd9e6a496fbe7a98d41f2" />
+	</game>
+	<game name="Romance of the Three Kingdoms X (USA)">
+		<category>Games</category>
+		<description>Romance of the Three Kingdoms X (USA)</description>
+		<rom name="Romance of the Three Kingdoms X (USA).iso" size="2894069760" crc="c88bf73a" md5="8a54c6a4611ee87bdf4ecf1e6138c607" sha1="ac362672bce2e194630f59c77b3f63c8f2b52024" />
+	</game>
+	<game name="Tales of Symphonia (Japan)">
+		<category>Games</category>
+		<description>Tales of Symphonia (Japan)</description>
+		<rom name="Tales of Symphonia (Japan).iso" size="4255907840" crc="89a03805" md5="257c3a08a9faca092ba8d70c7d317b03" sha1="dfc850c2e8a1563e15debf6eb58f79224886e67b" />
+	</game>
+	<game name="Escape from Monkey Island (USA)">
+		<category>Games</category>
+		<description>Escape from Monkey Island (USA)</description>
+		<rom name="Escape from Monkey Island (USA).iso" size="1794998272" crc="015bde52" md5="951b53c9bc73cb87803f461591647259" sha1="e68bf091306cb77fbd015d5e85ee8146eb37dddb" />
+	</game>
+	<game name="Nobunaga's Ambition - Iron Triangle (USA)">
+		<category>Games</category>
+		<description>Nobunaga's Ambition - Iron Triangle (USA)</description>
+		<rom name="Nobunaga's Ambition - Iron Triangle (USA).iso" size="2203615232" crc="cad543a1" md5="54eaa6a37f74f1f44b20aa1b9b236b61" sha1="2e60526d6af1d2052b654a483ccc8d64831c5b47" />
+	</game>
+	<game name="NASCAR 2005 - Chase for the Cup (USA)">
+		<category>Games</category>
+		<description>NASCAR 2005 - Chase for the Cup (USA)</description>
+		<rom name="NASCAR 2005 - Chase for the Cup (USA).iso" size="3808952320" crc="0d69275c" md5="81f02335c2b4e69f816217ba30c62fb5" sha1="73ebc969b31c1f95974597fe9c3aef5b66ab74a6" />
+	</game>
+	<game name="NASCAR Thunder 2002 (USA)">
+		<category>Games</category>
+		<description>NASCAR Thunder 2002 (USA)</description>
+		<rom name="NASCAR Thunder 2002 (USA).cue" size="91" crc="8b2bed6f" md5="d431a18be3318fe0e8fac54d7201313a" sha1="2028913cb9f76fb7b906875d8f7e9b13db17e036" />
+		<rom name="NASCAR Thunder 2002 (USA).bin" size="553684320" crc="2be4f40e" md5="954f5d07e71be0ab489466e35003936c" sha1="e12b6a517b13abed317f13b6ed01243fa90ce012" />
+	</game>
+	<game name="WWE SmackDown! Shut Your Mouth (USA)">
+		<category>Games</category>
+		<description>WWE SmackDown! Shut Your Mouth (USA)</description>
+		<rom name="WWE SmackDown! Shut Your Mouth (USA).iso" size="3509223424" crc="c5b159e5" md5="748c5b60c70b36c52df144cef5b8549a" sha1="870ee46733f57eade607b17702844c31568a1b04" />
+	</game>
+	<game name="Road Trip (USA)">
+		<category>Games</category>
+		<description>Road Trip (USA)</description>
+		<rom name="Road Trip (USA).cue" size="81" crc="ec931ab4" md5="62d25e7ca7a235434c070a8289e1bf5f" sha1="4a6e867684dff9b7b01a50e832ef8b63f1b74fdd" />
+		<rom name="Road Trip (USA).bin" size="616332192" crc="7dcafab0" md5="e1598a1a2b1a296dbeae90927172d52a" sha1="236b902a72580f43a480f18d232723a8676b02e5" />
+	</game>
+	<game name="Def Jam - Fight for NY (USA)">
+		<category>Games</category>
+		<description>Def Jam - Fight for NY (USA)</description>
+		<rom name="Def Jam - Fight for NY (USA).iso" size="4694573056" crc="7a31f5cb" md5="44ae0340a72c65f94359057ad16c4ba2" sha1="5eda39dfd703804c8734b91bd23039f642317837" />
+	</game>
+	<game name="PaRappa the Rapper 2 (USA) (En,Ja)">
+		<category>Games</category>
+		<description>PaRappa the Rapper 2 (USA) (En,Ja)</description>
+		<rom name="PaRappa the Rapper 2 (USA) (En,Ja).iso" size="4522868736" crc="147e9159" md5="43f3e8209d2faa0e01cc1468cc86a6cd" sha1="3fdfd8c0ff1b87895fe7a17a2ca03fe6c4e9d50b" />
+	</game>
+	<game name="Samurai Spirits - Tenka-ichi Kenkakuden (Japan)">
+		<category>Games</category>
+		<description>Samurai Spirits - Tenka-ichi Kenkakuden (Japan)</description>
+		<rom name="Samurai Spirits - Tenka-ichi Kenkakuden (Japan).iso" size="1326284800" crc="c0c5b446" md5="1f2eeb8df2ea67162c5c927a446b023d" sha1="fc7bef89b343d020d0a14221f38793e18e407b76" />
+	</game>
+	<game name="Downhill Domination (USA)">
+		<category>Games</category>
+		<description>Downhill Domination (USA)</description>
+		<rom name="Downhill Domination (USA).iso" size="2530869248" crc="ceb74f42" md5="3654a6f4438c899be4a1f5236cfdcd74" sha1="a2739ce3b632c1513d2a96cf3982b5effcca5a3c" />
+	</game>
+	<game name="Tony Hawk's American Wasteland (USA)">
+		<category>Games</category>
+		<description>Tony Hawk's American Wasteland (USA)</description>
+		<rom name="Tony Hawk's American Wasteland (USA).iso" size="3615850496" crc="5c82781d" md5="1e1855bd24f66e87144516ac17cdfaa0" sha1="d0c9fb54ba9fafc4d470dec1c25217ac0ef7424c" />
+	</game>
+	<game name="FlatOut 2 (USA)">
+		<category>Games</category>
+		<description>FlatOut 2 (USA)</description>
+		<rom name="FlatOut 2 (USA).iso" size="4036034560" crc="83369c02" md5="76f2c612f77633393499b5566ab97553" sha1="85d6d4a57cc57cecda588bd88bd28bddb470795e" />
+	</game>
+	<game name="Samurai Warriors 2 (USA)">
+		<category>Games</category>
+		<description>Samurai Warriors 2 (USA)</description>
+		<rom name="Samurai Warriors 2 (USA).iso" size="4580737024" crc="7e3da984" md5="36e0917ad5e5eea576940bfdfce0707a" sha1="28796131ffd8eb41803f7410309a5b9228b9af46" />
+	</game>
+	<game name="Nickelodeon The SpongeBob SquarePants Movie (USA)">
+		<category>Games</category>
+		<description>Nickelodeon The SpongeBob SquarePants Movie (USA)</description>
+		<rom name="Nickelodeon The SpongeBob SquarePants Movie (USA).iso" size="1249804288" crc="739da3eb" md5="d4d502850d6ebe38b594c3bab2885f71" sha1="edfc95f858e46201b13c70d569de9ff23ac6a8c4" />
+	</game>
+	<game name="Naruto - Ultimate Ninja 3 (USA)">
+		<category>Games</category>
+		<description>Naruto - Ultimate Ninja 3 (USA)</description>
+		<rom name="Naruto - Ultimate Ninja 3 (USA).iso" size="4045733888" crc="5cce1773" md5="bd25340df0002cc5989cfb56005b6eff" sha1="3ac0348bad425343b4d748451151ca738338be93" />
+	</game>
+	<game name="MotoGP 3 (USA)">
+		<category>Games</category>
+		<description>MotoGP 3 (USA)</description>
+		<rom name="MotoGP 3 (USA).iso" size="2952331264" crc="a4162c4c" md5="32f6616e0db69157613a7944d42215a8" sha1="67a7fea0bbf6f63cb8514dbcbded3d0b0bdcbc9b" />
+	</game>
+	<game name="F1 2001 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>F1 2001 (USA) (En,Fr,Es)</description>
+		<rom name="F1 2001 (USA) (En,Fr,Es).cue" size="90" crc="392fd8db" md5="3191d65da51766cb83ee51af2f6450eb" sha1="e2aa708fefff34aa3f2c639621324c4085ae0648" />
+		<rom name="F1 2001 (USA) (En,Fr,Es).bin" size="598259424" crc="c79242cc" md5="7b2560a5981584df0beb948a4b8298fe" sha1="6363fcf65686fa5be2daab6ba670738a20ff8027" />
+	</game>
+	<game name="XGIII - Extreme G Racing (USA)">
+		<category>Games</category>
+		<description>XGIII - Extreme G Racing (USA)</description>
+		<rom name="XGIII - Extreme G Racing (USA).cue" size="96" crc="7cb43fed" md5="efdb403024e47fa8199940de1f8a6915" sha1="ca9c25a2f95b1a8fb664158430d3a7e6aac49ea8" />
+		<rom name="XGIII - Extreme G Racing (USA).bin" size="595947408" crc="b3bd01b3" md5="548e391373640b818e7589492e98cab6" sha1="3c8c26264bb155c1e4a524ff51206c958af26fdb" />
+	</game>
+	<game name="Freekstyle (USA)">
+		<category>Games</category>
+		<description>Freekstyle (USA)</description>
+		<rom name="Freekstyle (USA).cue" size="82" crc="e9ec5440" md5="a043ad27467d0d12ae5ac8f3e27c696f" sha1="adb03ddfb32a7230ed5869fd4045bf8929328744" />
+		<rom name="Freekstyle (USA).bin" size="662878272" crc="55c051f0" md5="1d5d0e94c04e11a3cf23ddac981d0224" sha1="ca4e44eb024575e5fafe95dfd4416abe8ab4f410" />
+	</game>
+	<game name="TOCA Race Driver 2 (USA)">
+		<category>Games</category>
+		<description>TOCA Race Driver 2 (USA)</description>
+		<rom name="TOCA Race Driver 2 (USA).iso" size="4687003648" crc="11d492d3" md5="511028f2180cdb7535abf169d542ec27" sha1="49570c558bd782e94010610ec0f791fb5664b3e4" />
+	</game>
+	<game name="Lord of the Rings, The - The Third Age (USA)">
+		<category>Games</category>
+		<description>Lord of the Rings, The - The Third Age (USA)</description>
+		<rom name="Lord of the Rings, The - The Third Age (USA).iso" size="4595777536" crc="1f88b077" md5="26ed548643e5d2ef0e679a9bfc78d830" sha1="fee95eba4ecae758a31a2987f365958076bc75e5" />
+	</game>
+	<game name="Sengoku Basara 2 - Heroes (Japan, Korea)">
+		<category>Games</category>
+		<description>Sengoku Basara 2 - Heroes (Japan, Korea)</description>
+		<rom name="Sengoku Basara 2 - Heroes (Japan, Korea).iso" size="4677795840" crc="23716fda" md5="b684898977107972d31ba3dfee591f31" sha1="96f0c5894ed98cdccd6ebe10ff60b32d6bdee2c8" />
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA).iso" size="1240072192" crc="37704f38" md5="84307df9931d76cac3df239da24c7898" sha1="fb4a16f971f18807ad6c477648fb2bd8b46d44ad" />
+	</game>
+	<game name="Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)">
+		<category>Games</category>
+		<description>Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)</description>
+		<rom name="Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).iso" size="3879108608" crc="56fd79cc" md5="37a90d79dea1d60b90b54b371c34c53a" sha1="2f4d89736d9240c6f8719e50a8d450a81ad638ae" />
+	</game>
+	<game name="Another Century's Episode 2 (Japan)">
+		<category>Games</category>
+		<description>Another Century's Episode 2 (Japan)</description>
+		<rom name="Another Century's Episode 2 (Japan).iso" size="4332388352" crc="7e07f4c7" md5="d923355df5f01e92fe7b8b4f6d22d81c" sha1="57cc687fc8e0f36a4a6dcdf4922d65baff83f80f" />
+	</game>
+	<game name="Pro Race Driver (USA)">
+		<category>Games</category>
+		<description>Pro Race Driver (USA)</description>
+		<rom name="Pro Race Driver (USA).iso" size="3535372288" crc="1c2e42e3" md5="20d71d08dc16d2dbe754859aa1256b5f" sha1="3894e097831c9ca276f611e537db4c9fc934631b" />
+	</game>
+	<game name="Warriors Orochi (USA)">
+		<category>Games</category>
+		<description>Warriors Orochi (USA)</description>
+		<rom name="Warriors Orochi (USA).iso" size="2677604352" crc="8b842e71" md5="d19488a1c1948aed7b8ca3f29250f0bd" sha1="17a007c82e9378bb944b5ac3cb30996cb04c07aa" />
+	</game>
+	<game name="Samurai Warriors 2 - Xtreme Legends (USA)">
+		<category>Games</category>
+		<description>Samurai Warriors 2 - Xtreme Legends (USA)</description>
+		<rom name="Samurai Warriors 2 - Xtreme Legends (USA).iso" size="8293089280" crc="11fb9db1" md5="b48342fe3951aa79aba61f6cae161ef6" sha1="cce4cda5f586e502b14cf614d6ca1543594ac5fb" />
+	</game>
+	<game name="Secret Weapons over Normandy (USA)">
+		<category>Games</category>
+		<description>Secret Weapons over Normandy (USA)</description>
+		<rom name="Secret Weapons over Normandy (USA).iso" size="3728146432" crc="fbb7f139" md5="13e997af6acc434b8d240ef5dc72b768" sha1="cc14c139eb330ee0036b0bebcd03ea36dc35e5e4" />
+	</game>
+	<game name="Obscure (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Obscure (USA) (En,Fr,Es)</description>
+		<rom name="Obscure (USA) (En,Fr,Es).iso" size="3119742976" crc="260936a4" md5="433f46abe06b4c9ca6acd894d46c7196" sha1="026ce0fd16d94137550975ab8cd1a11da6634099" />
+	</game>
+	<game name="Naval Ops - Commander (USA)">
+		<category>Games</category>
+		<description>Naval Ops - Commander (USA)</description>
+		<rom name="Naval Ops - Commander (USA).iso" size="1695678464" crc="11f8540d" md5="c22235359703be03b8d35291bd1a699e" sha1="14cc696781f2361b383e348f79bf479c106e45db" />
+	</game>
+	<game name="TOCA Race Driver 3 (USA)">
+		<category>Games</category>
+		<description>TOCA Race Driver 3 (USA)</description>
+		<rom name="TOCA Race Driver 3 (USA).iso" size="4697882624" crc="2db4d671" md5="d736df5036b90b37a247315564d61ef4" sha1="6e6a47ce305046cebeb5188b3bb09cbc2ccc479c" />
+	</game>
+	<game name="Dynasty Warriors 5 - Empires (USA)">
+		<category>Games</category>
+		<description>Dynasty Warriors 5 - Empires (USA)</description>
+		<rom name="Dynasty Warriors 5 - Empires (USA).iso" size="3664773120" crc="8cb77d54" md5="5c9911d7916a339a0791b4cdf41dd1c4" sha1="a95d5156b4197806b2e33046256096ad892f7ea0" />
+	</game>
+	<game name="King of Fighters 2000, The (USA)">
+		<category>Games</category>
+		<description>King of Fighters 2000, The (USA)</description>
+		<rom name="King of Fighters 2000, The (USA).iso" size="1240137728" crc="d2b483aa" md5="b3ba1f68818c9153a0d2e6c770408fc1" sha1="5c73108a87e029c4db64e71a9ffe8626b28e3bc1" />
+	</game>
+	<game name="King of Fighters 2002, The - Challenge to Ultimate Battle (USA)">
+		<category>Games</category>
+		<description>King of Fighters 2002, The - Challenge to Ultimate Battle (USA)</description>
+		<rom name="King of Fighters 2002, The - Challenge to Ultimate Battle (USA).iso" size="3559030784" crc="8a00856a" md5="c082bf835a75de362e741edfc396d5fb" sha1="015ddb6f682ed92e84728326e990c69b98cb733d" />
+	</game>
+	<game name="Warriors Orochi 2 (USA)">
+		<category>Games</category>
+		<description>Warriors Orochi 2 (USA)</description>
+		<rom name="Warriors Orochi 2 (USA).iso" size="3971383296" crc="7050c27a" md5="515ebb091c2dc93bd6f60aa0af6237a3" sha1="f5aa79df194db102b9b136a05d6ef6086b922a69" />
+	</game>
+	<game name="Romance of the Three Kingdoms VIII (USA)">
+		<category>Games</category>
+		<description>Romance of the Three Kingdoms VIII (USA)</description>
+		<rom name="Romance of the Three Kingdoms VIII (USA).cue" size="106" crc="a9d59114" md5="9f94388401de201176156933635b9063" sha1="eda05cb544ff1ae2414cc2a248b97d2bccc92397" />
+		<rom name="Romance of the Three Kingdoms VIII (USA).bin" size="507869712" crc="17f1c975" md5="7860bce258277e598072cc707985d53f" sha1="0c620b496c6b7d4a43cd47783c9628b474f376a0" />
+	</game>
+	<game name="Rockman - Power Battle Fighters (Japan)">
+		<category>Games</category>
+		<description>Rockman - Power Battle Fighters (Japan)</description>
+		<rom name="Rockman - Power Battle Fighters (Japan).cue" size="105" crc="f9a51c45" md5="46da8d9830e61457287d45e8a61c4b62" sha1="4af2b94eeab9ff9b9d75f7b20cbbc76b8d73ff64" />
+		<rom name="Rockman - Power Battle Fighters (Japan).bin" size="751993200" crc="7dbdbe18" md5="690cd03f6aba4861e22f1ca996f46422" sha1="4eb8221ed342cfdf538ae5e17301ad9b50e6e2ea" />
+	</game>
+	<game name="NASCAR - Dirt to Daytona (USA)">
+		<category>Games</category>
+		<description>NASCAR - Dirt to Daytona (USA)</description>
+		<rom name="NASCAR - Dirt to Daytona (USA).iso" size="2930802688" crc="ea66e26c" md5="0c1391c150ddf3dcb97d1b79026dbc3c" sha1="5c7600d15a9e569143ec8cd4b64d8dcdf55e65d9" />
+	</game>
+	<game name="Test Drive - Eve of Destruction (USA)">
+		<category>Games</category>
+		<description>Test Drive - Eve of Destruction (USA)</description>
+		<rom name="Test Drive - Eve of Destruction (USA).iso" size="1940553728" crc="9c0d901e" md5="368c17a22a78b7b26b59e8cce7f35240" sha1="792aeae2160faff1e1d38fa820366818d2814417" />
+	</game>
+	<game name="Warship Gunner 2 (USA)">
+		<category>Games</category>
+		<description>Warship Gunner 2 (USA)</description>
+		<rom name="Warship Gunner 2 (USA).iso" size="3315204096" crc="7e04ee5b" md5="fc6db9ebbcf74270ff7879512ce1ffa5" sha1="97ae416023cd2f957c081f6455f6d7eb3cc40370" />
+	</game>
+	<game name="Dynasty Warriors - Gundam 2 (USA)">
+		<category>Games</category>
+		<description>Dynasty Warriors - Gundam 2 (USA)</description>
+		<rom name="Dynasty Warriors - Gundam 2 (USA).iso" size="3541696512" crc="693da105" md5="742229373c8b52e81270c2192959c14b" sha1="239e1f38bbad2a709ce6a25ed3e9c499480c25f1" />
+	</game>
+	<game name="Sengoku Basara 2 (Japan)">
+		<category>Games</category>
+		<description>Sengoku Basara 2 (Japan)</description>
+		<rom name="Sengoku Basara 2 (Japan).iso" size="4677795840" crc="8b6e1cc5" md5="19c958dcf44cb6a48473bedd0b5142ab" sha1="ef8c263cebd52e6bc9ab403492edfa488d5657e6" />
+	</game>
+	<game name="V-Rally 3 (USA)">
+		<category>Games</category>
+		<description>V-Rally 3 (USA)</description>
+		<rom name="V-Rally 3 (USA).iso" size="3202809856" crc="ed851244" md5="785c79c273eeb4c977cb5318645e2815" sha1="67fd4a0acd319a57f1e9de1a7e443e34afdfdbf7" />
+	</game>
+	<game name="Berserk - Millennium Falcon-hen - Seima Senki no Shou (Japan)">
+		<category>Games</category>
+		<description>Berserk - Millennium Falcon-hen - Seima Senki no Shou (Japan)</description>
+		<rom name="Berserk - Millennium Falcon-hen - Seima Senki no Shou (Japan).iso" size="4273537024" crc="7ff31f5b" md5="c82b2186f7fb0613911a4823c710aa28" sha1="b49959e5a4d92f3c9be8b8402116c29f696167a8" />
+	</game>
+	<game name="Ratchet &amp; Clank - Going Commando (USA) (v2.00)">
+		<category>Games</category>
+		<description>Ratchet &amp; Clank - Going Commando (USA) (v2.00)</description>
+		<rom name="Ratchet &amp; Clank - Going Commando (USA) (v2.00).iso" size="3824615424" crc="98197b41" md5="d684d7de14697dd0b1faa8b31206c710" sha1="eeba0fff2118b14cbf838e6638ef7af3e72c0c31" />
+	</game>
+	<game name="Red Faction (USA) (v2.00)">
+		<category>Games</category>
+		<description>Red Faction (USA) (v2.00)</description>
+		<rom name="Red Faction (USA) (v2.00).iso" size="2008645632" crc="5d7057b4" md5="336900f0e68e30394d281e70118308e9" sha1="ba045cc36ae595818f6fa934cc42329a32a8d9d7" />
+	</game>
+	<game name="Hot Shots Golf 3 (USA) (v2.00)">
+		<category>Games</category>
+		<description>Hot Shots Golf 3 (USA) (v2.00)</description>
+		<rom name="Hot Shots Golf 3 (USA) (v2.00).iso" size="1327792128" crc="85b123c8" md5="6ed88e5758ab98d33dcc40d49cbd110e" sha1="1d9d249e083f26cc85ce2234a16024a81b971c9d" />
+	</game>
+	<game name="Tony Hawk's Pro Skater 4 (USA) (v2.01)">
+		<category>Games</category>
+		<description>Tony Hawk's Pro Skater 4 (USA) (v2.01)</description>
+		<rom name="Tony Hawk's Pro Skater 4 (USA) (v2.01).iso" size="3393847296" crc="f61a55dd" md5="7d7cf01d5b3da4e8ec716883563b050b" sha1="17ac4aa24101f93a7360251c882edf04493500b4" />
+	</game>
+	<game name="Vampire - Darkstalkers Collection (Japan)">
+		<category>Games</category>
+		<description>Vampire - Darkstalkers Collection (Japan)</description>
+		<rom name="Vampire - Darkstalkers Collection (Japan).iso" size="4698767360" crc="68aa7829" md5="1cb15788f5202474f1e7967a4984d412" sha1="7dc177d48e779596c63a1d7ff1ede9fc1824a2af" />
+	</game>
+	<game name="Harry Potter and the Sorcerer's Stone (USA) (En,Es)">
+		<category>Games</category>
+		<description>Harry Potter and the Sorcerer's Stone (USA) (En,Es)</description>
+		<rom name="Harry Potter and the Sorcerer's Stone (USA) (En,Es).iso" size="2594635776" crc="ace98fd2" md5="a1e5106de7a21f9f122219ae06c7acf9" sha1="5a292d43323c5f60006119af81e9deb24ed281f2" />
+	</game>
+	<game name="Kamen Rider - Climax Heroes (Japan)">
+		<category>Games</category>
+		<description>Kamen Rider - Climax Heroes (Japan)</description>
+		<rom name="Kamen Rider - Climax Heroes (Japan).iso" size="3205562368" crc="3b9a522f" md5="c9f17601afd2d6f853f9dba0ab5b0e5b" sha1="f1059e1b8e52baa30e54677d894897a600f6646a" />
+	</game>
+	<game name="Ultraman - Fighting Evolution 3 (Japan)">
+		<category>Games</category>
+		<description>Ultraman - Fighting Evolution 3 (Japan)</description>
+		<rom name="Ultraman - Fighting Evolution 3 (Japan).iso" size="2811789312" crc="8881fe23" md5="a4c445b0455658b1bfbd96ff8e7fe5ab" sha1="69fb796ecc226724557ff67c670b483889bde82e" />
+	</game>
+	<game name="SD Gundam - GGeneration Wars (Japan)">
+		<category>Games</category>
+		<description>SD Gundam - GGeneration Wars (Japan)</description>
+		<rom name="SD Gundam - GGeneration Wars (Japan).iso" size="4132929536" crc="483c95a1" md5="a38edcfd7d10345135325ce1f7593695" sha1="58c5950df58c21f3a8d6344b241740d4f52b9598" />
+	</game>
+	<game name="Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II Plus (Japan, Korea)">
+		<category>Games</category>
+		<description>Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II Plus (Japan, Korea)</description>
+		<rom name="Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II Plus (Japan, Korea).iso" size="4137877504" crc="33e4da0a" md5="b69812eb4014a234a4653baa9966c368" sha1="527e1cad4100bbc6219a9fcc4794de9b0fb2ab5b" />
+	</game>
+	<game name="Legacy of Kain - Soul Reaver 2 (USA) (v2.00)">
+		<category>Games</category>
+		<description>Legacy of Kain - Soul Reaver 2 (USA) (v2.00)</description>
+		<rom name="Legacy of Kain - Soul Reaver 2 (USA) (v2.00).iso" size="4657250304" crc="72585676" md5="5a708047222aee46d5767346b9e13939" sha1="25c17f52314a0e290ba9eb7a67de36213b0ea27b" />
+	</game>
+	<game name="Mobile Suit Gundam - Gundam vs. Zeta Gundam (USA)">
+		<category>Games</category>
+		<description>Mobile Suit Gundam - Gundam vs. Zeta Gundam (USA)</description>
+		<rom name="Mobile Suit Gundam - Gundam vs. Zeta Gundam (USA).iso" size="4468506624" crc="91ab77fa" md5="502fc3630f9a49c4023990fa7ff5da3c" sha1="fcc51e4bba0271539c242e5b60798524055a5505" />
+	</game>
+	<game name="Rumble Fish, The (Japan)">
+		<category>Games</category>
+		<description>Rumble Fish, The (Japan)</description>
+		<rom name="Rumble Fish, The (Japan).iso" size="4677763072" crc="b88fae86" md5="22d1d73f18a26969e0d1583df22943a0" sha1="8b4f4490ca0300a3664a305bd5a9967b3fedb2aa" />
+	</game>
+	<game name="Midnight Club 3 - DUB Edition (USA) (v2.00)">
+		<category>Games</category>
+		<description>Midnight Club 3 - DUB Edition (USA) (v2.00)</description>
+		<rom name="Midnight Club 3 - DUB Edition (USA) (v2.00).iso" size="4605673472" crc="9d2d9065" md5="6f7f5b7afcf03f4e4888e39b21b48363" sha1="8ad064051b7234f32742d496415fa24f05e0b12f" />
+	</game>
+	<game name="Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00)">
+		<category>Games</category>
+		<description>Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00)</description>
+		<rom name="Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00).iso" size="4662296576" crc="4437d041" md5="05ed20ea58cf6c410314d1fd1905c002" sha1="689089f320c6f8b7e33c7797ae4d04f4b0f2083c" />
+	</game>
+	<game name="Ultraman - Fighting Evolution Rebirth (Japan)">
+		<category>Games</category>
+		<description>Ultraman - Fighting Evolution Rebirth (Japan)</description>
+		<rom name="Ultraman - Fighting Evolution Rebirth (Japan).iso" size="1655472128" crc="e0d805a4" md5="d8e148fb1787876d74812cf60b7707dc" sha1="fb4c2506835d80e89efaa1bc8c0bde726c3f407d" />
+	</game>
+	<game name="King of Fighters 2002, The - Unlimited Match (Japan, Korea)">
+		<category>Games</category>
+		<description>King of Fighters 2002, The - Unlimited Match (Japan, Korea)</description>
+		<rom name="King of Fighters 2002, The - Unlimited Match (Japan, Korea).iso" size="4195155968" crc="f6f7fcc8" md5="ecb738d10bd36af1de887415f189c3de" sha1="0556295b672c42637d8f897529c524962f426a88" />
+	</game>
+	<game name="Grand Theft Auto - Vice City (USA) (v4.00)">
+		<category>Games</category>
+		<description>Grand Theft Auto - Vice City (USA) (v4.00)</description>
+		<rom name="Grand Theft Auto - Vice City (USA) (v4.00).iso" size="3837526016" crc="b17ba0a2" md5="d748013e94ec702664e7cf94d388183b" sha1="c076906970adf3efe108161592a4a5e049d740c8" />
+	</game>
+	<game name="Spider-Man 3 (USA) (v2.00)">
+		<category>Games</category>
+		<description>Spider-Man 3 (USA) (v2.00)</description>
+		<rom name="Spider-Man 3 (USA) (v2.00).iso" size="4118052864" crc="b6d9e603" md5="aefa2da50b516bf573ba1c6013e94705" sha1="a7cf24e0f32767870f3b0ed73a3b56c5d2427458" />
+	</game>
+	<game name="Gran Turismo 4 (USA) (v2.00)">
+		<category>Games</category>
+		<description>Gran Turismo 4 (USA) (v2.00)</description>
+		<rom name="Gran Turismo 4 (USA) (v2.00).iso" size="5314478080" crc="831f9f84" md5="6e03af5873c30e418021553a8832ca42" sha1="7da11cc5c18d5ed4a7e882c6d1168d3afa6940c3" />
+	</game>
+	<game name="WWE SmackDown vs. Raw 2007 (USA) (v2.01)">
+		<category>Games</category>
+		<description>WWE SmackDown vs. Raw 2007 (USA) (v2.01)</description>
+		<rom name="WWE SmackDown vs. Raw 2007 (USA) (v2.01).iso" size="4453662720" crc="4ded9ae2" md5="ab659235456ff67be77714eb8c34f892" sha1="119dc78b22f689b4829695997e19f8eca3c690e2" />
+	</game>
+</datafile>
