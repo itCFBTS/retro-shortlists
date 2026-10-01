@@ -76,15 +76,6 @@ footer a,details a{color:var(--accent)}
       <li>It's among the most popular PS2 games on <a href="https://vimm.net/">Vimm's Lair</a> or <a href="https://retroachievements.org/">RetroAchievements</a>.</li>
       <li>Players rate it highly: a combined user <em>lower bound</em> of 3.9 / 5 or more.</li>
     </ul>
-    <p style="color:inherit"><strong>What the columns mean</strong></p>
-    <ul>
-      <li><strong>Metascore:</strong> critic score from Metacritic (blank when Metacritic has none).</li>
-      <li><strong>Votes:</strong> GameFAQs plus Metacritic user ratings for the PS2 version.</li>
-      <li><strong>User score:</strong> GameFAQs and Metacritic user ratings merged on a /5 scale. Metacritic is converted by matching the two crowds on the same games, and games with few votes are pulled toward an average of 3.5.</li>
-      <li><strong>Lower bound:</strong> the score we're ~97.5% confident the game is at least at. A game rated 4.5 by 3,000 people beats one rated 4.5 by six. The list is sorted by this; the bar is the same number drawn on a 2.5–4.5 scale.</li>
-      <li><strong>RA / Vimm:</strong> ✓ if the game is among the most popular PS2 games on RetroAchievements / Vimm's Lair.</li>
-      <li><strong>★ after a title:</strong> nudged in using extra data (see below).</li>
-    </ul>
     <p style="color:inherit"><strong>Games nudged in using extra data</strong> ★</p>
     <p style="color:inherit">Games that fall just short on PS2-only player scores were added in two ways:</p>
     <ul>
@@ -120,13 +111,13 @@ footer a,details a{color:var(--accent)}
   <div class="tablewrap">
     <table>
       <thead><tr>
-        <th data-k="0" aria-sort="none"><button type="button">Title <span class="arrow"></span></button></th>
-        <th data-k="1" aria-sort="none"><button type="button">Metascore <span class="arrow"></span></button></th>
-        <th data-k="2" aria-sort="none" class="hide-sm"><button type="button">Votes <span class="arrow"></span></button></th>
-        <th data-k="3" aria-sort="none" class="hide-sm"><button type="button">User score <span class="arrow"></span></button></th>
-        <th data-k="4" aria-sort="descending"><button type="button">Lower bound <span class="arrow"></span></button></th>
-        <th data-k="5" aria-sort="none" class="c"><button type="button">RA <span class="arrow"></span></button></th>
-        <th data-k="6" aria-sort="none" class="c"><button type="button">Vimm <span class="arrow"></span></button></th>
+        <th data-k="0" aria-sort="none" title="★ after a title: nudged in using extra data (see How this list was made)."><button type="button">Title <span class="arrow"></span></button></th>
+        <th data-k="1" aria-sort="none" title="Critic score from Metacritic (blank when Metacritic has none)."><button type="button">Metascore <span class="arrow"></span></button></th>
+        <th data-k="2" aria-sort="none" class="hide-sm" title="GameFAQs plus Metacritic user ratings for the PS2 version."><button type="button">Votes <span class="arrow"></span></button></th>
+        <th data-k="3" aria-sort="none" class="hide-sm" title="GameFAQs and Metacritic user ratings merged on a /5 scale. Metacritic is converted by matching the two crowds on the same games, and games with few votes are pulled toward an average of 3.5."><button type="button">User score <span class="arrow"></span></button></th>
+        <th data-k="4" aria-sort="descending" title="The score we're ~97.5% confident the game is at least at. A game rated 4.5 by 3,000 people beats one rated 4.5 by six. The list is sorted by this; the bar is the same number drawn on a 2.5–4.5 scale."><button type="button">Lower bound <span class="arrow"></span></button></th>
+        <th data-k="5" aria-sort="none" class="c" title="✓ if the game is among the most popular PS2 games on RetroAchievements."><button type="button">RA <span class="arrow"></span></button></th>
+        <th data-k="6" aria-sort="none" class="c" title="✓ if the game is among the most popular PS2 games on Vimm's Lair."><button type="button">Vimm <span class="arrow"></span></button></th>
       </tr></thead>
       <tbody id="rows"></tbody>
     </table>
