@@ -30,6 +30,7 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
 .theme{font:inherit;font-size:13px;color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:4px 10px;cursor:pointer;float:right}
 @media (max-width:600px){h1{font-size:26px}}
 </style>
+<script>try{const t=localStorage.getItem("rs-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
 <div class="wrap">
@@ -57,7 +58,7 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
   <footer>Ratings from GameFAQs and Metacritic; popularity from Vimm's Lair and RetroAchievements. Not affiliated with any of them.</footer>
 </div>
 <script>
-document.getElementById("theme").addEventListener("click",()=>{const r=document.documentElement,c=r.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");r.dataset.theme=c==="dark"?"light":"dark";});
+document.getElementById("theme").addEventListener("click",()=>{const r=document.documentElement,c=r.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");r.dataset.theme=c==="dark"?"light":"dark";try{localStorage.setItem("rs-theme",r.dataset.theme)}catch(e){}});
 </script>
 </body>
 </html>

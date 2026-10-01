@@ -60,6 +60,7 @@ footer a,details a{color:var(--accent)}
 .theme{font:inherit;font-size:13px;color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:4px 10px;cursor:pointer;float:right}
 @media (max-width:600px){ h1{font-size:23px} th,td{padding:7px 8px} .hide-sm{display:none} th:first-child,td:first-child{min-width:150px} .count{margin-left:0;width:100%} }
 </style>
+<script>try{const t=localStorage.getItem("rs-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
 <div class="wrap">
@@ -160,6 +161,7 @@ document.querySelectorAll("th[data-k]").forEach(th=>th.querySelector("button").a
 $("theme").addEventListener("click",()=>{
   const root=document.documentElement, cur=root.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");
   root.dataset.theme=cur==="dark"?"light":"dark";
+  try{localStorage.setItem("rs-theme",root.dataset.theme)}catch(e){}
 });
 render();
 </script>
