@@ -1,4 +1,4 @@
-# PS2 Shortlist — 352 games
+# PS2 Shortlist — 348 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -23,11 +23,12 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **Team and league sports (386):** American football, soccer, basketball, hockey, baseball, cricket, rugby, volleyball and their management sims. Racing, wrestling, boxing, golf, tennis, pool, fishing and extreme sports stay.
 - **Rhythm and music games that need extra hardware (181):** anything built around a guitar, drums, a dance mat, a microphone or a camera. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included.
 - **Superseded editions (6):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4.
+- **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
 
 **Hand-picked and moved games**
 
 - **★ Hand-picked:** Killer7, Space Channel 5: Part 2 and FlatOut 2 fall just short on PS2-only player scores, but clear the bar once wider player ratings are counted, so they were added by hand.
-- **Better on another console:** a few games are left off because a clearly better version exists on a sibling console, even when emulated. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
+- **Better on another console:** a few games are left off because a clearly better version exists on a sibling console, even when emulated. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne and Max Payne 2.
 
 Data pulled September 2026.
 
@@ -257,8 +258,6 @@ Data pulled September 2026.
 | 007: Everything or Nothing | 84 | 397 | 3.89 | 3.81 |  |  |
 | Mortal Kombat: Deception |  | 1,089 | 3.86 | 3.81 | ✓ |  |
 | Dead or Alive 2: Hardcore | 91 | 409 | 3.89 | 3.81 |  |  |
-| Final Fantasy XI: Treasures of Aht Urhgan (Expansion) | 85 | 64 | 4.00 | 3.81 |  |  |
-| Final Fantasy XI: Wings of the Goddess (Expansion) | 85 | 60 | 4.00 | 3.80 |  |  |
 | Hot Shots Golf 3 | 85 | 185 | 3.91 | 3.80 |  |  |
 | Onimusha: Dawn of Dreams | 81 | 778 | 3.86 | 3.80 |  |  |
 | Phantom Brave | 81 | 612 | 3.86 | 3.80 |  |  |
@@ -291,7 +290,6 @@ Data pulled September 2026.
 | The Sims Bustin' Out | 81 | 362 | 3.80 | 3.72 |  |  |
 | Red Faction | 88 | 653 | 3.78 | 3.72 |  |  |
 | War of the Monsters | 80 | 287 | 3.81 | 3.72 |  |  |
-| Final Fantasy XI: Chains of Promathia (Expansion) | 85 | 109 | 3.86 | 3.71 |  |  |
 | Legaia 2: Duel Saga | 67 | 665 | 3.77 | 3.71 |  | ✓ |
 | Hitman 2: Silent Assassin | 85 | 533 | 3.78 | 3.71 |  |  |
 | The Incredible Hulk: Ultimate Destruction | 83 | 310 | 3.80 | 3.71 |  |  |
@@ -304,7 +302,6 @@ Data pulled September 2026.
 | Silent Hill 4: The Room | 76 | 1,876 | 3.73 | 3.69 |  | ✓ |
 | Midnight Club II | 85 | 367 | 3.77 | 3.69 |  |  |
 | WWE SmackDown vs. Raw 2007 | 80 | 611 | 3.75 | 3.69 |  |  |
-| Final Fantasy XI | 85 | 387 | 3.76 | 3.69 |  |  |
 | Freedom Fighters | 81 | 316 | 3.77 | 3.68 |  |  |
 | Call of Duty 3 | 82 | 587 | 3.74 | 3.68 |  |  |
 | TOCA Race Driver 3 | 82 | 116 | 3.81 | 3.67 |  |  |
