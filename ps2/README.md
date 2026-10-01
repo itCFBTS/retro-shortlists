@@ -1,6 +1,6 @@
 # PS2 Shortlist — 355 games
 
-A curated list of PlayStation 2 games worth playing, built from the full library of ~2,600 playable English and import-friendly PS2 games (team sports and peripheral-dependent rhythm games removed).
+A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,625, and the games here are picked from those.
 
 **A game makes the list if any one of these is true:**
 
@@ -15,6 +15,13 @@ A curated list of PlayStation 2 games worth playing, built from the full library
 - **User score:** GameFAQs and Metacritic user ratings merged on a /5 scale, with low-vote games pulled toward an average of 3.5
 - **Lower bound:** the score we're ~97.5% sure the game is at least at; it rewards games that are both well-liked *and* rated by lots of people. The list is sorted by this.
 - **RA / Vimm:** ✓ if the game is among the most popular on RetroAchievements / Vimm's Lair
+
+**What's deliberately left out** (opinionated, so you know what you're not seeing):
+
+- **Japanese-text games (1,123):** Japan-only releases that need you to read Japanese, like RPGs, visual novels and text-heavy sims. Import-friendly Japan-only games such as fighters, shooters and racers are kept.
+- **Team and league sports (386):** American football, soccer, basketball, hockey, baseball, cricket, rugby, volleyball and their management sims. Racing, wrestling, boxing, golf, tennis, pool, fishing and extreme sports stay.
+- **Rhythm and music games (198):** most need a guitar, drums, a dance mat or a microphone. The peripheral-free ones (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5) are left out too, as a matter of taste.
+- **Superseded editions (6):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4.
 
 Data pulled September 2026.
 

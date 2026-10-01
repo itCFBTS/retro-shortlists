@@ -12,7 +12,7 @@ Each console's full library, narrowed to the games worth your time: picked by a 
 
 ## How a game makes the list
 
-Starting from every playable game on the console, a game is shortlisted if **any** of these is true:
+Each list starts from the console's playable library, minus a few deliberate, opinionated cuts (each list spells out what and why). From what's left, a game is shortlisted if **any** of these is true:
 
 1. **Critics** rated it 80 or higher.
 2. **Retro players** still play it: it's among the most popular games on Vimm's Lair or RetroAchievements.
