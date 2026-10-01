@@ -8,13 +8,14 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - It's in Vimm's Lair's top 100 / top-rated or RetroAchievements' 100 most-played PS2 games
 - Players rate it highly: its combined GameFAQs + Metacritic user **lower bound** is 3.9/5 or more
 
-**Columns**
+**What the columns mean**
 
 - **Metascore:** critic score from Metacritic (blank if Metacritic has none)
 - **Votes:** GameFAQs + Metacritic user ratings combined
 - **User score:** GameFAQs and Metacritic user ratings merged on a /5 scale, with low-vote games pulled toward an average of 3.5
 - **Lower bound:** the score we're ~97.5% sure the game is at least at; it rewards games that are both well-liked *and* rated by lots of people. The list is sorted by this.
 - **RA / Vimm:** ✓ if the game is among the most popular on RetroAchievements / Vimm's Lair
+- **★ after a title:** hand-picked (see below)
 
 **What's deliberately left out** (opinionated, so you know what you're not seeing):
 
