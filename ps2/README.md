@@ -1,4 +1,4 @@
-# PS2 Shortlist — 403 games
+# PS2 Shortlist — 404 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -199,6 +199,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Wild Arms 5 | 71 | 676 | 4.00 | 3.94 |  |  |
 | The King of Fighters 2000 |  | 102 | 4.09 | 3.93 |  |  |
 | Jak II | 87 | 2,311 | 3.97 | 3.93 |  | ✓ |
+| Growlanser Generations | 81 | 281 | 4.02 | 3.93 |  |  |
 | Onimusha: Warlords | 86 | 1,152 | 3.98 | 3.93 | ✓ | ✓ |
 | Kamen Rider: Climax Heroes |  | 68 | 4.11 | 3.93 |  |  |
 | Fatal Fury: Battle Archives Vol. 2 |  | 116 | 4.07 | 3.93 |  |  |

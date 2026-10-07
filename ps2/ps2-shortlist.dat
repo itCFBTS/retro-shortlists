@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (403 games, 407 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (404 games, 408 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -1289,6 +1289,12 @@
 		<description>Ring of Red (USA)</description>
 		<rom name="Ring of Red (USA).cue" size="83" crc="146158b5" md5="8162ee147df5e6110839ff3bed0f52e6" sha1="ef60785bd81589de68cd13a3c8067883db3e5859" />
 		<rom name="Ring of Red (USA).bin" size="582668016" crc="ddb29e94" md5="316a3e8a69ca54757be456f2cf74777c" sha1="a44f039cc3512891d6e49346cabb1e3013c008d8" />
+	</game>
+	<game name="Growlanser Generations (USA) (Disc 2) (Growlanser III - The Dual Darkness)">
+		<category>Games</category>
+		<description>Growlanser Generations (USA) (Disc 2) (Growlanser III - The Dual Darkness)</description>
+		<rom name="Growlanser Generations (USA) (Disc 2) (Growlanser III - The Dual Darkness).cue" size="140" crc="876c4cf5" md5="1b688a2f3bec1830e10f53ddf1c064a1" sha1="981f75ebba62faebbee9faee883dd84caa84e56a" />
+		<rom name="Growlanser Generations (USA) (Disc 2) (Growlanser III - The Dual Darkness).bin" size="717350592" crc="1f8a627f" md5="c0732c6f39f3fbf6b00f19692d96bad4" sha1="a809940e941517f0147203bc266f160ce4de6217" />
 	</game>
 	<game name="Monster Rancher 4 (USA)">
 		<category>Games</category>
