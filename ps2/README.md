@@ -1,4 +1,4 @@
-# PS2 Shortlist — 400 games
+# PS2 Shortlist — 403 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -64,7 +64,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Ace Combat 5: The Unsung War | 84 | 893 | 4.25 | 4.19 |  | ✓ |
 | The King of Fighters '98 Ultimate Match |  | 300 | 4.27 | 4.18 |  |  |
 | Gradius V | 82 | 421 | 4.25 | 4.17 |  |  |
-| Fatal Frame II: Crimson Butterfly | 81 | 957 | 4.22 | 4.17 |  |  |
+| Fatal Frame II: Crimson Butterfly | 81 | 957 | 4.22 | 4.17 |  | ✓ |
 | The King of Fighters 2002: Unlimited Match |  | 272 | 4.26 | 4.16 |  |  |
 | Devil May Cry 3: Dante's Awakening | 84 | 2,256 | 4.20 | 4.16 | ✓ | ✓ |
 | Xenosaga Episode III: Also sprach Zarathustra | 81 | 1,574 | 4.20 | 4.16 |  | ✓ |
@@ -86,7 +86,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Mega Man Anniversary Collection | 81 | 814 | 4.18 | 4.13 |  |  |
 | Disgaea 2: Cursed Memories | 84 | 1,325 | 4.17 | 4.12 |  |  |
 | Burnout 3: Takedown | 93 | 1,489 | 4.17 | 4.12 | ✓ | ✓ |
-| Ace Combat Zero: The Belkan War |  | 540 | 4.19 | 4.12 |  |  |
+| Ace Combat Zero: The Belkan War |  | 540 | 4.19 | 4.12 |  | ✓ |
 | Suikoden V | 76 | 1,741 | 4.16 | 4.12 |  |  |
 | Naruto: Ultimate Ninja 3 | 75 | 1,035 | 4.16 | 4.12 |  |  |
 | Grand Theft Auto: Vice City | 95 | 7,433 | 4.13 | 4.11 | ✓ | ✓ |
@@ -156,14 +156,14 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Need for Speed: Underground 2 | 82 | 1,552 | 4.03 | 3.99 | ✓ | ✓ |
 | .hack//G.U.vol.1//Rebirth |  | 1,071 | 4.04 | 3.99 |  |  |
 | Fatal Frame | 74 | 1,004 | 4.04 | 3.99 | ✓ | ✓ |
-| Tekken Tag Tournament | 85 | 1,371 | 4.03 | 3.99 | ✓ |  |
+| Tekken Tag Tournament | 85 | 1,371 | 4.03 | 3.99 | ✓ | ✓ |
 | Prince of Persia: The Sands of Time | 92 | 2,021 | 4.02 | 3.99 | ✓ | ✓ |
 | Odin Sphere | 83 | 1,263 | 4.03 | 3.98 |  |  |
 | Star Ocean: Till the End of Time | 80 | 3,080 | 4.01 | 3.98 |  |  |
 | Monster Hunter | 68 | 551 | 4.05 | 3.98 |  |  |
 | Tokyo Xtreme Racer: 3 | 63 | 170 | 4.10 | 3.98 |  |  |
 | Def Jam: Fight for NY | 83 | 759 | 4.04 | 3.98 | ✓ | ✓ |
-| SSX 3 | 93 | 611 | 4.04 | 3.98 | ✓ |  |
+| SSX 3 | 93 | 611 | 4.04 | 3.98 | ✓ | ✓ |
 | Kidou Senshi Gundam SEED Destiny: Rengou vs. Z.A.F.T. II Plus |  | 88 | 4.14 | 3.98 |  |  |
 | Sengoku Basara 2 |  | 88 | 4.14 | 3.98 |  |  |
 | Naval Ops: Commander |  | 41 | 4.21 | 3.98 |  |  |
@@ -342,6 +342,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | TOCA Race Driver 2 | 83 | 52 | 3.92 | 3.71 |  |  |
 | Indigo Prophecy | 83 | 655 | 3.77 | 3.71 |  |  |
 | NASCAR Thunder 2004 | 88 | 123 | 3.84 | 3.71 |  |  |
+| Haunting Ground | 67 | 766 | 3.76 | 3.70 |  | ✓ |
 | Rayman 2: Revolution | 90 | 279 | 3.80 | 3.70 |  |  |
 | Tony Hawk's Underground 2 |  | 714 | 3.76 | 3.70 | ✓ | ✓ |
 | Tekken 4 | 79 | 1,488 | 3.74 | 3.70 | ✓ |  |
@@ -377,6 +378,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Final Fantasy X-2 | 85 | 7,048 | 3.62 | 3.60 |  |  |
 | Viewtiful Joe 2 | 84 | 224 | 3.70 | 3.60 |  |  |
 | SSX on Tour | 80 | 190 | 3.70 | 3.59 |  |  |
+| Resident Evil Outbreak | 71 | 1,137 | 3.64 | 3.59 |  | ✓ |
 | Escape from Monkey Island | 84 | 156 | 3.71 | 3.59 |  |  |
 | WWE SmackDown! vs. RAW | 80 | 551 | 3.65 | 3.59 |  |  |
 | Crash Tag Team Racing |  | 751 | 3.64 | 3.58 | ✓ |  |
@@ -386,6 +388,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | NASCAR: Dirt to Daytona | 84 | 125 | 3.69 | 3.55 |  |  |
 | Colin McRae Rally 3 | 86 | 117 | 3.66 | 3.52 |  |  |
 | Pro Race Driver | 81 | 64 | 3.71 | 3.52 |  |  |
+| Silent Hill: Origins | 70 | 772 | 3.57 | 3.52 |  | ✓ |
 | Def Jam Vendetta | 80 | 296 | 3.61 | 3.51 |  |  |
 | Ben 10: Protector Of Earth | 60 | 182 | 3.63 | 3.51 | ✓ |  |
 | TimeSplitters | 81 | 575 | 3.58 | 3.51 |  |  |

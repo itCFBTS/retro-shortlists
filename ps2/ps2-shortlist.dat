@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (400 games, 404 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (403 games, 407 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -545,6 +545,11 @@
 		<category>Games</category>
 		<description>Dot Hack Part 4 - Quarantine (USA)</description>
 		<rom name="Dot Hack Part 4 - Quarantine (USA).iso" size="4458315776" crc="c6453825" md5="7277c0bd0905ec307b9216f9f8de4d1a" sha1="b33c566b9a5269d5d8204c49e5be215f51735194" />
+	</game>
+	<game name="Silent Hill Origins (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Silent Hill Origins (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Silent Hill Origins (USA) (En,Fr,De,Es,It).iso" size="3074785280" crc="5a23c164" md5="bf0d8835d0543308b0f7bcf9a355697d" sha1="4458f1c0c599745967dd341433a17b6bb32cbf69" />
 	</game>
 	<game name="Maximo vs Army of Zin (USA)">
 		<category>Games</category>
@@ -1090,6 +1095,11 @@
 		<description>Monster Hunter (USA)</description>
 		<rom name="Monster Hunter (USA).iso" size="3996745728" crc="8da5f31b" md5="4ce184da236f65a5c1df37e5e9c32d00" sha1="5d957d13ae795f40c71d884971397d3a5f2d2533" />
 	</game>
+	<game name="Resident Evil - Outbreak (USA) (v2.00)">
+		<category>Games</category>
+		<description>Resident Evil - Outbreak (USA) (v2.00)</description>
+		<rom name="Resident Evil - Outbreak (USA) (v2.00).iso" size="4698767360" crc="f3a36cc9" md5="46ad6cabe58a40b7a79ebd3232a6a93c" sha1="c61b67efe13c0e2372ed104b57edaa92dda94d2d" />
+	</game>
 	<game name="NeoGeo Battle Coliseum (USA)">
 		<category>Games</category>
 		<description>NeoGeo Battle Coliseum (USA)</description>
@@ -1429,6 +1439,11 @@
 		<category>Games</category>
 		<description>Freedom Fighters (USA)</description>
 		<rom name="Freedom Fighters (USA).iso" size="2068938752" crc="b5f3ddc6" md5="4465d9e6df6b378d8d8bb557cbb502e4" sha1="5c129aaa25ecc53139fe543cf664b697e7902eb6" />
+	</game>
+	<game name="Haunting Ground (USA)">
+		<category>Games</category>
+		<description>Haunting Ground (USA)</description>
+		<rom name="Haunting Ground (USA).iso" size="4589453312" crc="99e1224e" md5="caedd8fe523b9ee0c9f3775bdffb0faa" sha1="45b9dabe26a0b9082b13635e85ba4635c8f91a31" />
 	</game>
 	<game name="Klonoa 2 - Lunatea's Veil (USA)">
 		<category>Games</category>
