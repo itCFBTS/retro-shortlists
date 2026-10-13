@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (393 games, 397 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (385 games, 389 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -325,11 +325,6 @@
 		<category>Games</category>
 		<description>Radiata Stories (USA)</description>
 		<rom name="Radiata Stories (USA).iso" size="4600791040" crc="76870ee5" md5="1e497abb0c59cac8627d98b82e4148f0" sha1="a2fad0c752c51ac693c32852d6d2223c09bd2456" />
-	</game>
-	<game name="Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)">
-		<category>Games</category>
-		<description>Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)</description>
-		<rom name="Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan).iso" size="4285595648" crc="91b96589" md5="da1cfc296bd896e88dddcccc374d4b08" sha1="54f96270425ce1f40acc0f949b3ae43d779485cd" />
 	</game>
 	<game name="Shin Megami Tensei - Digital Devil Saga 2 (USA)">
 		<category>Games</category>
@@ -1478,11 +1473,6 @@
 		<rom name="Gradius V (USA).cue" size="81" crc="04286247" md5="3915973a4939ea0bf4c7fea27a793322" sha1="2ef30018585d72e7d0b5f501f77f17301b818e3a" />
 		<rom name="Gradius V (USA).bin" size="465832416" crc="cd10c7f2" md5="bed560ec8de61e192371c3b16df911fa" sha1="57a4a82fa3aa89d2fdd68c0d354aacca0fc82fd2" />
 	</game>
-	<game name="Tales of Destiny 2 (Japan, Asia)">
-		<category>Games</category>
-		<description>Tales of Destiny 2 (Japan, Asia)</description>
-		<rom name="Tales of Destiny 2 (Japan, Asia).iso" size="3234004992" crc="359de692" md5="57cc3626a9cdc44bcde55efde9d22e78" sha1="3b2be72b751607a7a2a56d62feec71584b4b8c72" />
-	</game>
 	<game name="Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)</description>
@@ -1547,16 +1537,6 @@
 		<category>Games</category>
 		<description>Spider-Man - Friend or Foe (USA)</description>
 		<rom name="Spider-Man - Friend or Foe (USA).iso" size="4215799808" crc="14b3a916" md5="75f06f4118e97145979aed499c9ec9a5" sha1="8cfb542da32bcebb6d746775f65cf926ab1ac5e1" />
-	</game>
-	<game name="Dai-2-ji Super Robot Taisen Alpha (Japan)">
-		<category>Games</category>
-		<description>Dai-2-ji Super Robot Taisen Alpha (Japan)</description>
-		<rom name="Dai-2-ji Super Robot Taisen Alpha (Japan).iso" size="2501378048" crc="4a562a40" md5="f56b0a17680f43c95787383dbc731b89" sha1="9424c117f19837d31ae0c1c4dcad54ba75c4be1b" />
-	</game>
-	<game name="SD Gundam - GGeneration Neo (Japan)">
-		<category>Games</category>
-		<description>SD Gundam - GGeneration Neo (Japan)</description>
-		<rom name="SD Gundam - GGeneration Neo (Japan).iso" size="3766616064" crc="61f461d1" md5="90b8979f03fc1ce8e9def93ad5d36623" sha1="4a5d86aa3011fb5ff744401dad8025aa3ff9c25d" />
 	</game>
 	<game name="Test Drive Unlimited (USA)">
 		<category>Games</category>
@@ -1628,16 +1608,6 @@
 		<description>Monster Hunter 2 (Japan)</description>
 		<rom name="Monster Hunter 2 (Japan).iso" size="4333469696" crc="76063fe3" md5="2cff8ae6975e12858314567dbf888228" sha1="aa53a5244214f933cf7c2607573c69b8c6f18b8f" />
 	</game>
-	<game name="Tales of Rebirth (Japan)">
-		<category>Games</category>
-		<description>Tales of Rebirth (Japan)</description>
-		<rom name="Tales of Rebirth (Japan).iso" size="4508516352" crc="73765f13" md5="13f24dbea15c1d5ca4fbefe41f4613aa" sha1="21aa2923e0c63c46368156b301bc5c22aa3f55e9" />
-	</game>
-	<game name="SD Gundam - GGeneration Spirits - G-Spirits (Japan, Korea)">
-		<category>Games</category>
-		<description>SD Gundam - GGeneration Spirits - G-Spirits (Japan, Korea)</description>
-		<rom name="SD Gundam - GGeneration Spirits - G-Spirits (Japan, Korea).iso" size="4222877696" crc="14d277f5" md5="31c69c95d24634f44f01785b7c643634" sha1="487f699a7ce1efb7e899791cffdce96212b1ea3a" />
-	</game>
 	<game name="MX Unleashed (USA)">
 		<category>Games</category>
 		<description>MX Unleashed (USA)</description>
@@ -1687,11 +1657,6 @@
 		<category>Games</category>
 		<description>Romance of the Three Kingdoms X (USA)</description>
 		<rom name="Romance of the Three Kingdoms X (USA).iso" size="2894069760" crc="c88bf73a" md5="8a54c6a4611ee87bdf4ecf1e6138c607" sha1="ac362672bce2e194630f59c77b3f63c8f2b52024" />
-	</game>
-	<game name="Tales of Symphonia (Japan)">
-		<category>Games</category>
-		<description>Tales of Symphonia (Japan)</description>
-		<rom name="Tales of Symphonia (Japan).iso" size="4255907840" crc="89a03805" md5="257c3a08a9faca092ba8d70c7d317b03" sha1="dfc850c2e8a1563e15debf6eb58f79224886e67b" />
 	</game>
 	<game name="Escape from Monkey Island (USA)">
 		<category>Games</category>
@@ -1959,11 +1924,6 @@
 		<category>Games</category>
 		<description>Ultraman - Fighting Evolution 3 (Japan)</description>
 		<rom name="Ultraman - Fighting Evolution 3 (Japan).iso" size="2811789312" crc="8881fe23" md5="a4c445b0455658b1bfbd96ff8e7fe5ab" sha1="69fb796ecc226724557ff67c670b483889bde82e" />
-	</game>
-	<game name="SD Gundam - GGeneration Wars (Japan)">
-		<category>Games</category>
-		<description>SD Gundam - GGeneration Wars (Japan)</description>
-		<rom name="SD Gundam - GGeneration Wars (Japan).iso" size="4132929536" crc="483c95a1" md5="a38edcfd7d10345135325ce1f7593695" sha1="58c5950df58c21f3a8d6344b241740d4f52b9598" />
 	</game>
 	<game name="Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II Plus (Japan, Korea)">
 		<category>Games</category>

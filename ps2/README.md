@@ -1,4 +1,4 @@
-# PS2 Shortlist — 393 games
+# PS2 Shortlist — 385 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -88,7 +88,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Suikoden V | 76 | 1,741 | 4.16 | 4.12 |  |  |
 | Naruto: Ultimate Ninja 3 | 75 | 1,035 | 4.16 | 4.12 |  |  |
 | Grand Theft Auto: Vice City | 95 | 7,433 | 4.13 | 4.11 | ✓ | ✓ |
-| Tales of Rebirth |  | 187 | 4.22 | 4.11 |  |  |
 | Jak 3 | 84 | 2,110 | 4.14 | 4.11 |  | ✓ |
 | Dark Cloud 2 | 87 | 2,182 | 4.14 | 4.11 |  | ✓ |
 | Fatal Frame III: The Tormented | 78 | 760 | 4.17 | 4.11 |  |  |
@@ -107,16 +106,13 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Street Fighter III: 3rd Strike – Fight for the Future |  | 175 | 4.19 | 4.08 |  |  |
 | Shin Megami Tensei: Digital Devil Saga 2 | 78 | 1,260 | 4.12 | 4.08 |  |  |
 | WWE SmackDown! Here Comes The Pain | 85 | 1,098 | 4.12 | 4.08 | ✓ | ✓ |
-| 3rd Super Robot Wars Alpha: To the End of the Galaxy |  | 132 | 4.21 | 4.07 |  |  |
 | Street Fighter Alpha Anthology |  | 467 | 4.15 | 4.07 |  |  |
 | Dragon Ball Z: Budokai 3 |  | 1,934 | 4.11 | 4.07 |  |  |
 | Ultraman Fighting Evolution 3 |  | 102 | 4.22 | 4.07 |  |  |
 | Jak and Daxter: The Precursor Legacy | 90 | 3,025 | 4.09 | 4.07 | ✓ | ✓ |
 | Sly 3: Honor Among Thieves | 83 | 1,183 | 4.11 | 4.06 |  | ✓ |
-| Tales of Symphonia |  | 215 | 4.17 | 4.06 |  |  |
 | Ratchet & Clank | 88 | 2,860 | 4.09 | 4.06 | ✓ | ✓ |
 | Warship Gunner 2 |  | 116 | 4.20 | 4.06 |  |  |
-| SD Gundam G Generation Wars |  | 133 | 4.19 | 4.06 |  |  |
 | Ape Escape 3 | 77 | 515 | 4.12 | 4.05 | ✓ |  |
 | Hitman: Blood Money | 83 | 650 | 4.11 | 4.05 |  |  |
 | .hack//G.U.vol.2//Reminisce |  | 896 | 4.10 | 4.05 |  |  |
@@ -136,7 +132,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | The Warriors | 84 | 515 | 4.09 | 4.02 | ✓ | ✓ |
 | Soulcalibur II | 92 | 1,349 | 4.06 | 4.02 |  | ✓ |
 | Melty Blood: Actress Again |  | 129 | 4.15 | 4.01 |  |  |
-| 2nd Super Robot Wars Alpha |  | 77 | 4.18 | 4.01 |  |  |
 | Ultraman Fighting Evolution Rebirth |  | 47 | 4.23 | 4.01 |  |  |
 | Rogue Galaxy | 83 | 1,754 | 4.04 | 4.01 |  | ✓ |
 | Samurai Warriors 2 | 58 | 455 | 4.07 | 4.00 |  |  |
@@ -172,7 +167,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | MS Saga: A New Dawn | 65 | 272 | 4.06 | 3.96 |  |  |
 | Nights into Dreams |  | 42 | 4.19 | 3.96 |  |  |
 | Front Mission 4 | 75 | 593 | 4.03 | 3.96 |  |  |
-| SD Gundam G Generation Spirits |  | 50 | 4.18 | 3.96 |  |  |
 | Hyper Street Fighter II: The Anniversary Edition |  | 154 | 4.08 | 3.96 |  |  |
 | SSX Tricky | 92 | 514 | 4.03 | 3.96 | ✓ |  |
 | Guilty Gear XX: Accent Core | 77 | 191 | 4.07 | 3.96 |  |  |
@@ -205,7 +199,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Star Wars: Battlefront | 82 | 1,079 | 3.97 | 3.92 |  |  |
 | Marvel: Ultimate Alliance | 81 | 741 | 3.98 | 3.92 |  | ✓ |
 | Naruto Shippuden: Ultimate Ninja 4 |  | 520 | 3.99 | 3.92 |  |  |
-| SD Gundam G Generation Neo |  | 34 | 4.17 | 3.92 |  |  |
 | Ar tonelico: Melody of Elemia | 71 | 906 | 3.97 | 3.92 |  |  |
 | The Rumble Fish |  | 114 | 4.06 | 3.92 |  |  |
 | Rumble Racing | 85 | 145 | 4.04 | 3.92 |  |  |
@@ -248,7 +241,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | The Punisher | 68 | 445 | 3.92 | 3.84 | ✓ | ✓ |
 | SOCOM 3 U.S. Navy SEALs | 82 | 321 | 3.93 | 3.84 |  |  |
 | Jak X: Combat Racing ★ | 76 | 779 | 3.90 | 3.84 |  |  |
-| Tales of Destiny 2 ★ |  | 171 | 3.96 | 3.84 |  |  |
 | SOCOM II U.S. Navy SEALs | 87 | 351 | 3.92 | 3.84 |  |  |
 | Need for Speed: Carbon | 74 | 917 | 3.89 | 3.84 | ✓ | ✓ |
 | Wild Arms 3 ★ | 78 | 1,101 | 3.89 | 3.84 |  |  |
