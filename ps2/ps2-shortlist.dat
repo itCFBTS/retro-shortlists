@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (381 games, 385 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (380 games, 384 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -1637,11 +1637,6 @@
 		<category>Games</category>
 		<description>Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr)</description>
 		<rom name="Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr).iso" size="4099506176" crc="6d3e4c51" md5="06a67ddd0c0c902b36b49ba2e5bd467b" sha1="377b2ed3be39e3dcc2df3200916162a210281d1f" />
-	</game>
-	<game name="Melty Blood - Act Cadenza (Japan)">
-		<category>Games</category>
-		<description>Melty Blood - Act Cadenza (Japan)</description>
-		<rom name="Melty Blood - Act Cadenza (Japan).iso" size="1540423680" crc="669ddcf0" md5="e544756052e9a3fa92ffe838ca03b49e" sha1="3bdef6328f08e9061dddd9e6a496fbe7a98d41f2" />
 	</game>
 	<game name="Romance of the Three Kingdoms X (USA)">
 		<category>Games</category>
