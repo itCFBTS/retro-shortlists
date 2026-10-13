@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (385 games, 389 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (381 games, 385 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -176,11 +176,6 @@
 		<category>Games</category>
 		<description>Star Wars - Battlefront (USA)</description>
 		<rom name="Star Wars - Battlefront (USA).iso" size="4697260032" crc="12a56268" md5="3d8e481e3e78b9e2af6b493857db6e47" sha1="99d1cfed9237eee823d6595afefb7fafa2ee9cb1" />
-	</game>
-	<game name="Metal Slug 3 (Europe) (En,Fr,De,Es,It)">
-		<category>Games</category>
-		<description>Metal Slug 3 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Metal Slug 3 (Europe) (En,Fr,De,Es,It).iso" size="1679687680" crc="ecc9d5f7" md5="9bb62496c49707e3e9f8f22992765ed0" sha1="1b82fe38569b0962fd1648f3d83436c374877384" />
 	</game>
 	<game name="Lord of the Rings, The - The Two Towers (USA)">
 		<category>Games</category>
@@ -1493,11 +1488,6 @@
 		<description>WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es)</description>
 		<rom name="WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es).iso" size="3442769920" crc="c7afa5b6" md5="5d530f59b3eb3b4ef7d1cfc717b472fe" sha1="14f3058a9436c67f4e85dda4538531af5a0ab50b" />
 	</game>
-	<game name="NeoGeo Online Collection Vol. 1 - Garou - Mark of the Wolves (Japan)">
-		<category>Games</category>
-		<description>NeoGeo Online Collection Vol. 1 - Garou - Mark of the Wolves (Japan)</description>
-		<rom name="NeoGeo Online Collection Vol. 1 - Garou - Mark of the Wolves (Japan).iso" size="1360396288" crc="c8a8082b" md5="25fd9f63b4a3e1ffe5dc8597436a9fa5" sha1="7aae4ad77f1a9e39d72acc881479a1817d1d47c9" />
-	</game>
 	<game name="Syphon Filter - Logan's Shadow (USA)">
 		<category>Games</category>
 		<description>Syphon Filter - Logan's Shadow (USA)</description>
@@ -1827,16 +1817,6 @@
 		<category>Games</category>
 		<description>Dynasty Warriors 5 - Empires (USA)</description>
 		<rom name="Dynasty Warriors 5 - Empires (USA).iso" size="3664773120" crc="8cb77d54" md5="5c9911d7916a339a0791b4cdf41dd1c4" sha1="a95d5156b4197806b2e33046256096ad892f7ea0" />
-	</game>
-	<game name="King of Fighters 2000, The (USA)">
-		<category>Games</category>
-		<description>King of Fighters 2000, The (USA)</description>
-		<rom name="King of Fighters 2000, The (USA).iso" size="1240137728" crc="d2b483aa" md5="b3ba1f68818c9153a0d2e6c770408fc1" sha1="5c73108a87e029c4db64e71a9ffe8626b28e3bc1" />
-	</game>
-	<game name="King of Fighters 2002, The - Challenge to Ultimate Battle (USA)">
-		<category>Games</category>
-		<description>King of Fighters 2002, The - Challenge to Ultimate Battle (USA)</description>
-		<rom name="King of Fighters 2002, The - Challenge to Ultimate Battle (USA).iso" size="3559030784" crc="8a00856a" md5="c082bf835a75de362e741edfc396d5fb" sha1="015ddb6f682ed92e84728326e990c69b98cb733d" />
 	</game>
 	<game name="Warriors Orochi 2 (USA)">
 		<category>Games</category>

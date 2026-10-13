@@ -1,4 +1,4 @@
-# PS2 Shortlist — 385 games
+# PS2 Shortlist — 381 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -120,7 +120,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Dragon Ball Z: Budokai Tenkaichi 2 | 73 | 1,333 | 4.09 | 4.05 |  |  |
 | A.C.E.: Another Century's Episode 3: The Final |  | 87 | 4.21 | 4.04 |  |  |
 | Valkyrie Profile 2: Silmeria | 84 | 1,623 | 4.08 | 4.04 |  |  |
-| The King of Fighters 2002 |  | 183 | 4.16 | 4.04 |  |  |
 | Downhill Domination | 79 | 330 | 4.13 | 4.04 |  |  |
 | Onimusha 3: Demon Siege | 85 | 1,115 | 4.09 | 4.04 |  | ✓ |
 | Hot Shots Golf Fore! | 80 | 191 | 4.15 | 4.03 |  |  |
@@ -157,7 +156,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Sengoku Basara 2 |  | 88 | 4.14 | 3.98 |  |  |
 | Naval Ops: Commander |  | 41 | 4.21 | 3.98 |  |  |
 | A.C.E.: Another Century's Episode 2 |  | 55 | 4.18 | 3.98 |  |  |
-| Garou: Mark of the Wolves |  | 117 | 4.12 | 3.98 |  |  |
 | Dynasty Warriors 5 | 69 | 875 | 4.03 | 3.98 |  |  |
 | Need For Speed: Hot Pursuit 2 | 89 | 842 | 4.03 | 3.97 | ✓ |  |
 | Lego Star Wars II: The Original Trilogy | 84 | 805 | 4.03 | 3.97 |  |  |
@@ -185,7 +183,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | ATV Offroad Fury 4 | 77 | 244 | 4.04 | 3.94 |  |  |
 | Tomb Raider: Anniversary |  | 493 | 4.01 | 3.94 |  |  |
 | Wild Arms 5 | 71 | 676 | 4.00 | 3.94 |  |  |
-| The King of Fighters 2000 |  | 102 | 4.09 | 3.93 |  |  |
 | Jak II | 87 | 2,311 | 3.97 | 3.93 |  | ✓ |
 | Growlanser Generations | 81 | 281 | 4.02 | 3.93 |  |  |
 | Onimusha: Warlords | 86 | 1,152 | 3.98 | 3.93 | ✓ | ✓ |
@@ -247,7 +244,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Mega Man X: Command Mission ★ | 69 | 595 | 3.90 | 3.84 |  |  |
 | Burnout Dominator ★ | 76 | 454 | 3.91 | 3.84 |  |  |
 | Champions: Return to Arms ★ | 77 | 484 | 3.91 | 3.84 |  |  |
-| Metal Slug 3 ★ |  | 111 | 3.98 | 3.84 |  |  |
 | WWE SmackDown vs. Raw 2011 | 80 | 305 | 3.92 | 3.84 |  |  |
 | Naruto: Ultimate Ninja 2 ★ | 73 | 740 | 3.89 | 3.83 |  |  |
 | Silent Line: Armored Core ★ | 69 | 184 | 3.95 | 3.83 |  |  |
