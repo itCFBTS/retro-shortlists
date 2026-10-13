@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (404 games, 408 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (402 games, 406 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -880,11 +880,6 @@
 		<description>Nights into Dreams... (Japan)</description>
 		<rom name="Nights into Dreams... (Japan).iso" size="2898296832" crc="25f273d0" md5="3a6587656d942f49a8d3478cf1ae92d5" sha1="25a9aa0dc5348eff2f8a89dd61aff04ac57d1a0a" />
 	</game>
-	<game name="Psychonauts (USA)">
-		<category>Games</category>
-		<description>Psychonauts (USA)</description>
-		<rom name="Psychonauts (USA).iso" size="3514302464" crc="6ce5d0cd" md5="599a1889474d6d7e92095ab7b5265a32" sha1="4644391e69a38c073e7c08712070997f2cd4d92a" />
-	</game>
 	<game name="Star Wars - Battlefront II (USA) (v2.01)">
 		<category>Games</category>
 		<description>Star Wars - Battlefront II (USA) (v2.01)</description>
@@ -1258,11 +1253,6 @@
 		<category>Games</category>
 		<description>Destroy All Humans! 2 (USA)</description>
 		<rom name="Destroy All Humans! 2 (USA).iso" size="4502323200" crc="23617beb" md5="e6ad962a09349ce6b92c7b1d9bc9f5e3" sha1="aaa1dff39a51e183f4c11df1fea1fb524a9a6948" />
-	</game>
-	<game name="Deus Ex - The Conspiracy (USA)">
-		<category>Games</category>
-		<description>Deus Ex - The Conspiracy (USA)</description>
-		<rom name="Deus Ex - The Conspiracy (USA).iso" size="1383399424" crc="4b69d1a8" md5="81d53bf07d144b8fb2ee67f1760e50ca" sha1="4d29d01ff53924744b3d6ab683266605595922d3" />
 	</game>
 	<game name="Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>

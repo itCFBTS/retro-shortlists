@@ -1,4 +1,4 @@
-# PS2 Shortlist — 404 games
+# PS2 Shortlist — 402 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -229,7 +229,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Guilty Gear X ★ | 79 | 280 | 3.99 | 3.90 |  |  |
 | OutRun 2006: Coast 2 Coast | 81 | 233 | 4.00 | 3.90 |  |  |
 | WWE SmackDown! Shut Your Mouth | 82 | 612 | 3.96 | 3.89 |  |  |
-| Psychonauts | 86 | 668 | 3.95 | 3.89 |  |  |
 | Onimusha 2: Samurai's Destiny ★ |  | 1,037 | 3.94 | 3.89 |  |  |
 | Mortal Kombat: Shaolin Monks |  | 1,197 | 3.94 | 3.89 | ✓ | ✓ |
 | Prince of Persia: Warrior Within | 83 | 898 | 3.94 | 3.89 |  |  |
@@ -310,7 +309,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Baldur's Gate: Dark Alliance | 87 | 975 | 3.82 | 3.77 | ✓ |  |
 | Viewtiful Joe | 90 | 417 | 3.85 | 3.77 |  |  |
 | Peter Jackson's King Kong: The Official Game of the Movie | 82 | 424 | 3.85 | 3.77 |  |  |
-| Deus Ex: The Conspiracy | 81 | 334 | 3.85 | 3.77 |  |  |
 | Medal of Honor: Frontline | 88 | 898 | 3.82 | 3.77 |  |  |
 | Dokapon Kingdom ★ | 61 | 110 | 3.90 | 3.75 |  |  |
 | Test Drive Unlimited ★ | 75 | 182 | 3.86 | 3.74 |  |  |
