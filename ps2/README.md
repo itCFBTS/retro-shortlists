@@ -1,4 +1,4 @@
-# PS2 Shortlist — 394 games
+# PS2 Shortlist — 393 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -197,7 +197,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Onimusha: Warlords | 86 | 1,152 | 3.98 | 3.93 | ✓ | ✓ |
 | Kamen Rider: Climax Heroes |  | 68 | 4.11 | 3.93 |  |  |
 | Nobunaga's Ambition: Iron Triangle |  | 96 | 4.08 | 3.93 |  |  |
-| Tales of Destiny Tales of Destiny: Director's Cut (different version) |  | 214 | 4.03 | 3.92 |  |  |
 | Romance of the Three Kingdoms X |  | 156 | 4.05 | 3.92 |  |  |
 | Melty Blood: Act Cadenza |  | 76 | 4.10 | 3.92 |  |  |
 | Siren 2 | 74 | 179 | 4.04 | 3.92 |  |  |

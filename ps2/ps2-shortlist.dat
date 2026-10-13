@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (394 games, 398 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (393 games, 397 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -248,11 +248,6 @@
 		<category>Games</category>
 		<description>ATV Offroad Fury 2 (USA) (v2.00)</description>
 		<rom name="ATV Offroad Fury 2 (USA) (v2.00).iso" size="4487446528" crc="1d0891b9" md5="ae99bb7daff6ad94cbd4e58ed2566c9a" sha1="5c17d8ac5853ee418f3a433b38e0067426f4f997" />
-	</game>
-	<game name="Tales of Destiny - Director's Cut (Japan, Asia)">
-		<category>Games</category>
-		<description>Tales of Destiny - Director's Cut (Japan, Asia)</description>
-		<rom name="Tales of Destiny - Director's Cut (Japan, Asia).iso" size="4479647744" crc="340b189d" md5="bd5a9c4c95814acf24593d60d36909df" sha1="289587a819d533180d8e067d5490b67aa590a884" />
 	</game>
 	<game name="Viewtiful Joe 2 (USA)">
 		<category>Games</category>
