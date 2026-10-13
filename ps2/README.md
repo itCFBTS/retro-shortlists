@@ -1,4 +1,4 @@
-# PS2 Shortlist — 402 games
+# PS2 Shortlist — 394 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,215 are playable without reading Japanese; a few deliberate cuts (below) bring that to 2,642, and the games here are picked from those.
 
@@ -50,7 +50,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Shin Megami Tensei: Nocturne | 82 | 2,817 | 4.32 | 4.29 |  |  |
 | Grand Theft Auto: San Andreas | 95 | 12,975 | 4.29 | 4.27 | ✓ | ✓ |
 | God of War II | 93 | 6,538 | 4.28 | 4.26 | ✓ | ✓ |
-| Mega Man X Collection |  | 957 | 4.30 | 4.25 |  |  |
 | Tales of the Abyss | 78 | 2,761 | 4.28 | 4.25 |  | ✓ |
 | Dragon Quest VIII: Journey of the Cursed King | 89 | 4,682 | 4.27 | 4.25 | ✓ | ✓ |
 | Gran Turismo 4 | 89 | 2,966 | 4.27 | 4.24 | ✓ | ✓ |
@@ -83,7 +82,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Rockman: Power Battle Fighters |  | 78 | 4.31 | 4.14 |  |  |
 | .hack//G.U.vol.3//Redemption |  | 893 | 4.18 | 4.13 |  |  |
 | TimeSplitters: Future Perfect | 84 | 755 | 4.19 | 4.13 |  |  |
-| Mega Man Anniversary Collection | 81 | 814 | 4.18 | 4.13 |  |  |
 | Disgaea 2: Cursed Memories | 84 | 1,325 | 4.17 | 4.12 |  |  |
 | Burnout 3: Takedown | 93 | 1,489 | 4.17 | 4.12 | ✓ | ✓ |
 | Ace Combat Zero: The Belkan War |  | 540 | 4.19 | 4.12 |  | ✓ |
@@ -109,7 +107,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Street Fighter III: 3rd Strike – Fight for the Future |  | 175 | 4.19 | 4.08 |  |  |
 | Shin Megami Tensei: Digital Devil Saga 2 | 78 | 1,260 | 4.12 | 4.08 |  |  |
 | WWE SmackDown! Here Comes The Pain | 85 | 1,098 | 4.12 | 4.08 | ✓ | ✓ |
-| Metal Slug Anthology | 80 | 396 | 4.15 | 4.08 |  |  |
 | 3rd Super Robot Wars Alpha: To the End of the Galaxy |  | 132 | 4.21 | 4.07 |  |  |
 | Street Fighter Alpha Anthology |  | 467 | 4.15 | 4.07 |  |  |
 | Dragon Ball Z: Budokai 3 |  | 1,934 | 4.11 | 4.07 |  |  |
@@ -122,7 +119,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | SD Gundam G Generation Wars |  | 133 | 4.19 | 4.06 |  |  |
 | Ape Escape 3 | 77 | 515 | 4.12 | 4.05 | ✓ |  |
 | Hitman: Blood Money | 83 | 650 | 4.11 | 4.05 |  |  |
-| Samurai Shodown Anthology |  | 144 | 4.18 | 4.05 |  |  |
 | .hack//G.U.vol.2//Reminisce |  | 896 | 4.10 | 4.05 |  |  |
 | Virtua Fighter 4: Evolution | 94 | 513 | 4.12 | 4.05 |  |  |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 73 | 1,333 | 4.09 | 4.05 |  |  |
@@ -143,8 +139,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | 2nd Super Robot Wars Alpha |  | 77 | 4.18 | 4.01 |  |  |
 | Ultraman Fighting Evolution Rebirth |  | 47 | 4.23 | 4.01 |  |  |
 | Rogue Galaxy | 83 | 1,754 | 4.04 | 4.01 |  | ✓ |
-| Vampire: Darkstalkers Collection |  | 64 | 4.20 | 4.01 |  |  |
-| Sonic Mega Collection Plus | 73 | 780 | 4.06 | 4.00 |  |  |
 | Samurai Warriors 2 | 58 | 455 | 4.07 | 4.00 |  |  |
 | Shadow Hearts: Covenant | 85 | 1,470 | 4.04 | 4.00 |  |  |
 | Ar tonelico II: Melody of Metafalica | 71 | 785 | 4.05 | 4.00 |  |  |
@@ -202,7 +196,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Growlanser Generations | 81 | 281 | 4.02 | 3.93 |  |  |
 | Onimusha: Warlords | 86 | 1,152 | 3.98 | 3.93 | ✓ | ✓ |
 | Kamen Rider: Climax Heroes |  | 68 | 4.11 | 3.93 |  |  |
-| Fatal Fury: Battle Archives Vol. 2 |  | 116 | 4.07 | 3.93 |  |  |
 | Nobunaga's Ambition: Iron Triangle |  | 96 | 4.08 | 3.93 |  |  |
 | Tales of Destiny Tales of Destiny: Director's Cut (different version) |  | 214 | 4.03 | 3.92 |  |  |
 | Romance of the Three Kingdoms X |  | 156 | 4.05 | 3.92 |  |  |
@@ -328,7 +321,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Tenchu: Fatal Shadows ★ | 58 | 273 | 3.82 | 3.73 |  |  |
 | Berserk: Millennium Falcon Hen Seima Senki no Shō ★ |  | 119 | 3.87 | 3.73 |  |  |
 | Tenchu: Wrath of Heaven ★ | 79 | 595 | 3.79 | 3.72 |  |  |
-| Sega Genesis Collection | 82 | 287 | 3.82 | 3.72 |  |  |
 | WRC: Rally Evolved | 80 | 59 | 3.92 | 3.72 |  |  |
 | Blood Will Tell: Tezuka Osamu's Dororo ★ | 67 | 189 | 3.83 | 3.72 |  |  |
 | Amplitude | 86 | 191 | 3.83 | 3.72 |  |  |

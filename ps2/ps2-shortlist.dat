@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists 400</name>
-		<description>PS2 Shortlist (402 games, 406 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (394 games, 398 discs), 1G1R USA&gt;Europe&gt;Japan, derived from Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<author>Retro Shortlists (derived from redump.org)</author>
 		<homepage>https://itcfbts.github.io/retro-shortlists/</homepage>
@@ -199,11 +199,6 @@
 		<rom name="Quake III - Revolution (USA).cue" size="94" crc="09d5bb31" md5="b9eeb555c94abc9336261a59d1490808" sha1="d33fd75e764a1dcb42b945c7d372555927e2d617" />
 		<rom name="Quake III - Revolution (USA).bin" size="745555776" crc="2c8aaaee" md5="16efd1e8e7bb6018a3637ff81b6393ef" sha1="6aff2669048382c44d11e6074d9482caedc0dd9a" />
 	</game>
-	<game name="Mega Man X Collection (USA)">
-		<category>Games</category>
-		<description>Mega Man X Collection (USA)</description>
-		<rom name="Mega Man X Collection (USA).iso" size="2919923712" crc="96670557" md5="c11aa78f53581f4c25082c9a96b9dc74" sha1="f0266a12a91f63d19245dbd087811e31ed601f4f" />
-	</game>
 	<game name="Mega Man X - Command Mission (USA)">
 		<category>Games</category>
 		<description>Mega Man X - Command Mission (USA)</description>
@@ -243,11 +238,6 @@
 		<category>Games</category>
 		<description>Valkyrie Profile 2 - Silmeria (USA)</description>
 		<rom name="Valkyrie Profile 2 - Silmeria (USA).iso" size="4661706752" crc="cabbe0aa" md5="0b7d4e1c924d43f2e84d48b5a7017679" sha1="406140de9924f5644efb52cad9f360b2c3533fed" />
-	</game>
-	<game name="Sega Genesis Collection (USA)">
-		<category>Games</category>
-		<description>Sega Genesis Collection (USA)</description>
-		<rom name="Sega Genesis Collection (USA).iso" size="3933863936" crc="cc0ae3a8" md5="7a74531ca0f9da1e4917df7b22cb5fdd" sha1="9396ba6e2d9c0db24e1a2a50618a7fbcac13054e" />
 	</game>
 	<game name="Hyper Street Fighter II - The Anniversary Edition (Europe)">
 		<category>Games</category>
@@ -1055,16 +1045,6 @@
 		<description>Need for Speed - Most Wanted (USA, Canada) (v2.00)</description>
 		<rom name="Need for Speed - Most Wanted (USA, Canada) (v2.00).iso" size="3702456320" crc="b9842fac" md5="566a6e7255142d4c909ae74529cd90bd" sha1="7a388a12f47ff4244d5a0d9b8fcbd20e6fd90772" />
 	</game>
-	<game name="Metal Slug Anthology (USA)">
-		<category>Games</category>
-		<description>Metal Slug Anthology (USA)</description>
-		<rom name="Metal Slug Anthology (USA).iso" size="1375633408" crc="efcefc0d" md5="7ec8577fd63606399fce4f656a270d38" sha1="b9fcbfb2fbcda293976fedf065c487293cd5ab94" />
-	</game>
-	<game name="Mega Man Anniversary Collection (USA)">
-		<category>Games</category>
-		<description>Mega Man Anniversary Collection (USA)</description>
-		<rom name="Mega Man Anniversary Collection (USA).iso" size="3785719808" crc="f4aa73c6" md5="0518ca9c0e3075168d78de12ad4a7d1c" sha1="b21ac19313cfd2e4978b6cb8b02ec52d21450897" />
-	</game>
 	<game name="Culdcept (USA)">
 		<category>Games</category>
 		<description>Culdcept (USA)</description>
@@ -1588,25 +1568,10 @@
 		<description>Test Drive Unlimited (USA)</description>
 		<rom name="Test Drive Unlimited (USA).iso" size="3999531008" crc="92004796" md5="dabc6cc76d54d689e11987e578f06107" sha1="31ba86e3f32573c2c180028d520442d6b478953d" />
 	</game>
-	<game name="Fatal Fury - Battle Archives Volume 2 (USA, Canada)">
-		<category>Games</category>
-		<description>Fatal Fury - Battle Archives Volume 2 (USA, Canada)</description>
-		<rom name="Fatal Fury - Battle Archives Volume 2 (USA, Canada).iso" size="2044887040" crc="2e51e938" md5="6bc9701132b54d919e7bef89f520b7b9" sha1="37d0cfdea442aa974b777e630eb7c69fe2724dfe" />
-	</game>
-	<game name="Samurai Shodown Anthology (USA, Canada)">
-		<category>Games</category>
-		<description>Samurai Shodown Anthology (USA, Canada)</description>
-		<rom name="Samurai Shodown Anthology (USA, Canada).iso" size="2969436160" crc="b18e8b00" md5="9586c46286f3269c15dccf84a31cead0" sha1="c60c91900bdcdea8fee5ede4e20315936cfaeb8e" />
-	</game>
 	<game name="Ben 10 - Protector of Earth (USA)">
 		<category>Games</category>
 		<description>Ben 10 - Protector of Earth (USA)</description>
 		<rom name="Ben 10 - Protector of Earth (USA).iso" size="3400499200" crc="872c6408" md5="ef10a0b21a33bb51808e7328536dfd08" sha1="d212e3cbe2cf234b98c4d0cb35e0edc555b83d6e" />
-	</game>
-	<game name="Sonic Mega Collection Plus (USA)">
-		<category>Games</category>
-		<description>Sonic Mega Collection Plus (USA)</description>
-		<rom name="Sonic Mega Collection Plus (USA).iso" size="4698767360" crc="cd10bf95" md5="54ba00d69f9d345db6c762745eac4bd7" sha1="1d7741b1ada9f0fcf7082b06bbaf32a93cd3b3a1" />
 	</game>
 	<game name="NASCAR Thunder 2003 (USA)">
 		<category>Games</category>
@@ -1984,11 +1949,6 @@
 		<category>Games</category>
 		<description>Tony Hawk's Pro Skater 4 (USA) (v2.01)</description>
 		<rom name="Tony Hawk's Pro Skater 4 (USA) (v2.01).iso" size="3393847296" crc="f61a55dd" md5="7d7cf01d5b3da4e8ec716883563b050b" sha1="17ac4aa24101f93a7360251c882edf04493500b4" />
-	</game>
-	<game name="Vampire - Darkstalkers Collection (Japan)">
-		<category>Games</category>
-		<description>Vampire - Darkstalkers Collection (Japan)</description>
-		<rom name="Vampire - Darkstalkers Collection (Japan).iso" size="4698767360" crc="68aa7829" md5="1cb15788f5202474f1e7967a4984d412" sha1="7dc177d48e779596c63a1d7ff1ede9fc1824a2af" />
 	</game>
 	<game name="Harry Potter and the Sorcerer's Stone (USA) (En,Es)">
 		<category>Games</category>
