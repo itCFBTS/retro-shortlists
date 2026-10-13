@@ -8,7 +8,7 @@ Each console's full library, narrowed to the games worth your time: picked by a 
 
 | Console | Games | List |
 |---|---:|---|
-| PlayStation 2 | 380 | [ps2/](ps2/) |
+| PlayStation 2 | 500 | [ps2/](ps2/) |
 
 ## How a game makes the list
 
@@ -16,7 +16,8 @@ Each list starts from the console's playable library, minus a few deliberate, op
 
 1. **Critics** rated it 80 or higher.
 2. **Retro players** still play it: it's among the most popular games on Vimm's Lair or RetroAchievements.
-3. **Players** love it: GameFAQs and Metacritic user ratings, merged and weighted by vote count, give a lower bound of 3.9 / 5 or more.
+3. **Players** love it: GameFAQs and Metacritic user ratings, merged and weighted by vote count, give a high lower bound from enough ratings (for PS2: 3.65 / 5 from 25+ ratings).
+4. **Retro players** love it and someone backs them up: a high vote-adjusted Vimm's Lair rating, plus solid player scores or a good critic score.
 
 The lower bound is the score we're ~97.5% confident a game is at least at, so a game rated 4.5 by thousands outranks one rated 4.5 by a handful.
 
