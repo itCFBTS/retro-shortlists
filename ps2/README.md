@@ -30,7 +30,7 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 
 **★ Critic score from GameRankings only:** WRC II Extreme (82%, 18 reviews) and World Championship Snooker 2004 (80%, 11 reviews) were released in Europe but not the US, so Metacritic never scored them; their critic scores come from GameRankings, mostly from UK outlets.
 
-Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) for ROM managers.
+Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) for ROM managers: one release per game, chosen by [Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R)'s PropeR 1G1R rules from Redump.
 
 | Title | Metascore | Votes | User score | Lower bound | RA | Vimm |
 |---|---:|---:|---:|---:|:-:|:-:|
