@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists</name>
-		<description>PS2 Shortlist (506 games, 517 disc images): one release per game from Fresh1G1R (PropeR preset, Retool) on Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (516 games, 527 disc images): one release per game from Fresh1G1R (PropeR preset, Retool) on Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<date>2026-10-13 09-20-19</date>
 		<author>Retro Shortlists (from Fresh1G1R / redump.org)</author>
@@ -160,6 +160,11 @@
 		<description>Baldur's Gate - Dark Alliance II (USA)</description>
 		<rom name="Baldur's Gate - Dark Alliance II (USA).iso" size="2919825408" crc="b05239da" md5="65485379f996e33085eb1389acd7dd11" sha1="4369a330989ffd2f15069375a3a72f2b1b51cb4f" />
 	</game>
+	<game name="Batman - Vengeance (USA) (En,Fr) (Rev 1)">
+		<category>Games</category>
+		<description>Batman - Vengeance (USA) (En,Fr) (Rev 1)</description>
+		<rom name="Batman - Vengeance (USA) (En,Fr) (Rev 1).iso" size="738525184" crc="7caeae5f" md5="7e8ccce90357d7eea68791b721b99ea3" sha1="4bd799073b8384a6bd0e1c63cbb6a8c9f2ec0548" />
+	</game>
 	<game name="Battle Gear 3 (Japan, Asia)">
 		<category>Games</category>
 		<description>Battle Gear 3 (Japan, Asia)</description>
@@ -270,6 +275,11 @@
 		<description>Chulip (USA)</description>
 		<rom name="Chulip (USA).bin" size="712982928" crc="f49bd531" md5="16a1282aeaaeb1f16466f87bca0563e0" sha1="b23e2aef3535198d168b13c2688e5f48fca6e721" />
 		<rom name="Chulip (USA).cue" size="78" crc="44d3f5ed" md5="40a87d7329a1a07d99420b67c4ed061a" sha1="7ebd1fd167bf0d819ba22078f2aa0933ea09ede3" />
+	</game>
+	<game name="Clock Tower 3 (USA)">
+		<category>Games</category>
+		<description>Clock Tower 3 (USA)</description>
+		<rom name="Clock Tower 3 (USA).iso" size="4288905216" crc="a723d241" md5="2991e13aaa49cf9bec6e8c80ecac882b" sha1="249298f19069af883032655a61ebec08486879bb" />
 	</game>
 	<game name="Colin McRae Rally 04 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -571,6 +581,11 @@
 		<description>Eureka Seven Vol. 2 - The New Vision (USA)</description>
 		<rom name="Eureka Seven Vol. 2 - The New Vision (USA).iso" size="2053210112" crc="5570e035" md5="21c5f8f1f46beec1b8f27c4f168b69e7" sha1="0fa45f2544a38b06bff7ecfa9f8e4891644a2763" />
 	</game>
+	<game name="Evil Dead - Regeneration (USA)">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA)</description>
+		<rom name="Evil Dead - Regeneration (USA).iso" size="2448949248" crc="bdd533d0" md5="dc1bbc28cd893073343722ad476331fb" sha1="242228631c07955939187bc32271f06e7eb90bdd" />
+	</game>
 	<game name="Extermination (USA)">
 		<category>Games</category>
 		<description>Extermination (USA)</description>
@@ -809,6 +824,11 @@
 		<category>Games</category>
 		<description>Gun (USA)</description>
 		<rom name="Gun (USA).iso" size="3025993728" crc="75e9ab86" md5="b90372101250e3900735c2c5caf38ea9" sha1="57cce10f6528900e9111a21e3cb8fcb80f061916" />
+	</game>
+	<game name="Gungrave (USA)">
+		<category>Games</category>
+		<description>Gungrave (USA)</description>
+		<rom name="Gungrave (USA).iso" size="1411514368" crc="fe870587" md5="2420d60fa41ec891ec70580efa0ddd2f" sha1="574077f40cc04a16c207e367e0c836e156f5bfaa" />
 	</game>
 	<game name="Half-Life (USA)">
 		<category>Games</category>
@@ -1073,6 +1093,16 @@
 		<description>Legaia 2 - Duel Saga (USA)</description>
 		<rom name="Legaia 2 - Duel Saga (USA).iso" size="2372698112" crc="c113bfb8" md5="877d74ee733e757d9fddf3d976bb181e" sha1="25b353b1dec9c72c2f3459d6a205799f50e96161" />
 	</game>
+	<game name="Legend of Spyro, The - A New Beginning (USA)">
+		<category>Games</category>
+		<description>Legend of Spyro, The - A New Beginning (USA)</description>
+		<rom name="Legend of Spyro, The - A New Beginning (USA).iso" size="3778969600" crc="a4550e2c" md5="1f7d7a4b71ab061ca2e1041d212aee5f" sha1="575b3f3f403b3b8223edf372802793e44a0eb509" />
+	</game>
+	<game name="Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl).iso" size="2674982912" crc="65d306a1" md5="b1f0b9d07b155f7e551869bb7f04f5b5" sha1="12e8b286b876f5c2b017d4adf54ee0c9e8782a24" />
+	</game>
 	<game name="Lord of the Rings, The - The Return of the King (USA)">
 		<category>Games</category>
 		<description>Lord of the Rings, The - The Return of the King (USA)</description>
@@ -1248,6 +1278,12 @@
 		<description>Midnight Club II (USA)</description>
 		<rom name="Midnight Club II (USA).iso" size="3243900928" crc="14af49a7" md5="dacaf3d64668f5373cb557b9bfc7914d" sha1="a7a7c9b01240f0cba66990a70bde5f88fb075b4b" />
 	</game>
+	<game name="Mister Mosquito (USA)">
+		<category>Games</category>
+		<description>Mister Mosquito (USA)</description>
+		<rom name="Mister Mosquito (USA).bin" size="672034608" crc="4dce3371" md5="44a63cecb00d051c2a30b50aa314010a" sha1="97d32f29506787645e5e521319fe77406b0a6476" />
+		<rom name="Mister Mosquito (USA).cue" size="87" crc="94d86b1f" md5="9e5f36654c2dcacb9f556f3cb1d8d482" sha1="eea3b9867467924396155633ef6ee7c2270ac4b2" />
+	</game>
 	<game name="Mobile Suit Gundam - Climax U.C. (Japan)">
 		<category>Games</category>
 		<description>Mobile Suit Gundam - Climax U.C. (Japan)</description>
@@ -1399,6 +1435,16 @@
 		<category>Games</category>
 		<description>Need for Speed - Most Wanted - Black Edition (USA)</description>
 		<rom name="Need for Speed - Most Wanted - Black Edition (USA).iso" size="3702915072" crc="7845df59" md5="1d3d8e8747ece0a8b647b5185065e1af" sha1="12752c0845a2832119c16ff4c67ee260c4ff7ce9" />
+	</game>
+	<game name="Need for Speed - ProStreet (USA, Canada)">
+		<category>Games</category>
+		<description>Need for Speed - ProStreet (USA, Canada)</description>
+		<rom name="Need for Speed - ProStreet (USA, Canada).iso" size="3705667584" crc="b7abec37" md5="65f5d0f43e87a0f23001ec242cf577f7" sha1="714792cbcca0e03d924d0bb7ab7840fca70aa50d" />
+	</game>
+	<game name="Need for Speed - Undercover (USA, Canada) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Need for Speed - Undercover (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Need for Speed - Undercover (USA, Canada) (En,Fr,Es).iso" size="3698786304" crc="ec29fd1f" md5="dc064cb4d0767a10e8d1a1ef36ef602a" sha1="a70fd599b8fb4692f05b75422c2a2ad4f0383b4b" />
 	</game>
 	<game name="Need for Speed - Underground (USA, Canada)">
 		<category>Games</category>
@@ -1837,6 +1883,11 @@
 		<category>Games</category>
 		<description>Scarface - The World Is Yours (USA)</description>
 		<rom name="Scarface - The World Is Yours (USA).iso" size="3791028224" crc="efb00924" md5="aad9ed361e5697bf6960b9ac895e0565" sha1="36725583a2d8335cbdbe8679ffe2107ec8167bba" />
+	</game>
+	<game name="Scooby-Doo! Unmasked (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Scooby-Doo! Unmasked (USA) (En,Fr)</description>
+		<rom name="Scooby-Doo! Unmasked (USA) (En,Fr).iso" size="1250000896" crc="94958207" md5="29757f7c9711825b77671a085a03c93a" sha1="defbe0459dc21b2a6277be41fb828491e1612484" />
 	</game>
 	<game name="Secret Weapons over Normandy (USA)">
 		<category>Games</category>

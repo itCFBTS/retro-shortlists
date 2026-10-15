@@ -1,4 +1,4 @@
-# PS2 Shortlist — 506 games
+# PS2 Shortlist — 516 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,198 are playable without reading Japanese; a few deliberate cuts (below) narrow that pool, and the games here are picked from what's left.
 
@@ -8,6 +8,7 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - It's in Vimm's Lair's top 100 / top-rated or RetroAchievements' 100 most-played PS2 games
 - PS2 players rate it highly: its combined GameFAQs + Metacritic user **lower bound** is 3.65/5 or more, from at least 25 ratings
 - Retro players love it and someone backs them up: a vote-adjusted Vimm's Lair rating (lower bound) of 8.36/10 or more, plus either a PS2 player lower bound of 3.5+ or a critic score of 75+
+- Retro players love it and play it: a Vimm's Lair lower bound of 8.32/10 or more, and at least 1,000 RetroAchievements players
 
 **What the columns mean**
 
@@ -472,6 +473,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Crash Tag Team Racing |  | 751 | 3.64 | 3.58 | ✓ |  |
 | WRC II Extreme ★ |  | 52 | 3.79 | 3.58 |  |  |
 | The SpongeBob SquarePants Movie | 75 | 201 | 3.69 | 3.58 | ✓ |  |
+| Need for Speed: ProStreet |  | 479 | 3.65 | 3.58 |  |  |
 | Ghosthunter | 69 | 194 | 3.68 | 3.57 |  |  |
 | Disney/Pixar Ratatouille | 65 | 135 | 3.70 | 3.57 |  |  |
 | Marc Ecko's Getting Up: Contents Under Pressure |  | 135 | 3.68 | 3.55 |  |  |
@@ -492,7 +494,9 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Dragon Ball Z: Budokai | 67 | 1,162 | 3.55 | 3.50 | ✓ |  |
 | Dynasty Warriors 2 | 75 | 465 | 3.57 | 3.50 |  |  |
 | Aggressive Inline | 85 | 111 | 3.64 | 3.49 |  |  |
+| Clock Tower 3 | 69 | 536 | 3.55 | 3.49 |  |  |
 | Spider-Man | 76 | 602 | 3.55 | 3.49 |  | ✓ |
+| Evil Dead: Regeneration | 68 | 167 | 3.60 | 3.48 |  |  |
 | Sonic Heroes | 64 | 1,163 | 3.52 | 3.48 | ✓ |  |
 | ATV Offroad Fury 2 | 82 | 317 | 3.55 | 3.46 |  |  |
 | Fight Night Round 2 | 88 | 106 | 3.61 | 3.46 |  |  |
@@ -509,8 +513,11 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Crash Bandicoot: The Wrath of Cortex | 66 | 1,335 | 3.48 | 3.44 | ✓ | ✓ |
 | Colin McRae Rally 2005 | 80 | 69 | 3.61 | 3.43 |  |  |
 | Colin McRae Rally 04 | 83 | 54 | 3.61 | 3.41 |  |  |
+| Need for Speed: Undercover | 65 | 300 | 3.49 | 3.40 |  |  |
 | Rygar: The Legendary Adventure | 83 | 312 | 3.48 | 3.39 |  |  |
 | Red Faction II | 84 | 369 | 3.47 | 3.39 |  |  |
+| The Legend of Spyro: Dawn of the Dragon | 60 | 218 | 3.49 | 3.38 |  |  |
+| Gungrave | 65 | 261 | 3.47 | 3.38 |  |  |
 | ATV Offroad Fury | 82 | 244 | 3.47 | 3.37 |  |  |
 | XG3: Extreme G Racing | 81 | 103 | 3.51 | 3.36 |  |  |
 | MX Unleashed | 80 | 87 | 3.51 | 3.35 |  |  |
@@ -520,14 +527,17 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Dave Mirra Freestyle BMX 2 | 81 | 105 | 3.49 | 3.34 |  |  |
 | Fight Night Round 3 | 84 | 190 | 3.45 | 3.33 |  |  |
 | Frequency | 83 | 155 | 3.46 | 3.33 |  |  |
+| The Legend of Spyro: A New Beginning | 64 | 455 | 3.40 | 3.33 |  |  |
 | NASCAR Heat 2002 | 81 | 44 | 3.56 | 3.33 |  |  |
 | Broken Sword: The Sleeping Dragon | 82 | 87 | 3.48 | 3.32 |  |  |
 | Star Wars: Jedi Starfighter | 81 | 210 | 3.42 | 3.31 |  |  |
 | Tiger Woods PGA Tour 2002 | 80 | 25 | 3.59 | 3.30 |  |  |
 | Fight Night 2004 | 85 | 77 | 3.47 | 3.29 |  |  |
 | NASCAR Thunder 2002 | 85 | 58 | 3.48 | 3.28 |  |  |
+| Scooby-Doo! Unmasked | 61 | 101 | 3.42 | 3.27 |  |  |
 | MDK2: Armageddon | 80 | 91 | 3.42 | 3.26 |  |  |
 | Kelly Slater's Pro Surfer | 77 | 43 | 3.49 | 3.26 |  |  |
+| Mister Mosquito |  | 163 | 3.38 | 3.26 |  |  |
 | Harry Potter and the Sorcerer's Stone | 56 | 259 | 3.33 | 3.24 | ✓ |  |
 | Tiger Woods PGA Tour 06 | 83 | 26 | 3.52 | 3.23 |  |  |
 | Mashed: Drive To Survive | 80 | 19 | 3.54 | 3.21 |  |  |
@@ -535,6 +545,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Spider-Man 3 | 50 | 379 | 3.29 | 3.21 |  | ✓ |
 | Crash of the Titans | 70 | 500 | 3.22 | 3.15 | ✓ | ✓ |
 | Shadow the Hedgehog | 45 | 863 | 3.20 | 3.15 | ✓ |  |
+| Batman: Vengeance | 68 | 127 | 3.27 | 3.14 |  |  |
 | World Championship Snooker 2004 ★ |  | 12 | 3.47 | 3.08 |  |  |
 | World of Outlaws: Sprint Cars 2002 | 80 | 26 | 3.30 | 3.01 |  |  |
 | Wakeboarding Unleashed Featuring Shaun Murray | 83 | 21 | 3.32 | 3.01 |  |  |
