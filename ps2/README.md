@@ -1,4 +1,4 @@
-# PS2 Shortlist — 500 games
+# PS2 Shortlist — 506 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,198 are playable without reading Japanese; a few deliberate cuts (below) narrow that pool, and the games here are picked from what's left.
 
@@ -25,8 +25,8 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **Games that need extra hardware (183):** rhythm and music games built around a guitar, drums, a dance mat, a microphone or a camera, plus two Densha de Go! train simulators built around a train controller. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included. EyeToy: Play is left out too, since it needs the EyeToy camera.
 - **Superseded editions (7):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4, Melty Blood: Actress Again rather than Act Cadenza.
 - **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
-- **Better on another console or PC (14):** a clearly better version exists elsewhere, even when emulated, so they're left to that platform. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: the four Splinter Cell games, Max Payne, Max Payne 2, Psychonauts and Godzilla: Save the Earth. PC: Deus Ex.
-- **Retro compilations and straight Neo Geo ports (62):** collections of older games (Namco Museum, the Mega Man and Sonic collections, Metal Slug Anthology, Sega Genesis Collection and others) and Neo Geo games released unchanged on PS2 (Garou: Mark of the Wolves, Metal Slug 3, The King of Fighters 2000 to 2003 and others). Under emulation the originals play just as well, so they belong on those systems' lists. Collections with something new (Street Fighter Alpha Anthology, Hyper Street Fighter II) and Pinball Hall of Fame stay. Ports from the PSP and other handhelds are kept and judged on their PS2 ratings.
+- **Better on another console or PC (12):** a clearly better version exists elsewhere, even when emulated, so they're left to that platform. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: Splinter Cell: Chaos Theory and Double Agent, Max Payne, Max Payne 2, Psychonauts and Godzilla: Save the Earth. PC: Deus Ex. The first two Splinter Cell games stay, because their PS2 versions have missions the Xbox versions don't.
+- **Retro compilations and straight arcade or Neo Geo ports (55):** collections of older games (Namco Museum, the Mega Man and Sonic collections, Metal Slug Anthology, Sega Genesis Collection, the Oretachi Game Center discs and others), Neo Geo games released unchanged on PS2 (Garou: Mark of the Wolves, Metal Slug 4 and 5, The King of Fighters 2001) and arcade games whose original boards run natively on MiSTer (Hyper Street Fighter II, Dragon Blaze). The originals play just as well under emulation, so they belong on those systems' lists. Ports whose PS2 version adds something you can't get elsewhere stay, e.g. DoDonPachi Dai-Ou-Jou (Death Label mode), Espgaluda (arrange mode), Vampire: Darkstalkers Collection, Metal Slug 3, The King of Fighters 2000, 2002 and 2003, Rockman: Power Battle Fighters, Street Fighter Alpha Anthology and Pinball Hall of Fame. Ports from the PSP and other handhelds are kept and judged on their PS2 ratings.
 
 **★ Critic score from GameRankings only:** WRC II Extreme (82%, 18 reviews) and World Championship Snooker 2004 (80%, 11 reviews) were released in Europe but not the US, so Metacritic never scored them; their critic scores come from GameRankings, mostly from UK outlets.
 
@@ -35,7 +35,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Title | Metascore | Votes | User score | Lower bound | RA | Vimm |
 |---|---:|---:|---:|---:|:-:|:-:|
 | Persona 4 | 90 | 6,756 | 4.54 | 4.52 |  | ✓ |
-| Metal Gear Solid 3: Snake Eater | 94 | 6,745 | 4.44 | 4.42 | ✓ | ✓ |
+| Metal Gear Solid 3: Snake Eater (Subsistence) | 94 | 6,745 | 4.44 | 4.42 | ✓ | ✓ |
 | Shadow of the Colossus | 91 | 5,111 | 4.40 | 4.38 | ✓ | ✓ |
 | Persona 3 FES |  | 6,718 | 4.38 | 4.36 | ✓ | ✓ |
 | Kingdom Hearts II | 87 | 10,216 | 4.37 | 4.35 |  | ✓ |
@@ -99,7 +99,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Burnout Revenge | 90 | 893 | 4.14 | 4.09 | ✓ | ✓ |
 | Warriors Orochi 2 | 52 | 528 | 4.15 | 4.08 |  |  |
 | TimeSplitters 2 | 90 | 793 | 4.14 | 4.08 |  |  |
-| Street Fighter III: 3rd Strike – Fight for the Future |  | 175 | 4.19 | 4.08 |  |  |
+| Street Fighter III: 3rd Strike (Street Fighter Anniversary Collection) |  | 175 | 4.19 | 4.08 |  |  |
 | Shin Megami Tensei: Digital Devil Saga 2 | 78 | 1,260 | 4.12 | 4.08 |  |  |
 | WWE SmackDown! Here Comes The Pain | 85 | 1,098 | 4.12 | 4.08 | ✓ | ✓ |
 | Street Fighter Alpha Anthology |  | 467 | 4.15 | 4.07 |  |  |
@@ -116,11 +116,12 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Dragon Ball Z: Budokai Tenkaichi 2 | 73 | 1,333 | 4.09 | 4.05 |  |  |
 | A.C.E.: Another Century's Episode 3: The Final |  | 87 | 4.21 | 4.04 |  |  |
 | Valkyrie Profile 2: Silmeria | 84 | 1,623 | 4.08 | 4.04 |  |  |
+| The King of Fighters 2002 |  | 183 | 4.16 | 4.04 |  |  |
 | Downhill Domination | 79 | 330 | 4.13 | 4.04 |  |  |
 | Onimusha 3: Demon Siege | 85 | 1,115 | 4.09 | 4.04 |  | ✓ |
 | Hot Shots Golf Fore! | 80 | 191 | 4.15 | 4.03 |  |  |
 | Samurai Warriors 2: Xtreme Legends (Expansion) | 58 | 234 | 4.13 | 4.03 |  |  |
-| Samurai Spirits: Tenkaichi Kenkakuden |  | 101 | 4.18 | 4.03 |  |  |
+| Samurai Shodown VI (Samurai Shodown Anthology) |  | 101 | 4.18 | 4.03 |  |  |
 | Mana Khemia 2: Fall of Alchemy | 70 | 566 | 4.09 | 4.03 |  |  |
 | Ghost Rider | 54 | 451 | 4.10 | 4.02 |  |  |
 | Soulcalibur III | 86 | 2,314 | 4.05 | 4.02 |  | ✓ |
@@ -129,6 +130,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Melty Blood: Actress Again |  | 129 | 4.15 | 4.01 |  |  |
 | Ultraman Fighting Evolution Rebirth |  | 47 | 4.23 | 4.01 |  |  |
 | Rogue Galaxy | 83 | 1,754 | 4.04 | 4.01 |  | ✓ |
+| Vampire: Darkstalkers Collection |  | 64 | 4.20 | 4.01 |  |  |
 | Samurai Warriors 2 | 58 | 455 | 4.07 | 4.00 |  |  |
 | Shadow Hearts: Covenant | 85 | 1,470 | 4.04 | 4.00 |  |  |
 | Ar tonelico II: Melody of Metafalica | 71 | 785 | 4.05 | 4.00 |  |  |
@@ -161,7 +163,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | MS Saga: A New Dawn | 65 | 272 | 4.06 | 3.96 |  |  |
 | Nights into Dreams |  | 42 | 4.19 | 3.96 |  |  |
 | Front Mission 4 | 75 | 593 | 4.03 | 3.96 |  |  |
-| Hyper Street Fighter II: The Anniversary Edition |  | 154 | 4.08 | 3.96 |  |  |
 | SSX Tricky | 92 | 514 | 4.03 | 3.96 | ✓ |  |
 | Guilty Gear XX: Accent Core | 77 | 191 | 4.07 | 3.96 |  |  |
 | Ratchet: Deadlocked | 81 | 1,494 | 3.99 | 3.95 | ✓ | ✓ |
@@ -179,6 +180,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | ATV Offroad Fury 4 | 77 | 244 | 4.04 | 3.94 |  |  |
 | Tomb Raider: Anniversary |  | 493 | 4.01 | 3.94 |  |  |
 | Wild Arms 5 | 71 | 676 | 4.00 | 3.94 |  |  |
+| The King of Fighters 2000 |  | 102 | 4.09 | 3.93 |  |  |
 | Jak II | 87 | 2,311 | 3.97 | 3.93 |  | ✓ |
 | Growlanser Generations | 81 | 281 | 4.02 | 3.93 |  |  |
 | Onimusha: Warlords | 86 | 1,152 | 3.98 | 3.93 | ✓ | ✓ |
@@ -252,6 +254,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Burnout Dominator | 76 | 454 | 3.91 | 3.84 |  |  |
 | .hack//Outbreak Part 3 |  | 756 | 3.89 | 3.84 |  |  |
 | Champions: Return to Arms | 77 | 484 | 3.91 | 3.84 |  |  |
+| Metal Slug 3 |  | 111 | 3.98 | 3.84 |  |  |
 | Wangan Midnight |  | 28 | 4.11 | 3.84 |  |  |
 | WWE SmackDown vs. Raw 2011 | 80 | 305 | 3.92 | 3.84 |  |  |
 | Naruto: Ultimate Ninja 2 | 73 | 740 | 3.89 | 3.83 |  |  |
@@ -311,10 +314,11 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Urban Chaos: Riot Response | 73 | 194 | 3.89 | 3.78 |  |  |
 | Graffiti Kingdom | 71 | 82 | 3.95 | 3.78 |  |  |
 | Zone of the Enders | 78 | 994 | 3.83 | 3.78 |  |  |
-| Space Channel 5: Part 2 | 79 | 58 | 3.98 | 3.78 |  |  |
+| Space Channel 5: Part 2 (Space Channel 5 Special Edition) | 79 | 58 | 3.98 | 3.78 |  |  |
 | Way of the Samurai 2 | 59 | 263 | 3.87 | 3.78 |  |  |
 | Tomb Raider: Legend |  | 684 | 3.84 | 3.78 |  |  |
 | Shadow Hearts: From The New World | 76 | 842 | 3.83 | 3.78 |  |  |
+| Tom Clancy's Splinter Cell | 89 | 566 | 3.84 | 3.78 |  |  |
 | Armored Core: Last Raven | 59 | 220 | 3.88 | 3.77 |  |  |
 | Ultimate Spider-Man | 74 | 628 | 3.84 | 3.77 | ✓ | ✓ |
 | Grand Theft Auto: Liberty City Stories | 78 | 1,516 | 3.81 | 3.77 | ✓ | ✓ |
@@ -324,6 +328,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Peter Jackson's King Kong: The Official Game of the Movie | 82 | 424 | 3.85 | 3.77 |  |  |
 | X-Men Legends | 79 | 583 | 3.83 | 3.77 |  |  |
 | Shining Force EXA | 64 | 311 | 3.85 | 3.77 |  |  |
+| The King of Fighters 2003 |  | 137 | 3.90 | 3.77 |  |  |
 | Yu-Gi-Oh! GX: The Beginning of Destiny |  | 309 | 3.85 | 3.77 |  |  |
 | Medal of Honor: Frontline | 88 | 898 | 3.82 | 3.77 |  |  |
 | Eureka Seven vol. 2: The New Vision |  | 50 | 3.98 | 3.76 |  |  |
@@ -372,6 +377,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Kidou Senshi Gundam SEED: Rengou vs. Z.A.F.T. |  | 48 | 3.94 | 3.73 |  |  |
 | Tenchu: Wrath of Heaven | 79 | 595 | 3.79 | 3.72 |  |  |
 | WRC: Rally Evolved | 80 | 59 | 3.92 | 3.72 |  |  |
+| Tom Clancy's Splinter Cell: Pandora Tomorrow | 87 | 346 | 3.81 | 3.72 |  |  |
 | Mobile Suit Gundam Z: AEUG vs. Titans |  | 28 | 4.00 | 3.72 |  |  |
 | Blood Will Tell: Tezuka Osamu's Dororo | 67 | 189 | 3.83 | 3.72 |  |  |
 | Amplitude | 86 | 191 | 3.83 | 3.72 |  |  |
@@ -419,7 +425,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | TOCA Race Driver 3 | 82 | 116 | 3.81 | 3.67 |  |  |
 | Nobunaga's Ambition: Rise to Power |  | 100 | 3.82 | 3.67 |  |  |
 | Gran Turismo Concept: 2001 Tokyo |  | 35 | 3.92 | 3.67 |  |  |
-| Dragon Blaze |  | 107 | 3.82 | 3.67 |  |  |
 | Sonic Riders: Zero Gravity | 56 | 346 | 3.75 | 3.67 |  |  |
 | Resident Evil Outbreak File #2 | 58 | 777 | 3.72 | 3.66 |  |  |
 | MotoGP 3 | 80 | 52 | 3.87 | 3.66 |  |  |
@@ -437,6 +442,7 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Tales of Legendia | 72 | 1,154 | 3.70 | 3.66 |  |  |
 | Dynasty Tactics 2 | 78 | 142 | 3.78 | 3.65 |  |  |
 | Teenage Mutant Ninja Turtles: Smash-Up |  | 110 | 3.80 | 3.65 |  |  |
+| Sega Ages 2500 Series Vol. 32: Phantasy Star Complete Collection |  | 31 | 3.92 | 3.65 |  |  |
 | Maximo vs. Army of Zin | 83 | 231 | 3.75 | 3.65 |  |  |
 | Secret Weapons Over Normandy | 81 | 62 | 3.84 | 3.65 |  |  |
 | ObsCure | 65 | 267 | 3.74 | 3.65 |  |  |

@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists</name>
-		<description>PS2 Shortlist (500 games, 510 disc images): one release per game from Fresh1G1R (PropeR preset, Retool) on Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (506 games, 517 disc images): one release per game from Fresh1G1R (PropeR preset, Retool) on Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<date>2026-10-13 09-20-19</date>
 		<author>Retro Shortlists (from Fresh1G1R / redump.org)</author>
@@ -468,12 +468,6 @@
 		<category>Games</category>
 		<description>Dragon Ball Z - Infinite World (USA)</description>
 		<rom name="Dragon Ball Z - Infinite World (USA).iso" size="2461106176" crc="9ab526dd" md5="638c7ad32d863b8935d5facd65ffdbf5" sha1="cfae221769f79a14bd21890615d0a6464f596c1a" />
-	</game>
-	<game name="Dragon Blaze (Europe)">
-		<category>Games</category>
-		<description>Dragon Blaze (Europe)</description>
-		<rom name="Dragon Blaze (Europe).bin" size="180967584" crc="e12fe2f5" md5="51550d9f64bf07fca8521a86fb6b6ae2" sha1="9701e238b850515ca5fca548539c7cd3574bda38" />
-		<rom name="Dragon Blaze (Europe).cue" size="87" crc="ece1a09c" md5="30569a8f32c275d771bd5e03ee02a1da" sha1="366f1d158e3d984cd98918409106814dafc17666" />
 	</game>
 	<game name="Dragon Quest - Shounen Yangus to Fushigi no Dungeon (Japan, Asia)">
 		<category>Games</category>
@@ -969,10 +963,25 @@
 		<description>King of Fighters '98, The - Ultimate Match (USA)</description>
 		<rom name="King of Fighters '98, The - Ultimate Match (USA).iso" size="3300196352" crc="b22aec89" md5="7cca765e1685d82213a5ed09caec783e" sha1="4185134c89d56a8eacbe28861c71227033149530" />
 	</game>
+	<game name="King of Fighters 2000, The (USA)">
+		<category>Games</category>
+		<description>King of Fighters 2000, The (USA)</description>
+		<rom name="King of Fighters 2000, The (USA).iso" size="1240137728" crc="d2b483aa" md5="b3ba1f68818c9153a0d2e6c770408fc1" sha1="5c73108a87e029c4db64e71a9ffe8626b28e3bc1" />
+	</game>
+	<game name="King of Fighters 2002, The - Challenge to Ultimate Battle (USA)">
+		<category>Games</category>
+		<description>King of Fighters 2002, The - Challenge to Ultimate Battle (USA)</description>
+		<rom name="King of Fighters 2002, The - Challenge to Ultimate Battle (USA).iso" size="3559030784" crc="8a00856a" md5="c082bf835a75de362e741edfc396d5fb" sha1="015ddb6f682ed92e84728326e990c69b98cb733d" />
+	</game>
 	<game name="King of Fighters 2002, The - Unlimited Match - Tougeki Ver. (Japan)">
 		<category>Games</category>
 		<description>King of Fighters 2002, The - Unlimited Match - Tougeki Ver. (Japan)</description>
 		<rom name="King of Fighters 2002, The - Unlimited Match - Tougeki Ver. (Japan).iso" size="4209311744" crc="8ffe69bc" md5="251e5ff99d2c23990ff83fdeb90d256b" sha1="86ca970504155065e11ace2faae931d66268b354" />
+	</game>
+	<game name="King of Fighters 2003, The (USA)">
+		<category>Games</category>
+		<description>King of Fighters 2003, The (USA)</description>
+		<rom name="King of Fighters 2003, The (USA).iso" size="1812627456" crc="e117866e" md5="086be3e02d8817f42e638f491a2a72a3" sha1="ba087d6b197fad99119f52b698045664182987a8" />
 	</game>
 	<game name="King of Fighters 2006, The (USA)">
 		<category>Games</category>
@@ -1211,6 +1220,11 @@
 		<category>Bonus Discs</category>
 		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)</description>
 		<rom name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition).iso" size="4644503552" crc="a2367886" md5="4d8faa55031311527787ca2274b7bc9e" sha1="18eac6e8fbd5af5eafe35e11e1aee9ba44e0c6e9" />
+	</game>
+	<game name="Metal Slug 3 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Metal Slug 3 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Metal Slug 3 (Europe) (En,Fr,De,Es,It).iso" size="1679687680" crc="ecc9d5f7" md5="9bb62496c49707e3e9f8f22992765ed0" sha1="1b82fe38569b0962fd1648f3d83436c374877384" />
 	</game>
 	<game name="Metropolismania (USA)">
 		<category>Games</category>
@@ -1829,6 +1843,12 @@
 		<description>Secret Weapons over Normandy (USA)</description>
 		<rom name="Secret Weapons over Normandy (USA).iso" size="3728146432" crc="fbb7f139" md5="13e997af6acc434b8d240ef5dc72b768" sha1="cc14c139eb330ee0036b0bebcd03ea36dc35e5e4" />
 	</game>
+	<game name="Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan) (En,Ja)</description>
+		<rom name="Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan) (En,Ja).bin" size="669762576" crc="0ef884be" md5="c1bf116419fa446b55988ddbf154de53" sha1="8a0a4ed65445f8856c68b847355b30fbefca2c53" />
+		<rom name="Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan) (En,Ja).cue" size="147" crc="09aa1704" md5="5a5a0d64903f066e64c10d242c746ee3" sha1="3c6fcf3674877a70245206e5ac7e260763e37cb3" />
+	</game>
 	<game name="Sengoku Basara 2 (Japan)">
 		<category>Games</category>
 		<description>Sengoku Basara 2 (Japan)</description>
@@ -2283,6 +2303,16 @@
 		<description>Tokyo Xtreme Racer 3 (USA, Canada)</description>
 		<rom name="Tokyo Xtreme Racer 3 (USA, Canada).iso" size="2865725440" crc="a0b96c06" md5="054c01f5ca1a069a339b8c127b848ff0" sha1="d8266cf638985736b11de5ce83623543b8eb6b66" />
 	</game>
+	<game name="Tom Clancy's Splinter Cell (USA)">
+		<category>Games</category>
+		<description>Tom Clancy's Splinter Cell (USA)</description>
+		<rom name="Tom Clancy's Splinter Cell (USA).iso" size="2835382272" crc="956f3a40" md5="b90430e623541f6a18f3094fb249cdff" sha1="a5f34f71a3453d6dba591463161e84514c98996b" />
+	</game>
+	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)">
+		<category>Games</category>
+		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)</description>
+		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA).iso" size="1813446656" crc="f831714f" md5="d78ab485e535c9538ded956754bedf83" sha1="ef8e19c31cb0265cac4e06147872a9814f9fcfa0" />
+	</game>
 	<game name="Tony Hawk's Pro Skater 3 (USA) (Rev 1)">
 		<category>Games</category>
 		<description>Tony Hawk's Pro Skater 3 (USA) (Rev 1)</description>
@@ -2372,6 +2402,11 @@
 		<category>Games</category>
 		<description>Valkyrie Profile 2 - Silmeria (USA)</description>
 		<rom name="Valkyrie Profile 2 - Silmeria (USA).iso" size="4661706752" crc="cabbe0aa" md5="0b7d4e1c924d43f2e84d48b5a7017679" sha1="406140de9924f5644efb52cad9f360b2c3533fed" />
+	</game>
+	<game name="Vampire - Darkstalkers Collection (Japan)">
+		<category>Games</category>
+		<description>Vampire - Darkstalkers Collection (Japan)</description>
+		<rom name="Vampire - Darkstalkers Collection (Japan).iso" size="4698767360" crc="68aa7829" md5="1cb15788f5202474f1e7967a4984d412" sha1="7dc177d48e779596c63a1d7ff1ede9fc1824a2af" />
 	</game>
 	<game name="Viewtiful Joe (USA)">
 		<category>Games</category>
