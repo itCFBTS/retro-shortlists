@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 - Retro Shortlists</name>
-		<description>PS2 Shortlist (516 games, 527 disc images): one release per game from Fresh1G1R (PropeR preset, Retool) on Redump 2026-06-15 03-41-38</description>
+		<description>PS2 Shortlist (496 games, 507 disc images): one release per game from Fresh1G1R (PropeR preset, Retool) on Redump 2026-06-15 03-41-38</description>
 		<version>2026-06-15 03-41-38</version>
 		<date>2026-10-13 09-20-19</date>
 		<author>Retro Shortlists (from Fresh1G1R / redump.org)</author>
@@ -617,20 +617,10 @@
 		<description>Fate-Unlimited Codes (Japan)</description>
 		<rom name="Fate-Unlimited Codes (Japan).iso" size="1383202816" crc="cc72f08b" md5="1d01b6200163ea4079e1600e78ca779f" sha1="29620882cb97e72cbc8ff1578ecce880e9718386" />
 	</game>
-	<game name="Fight Night 2004 (USA)">
-		<category>Games</category>
-		<description>Fight Night 2004 (USA)</description>
-		<rom name="Fight Night 2004 (USA).iso" size="3217195008" crc="5de6e877" md5="146c10fc9933d23028a7cd5b036758d1" sha1="602d61d1f546e7bacf145b3f234ceee667706c79" />
-	</game>
 	<game name="Fight Night Round 2 (USA)">
 		<category>Games</category>
 		<description>Fight Night Round 2 (USA)</description>
 		<rom name="Fight Night Round 2 (USA).iso" size="3930980352" crc="41b03d39" md5="3559a60366f87703dac2922df5578bcd" sha1="a0b206d7bfb54dd9c27c6e8713dd54b290bedff6" />
-	</game>
-	<game name="Fight Night Round 3 (USA)">
-		<category>Games</category>
-		<description>Fight Night Round 3 (USA)</description>
-		<rom name="Fight Night Round 3 (USA).iso" size="4536631296" crc="71591dbe" md5="e94f25ebeafa48ca05711c75a547841a" sha1="32bfb47a634ff5342ee31b2d6c3687eaf15b13d4" />
 	</game>
 	<game name="Final Fantasy X (USA, Canada)">
 		<category>Games</category>
@@ -1344,17 +1334,6 @@
 		<description>MotoGP 08 (USA)</description>
 		<rom name="MotoGP 08 (USA).iso" size="1631027200" crc="e32b0a75" md5="3222f6d0ff0d8f318bb6ab463578e7c6" sha1="25cdef00791ac502dfad8a21b1f39b64b58fc361" />
 	</game>
-	<game name="MotoGP 2 (USA)">
-		<category>Games</category>
-		<description>MotoGP 2 (USA)</description>
-		<rom name="MotoGP 2 (USA).bin" size="751993200" crc="449b24b3" md5="29da746ea5c262209324269196746be6" sha1="3bd634321e4fbdcfe4b1f9453b4f466afe47ac67" />
-		<rom name="MotoGP 2 (USA).cue" size="80" crc="150927fb" md5="40c45b99b3341a6cad1cf472f35d815e" sha1="baca4a8f86c200b37e66434f5d763d82a145892a" />
-	</game>
-	<game name="MotoGP 3 (USA)">
-		<category>Games</category>
-		<description>MotoGP 3 (USA)</description>
-		<rom name="MotoGP 3 (USA).iso" size="2952331264" crc="a4162c4c" md5="32f6616e0db69157613a7944d42215a8" sha1="67a7fea0bbf6f63cb8514dbcbded3d0b0bdcbc9b" />
-	</game>
 	<game name="MotoGP 4 (USA)">
 		<category>Games</category>
 		<description>MotoGP 4 (USA)</description>
@@ -1364,27 +1343,6 @@
 		<category>Games</category>
 		<description>NASCAR - Dirt to Daytona (USA)</description>
 		<rom name="NASCAR - Dirt to Daytona (USA).iso" size="2930802688" crc="ea66e26c" md5="0c1391c150ddf3dcb97d1b79026dbc3c" sha1="5c7600d15a9e569143ec8cd4b64d8dcdf55e65d9" />
-	</game>
-	<game name="NASCAR 2005 - Chase for the Cup (USA)">
-		<category>Games</category>
-		<description>NASCAR 2005 - Chase for the Cup (USA)</description>
-		<rom name="NASCAR 2005 - Chase for the Cup (USA).iso" size="3808952320" crc="0d69275c" md5="81f02335c2b4e69f816217ba30c62fb5" sha1="73ebc969b31c1f95974597fe9c3aef5b66ab74a6" />
-	</game>
-	<game name="NASCAR Heat 2002 (USA)">
-		<category>Games</category>
-		<description>NASCAR Heat 2002 (USA)</description>
-		<rom name="NASCAR Heat 2002 (USA).iso" size="1842708480" crc="b9ca943d" md5="e101ced3c4069065e13947ebe0864d8a" sha1="38162d450c37bbffb5e7d928ebe1ed30221fe0c3" />
-	</game>
-	<game name="NASCAR Thunder 2002 (USA)">
-		<category>Games</category>
-		<description>NASCAR Thunder 2002 (USA)</description>
-		<rom name="NASCAR Thunder 2002 (USA).bin" size="553684320" crc="2be4f40e" md5="954f5d07e71be0ab489466e35003936c" sha1="e12b6a517b13abed317f13b6ed01243fa90ce012" />
-		<rom name="NASCAR Thunder 2002 (USA).cue" size="91" crc="8b2bed6f" md5="d431a18be3318fe0e8fac54d7201313a" sha1="2028913cb9f76fb7b906875d8f7e9b13db17e036" />
-	</game>
-	<game name="NASCAR Thunder 2003 (USA)">
-		<category>Games</category>
-		<description>NASCAR Thunder 2003 (USA)</description>
-		<rom name="NASCAR Thunder 2003 (USA).iso" size="1566539776" crc="0a87469f" md5="aced857f4c20b22c651f9ce784e89827" sha1="5becaa3ddbe9f2601474ae67226548f79877ae0e" />
 	</game>
 	<game name="NASCAR Thunder 2004 (USA)">
 		<category>Games</category>
@@ -2282,26 +2240,6 @@
 		<description>Test Drive Unlimited (USA)</description>
 		<rom name="Test Drive Unlimited (USA).iso" size="3999531008" crc="92004796" md5="dabc6cc76d54d689e11987e578f06107" sha1="31ba86e3f32573c2c180028d520442d6b478953d" />
 	</game>
-	<game name="Tiger Woods PGA Tour 06 (USA)">
-		<category>Games</category>
-		<description>Tiger Woods PGA Tour 06 (USA)</description>
-		<rom name="Tiger Woods PGA Tour 06 (USA).iso" size="4698734592" crc="4c43418e" md5="e8e46e3ee4e6fe201c7aefa3b68169e2" sha1="91ff19ef0fedf4d9cdc8618406122672261528bc" />
-	</game>
-	<game name="Tiger Woods PGA Tour 2002 (USA)">
-		<category>Games</category>
-		<description>Tiger Woods PGA Tour 2002 (USA)</description>
-		<rom name="Tiger Woods PGA Tour 2002 (USA).iso" size="1109098496" crc="014d829e" md5="6af3f2f6f2a869bf0a804b25c7000d5d" sha1="112b3208e4390739bdfbf410eebd16aa53c0d24b" />
-	</game>
-	<game name="Tiger Woods PGA Tour 2003 (USA)">
-		<category>Games</category>
-		<description>Tiger Woods PGA Tour 2003 (USA)</description>
-		<rom name="Tiger Woods PGA Tour 2003 (USA).iso" size="2445901824" crc="1d8e30bc" md5="bd4944b3b8e8a66486657293d6fbe9e8" sha1="f572781eb900586f9bd546a2936e0e32d12e4895" />
-	</game>
-	<game name="Tiger Woods PGA Tour 2004 (USA)">
-		<category>Games</category>
-		<description>Tiger Woods PGA Tour 2004 (USA)</description>
-		<rom name="Tiger Woods PGA Tour 2004 (USA).iso" size="3568893952" crc="7c0ffd5d" md5="9cfe13fd82855cdcec76f8e34f48a340" sha1="f3ff3206e9359205d37235e6037271db412b21b4" />
-	</game>
 	<game name="Tiger Woods PGA Tour 2005 (USA)">
 		<category>Games</category>
 		<description>Tiger Woods PGA Tour 2005 (USA)</description>
@@ -2343,11 +2281,6 @@
 		<category>Games</category>
 		<description>Tokyo Xtreme Racer - Drift 2 (USA)</description>
 		<rom name="Tokyo Xtreme Racer - Drift 2 (USA).iso" size="4488560640" crc="864b99da" md5="a31315d97e5d6c36baae4b84b99d528e" sha1="7cec02c22b5c3923ede15661d9a370511e9b98c1" />
-	</game>
-	<game name="Tokyo Xtreme Racer - Zero (USA)">
-		<category>Games</category>
-		<description>Tokyo Xtreme Racer - Zero (USA)</description>
-		<rom name="Tokyo Xtreme Racer - Zero (USA).iso" size="1570373632" crc="86b2a352" md5="75b84cc555d40da2e367c72fd51aa381" sha1="080d10db8cabb80d53133175531ed9be665f3564" />
 	</game>
 	<game name="Tokyo Xtreme Racer 3 (USA, Canada)">
 		<category>Games</category>
@@ -2398,11 +2331,6 @@
 		<category>Games</category>
 		<description>Transformers (Europe) (En,Fr,De,Es,It) (Director's Cut)</description>
 		<rom name="Transformers (Europe) (En,Fr,De,Es,It) (Director's Cut).iso" size="4693196800" crc="423846b4" md5="7904792c3a637fbb021e9a33a4841bf9" sha1="25db93b697410f94ad4116f30111d79d9d32f2bf" />
-	</game>
-	<game name="Transformers (Japan) (En,Ja)">
-		<category>Games</category>
-		<description>Transformers (Japan) (En,Ja)</description>
-		<rom name="Transformers (Japan) (En,Ja).iso" size="2054324224" crc="3b3a85b7" md5="3dba4b1ac3b18e2a0f02c9476c53c604" sha1="0bc2b89aa955b3cca03dc1c6dabe1964d55075df" />
 	</game>
 	<game name="Twisted Metal - Black (USA)">
 		<category>Games</category>
@@ -2494,40 +2422,10 @@
 		<description>WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)</description>
 		<rom name="WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi).iso" size="4175036416" crc="e71cedb7" md5="40dc3d64a7c89a075b0e26bf0a1eb40e" sha1="710393806b842f88ab9391ab35b163e821513b46" />
 	</game>
-	<game name="WWE SmackDown vs. Raw 2007 (USA) (v2.01)">
-		<category>Games</category>
-		<description>WWE SmackDown vs. Raw 2007 (USA) (v2.01)</description>
-		<rom name="WWE SmackDown vs. Raw 2007 (USA) (v2.01).iso" size="4453662720" crc="4ded9ae2" md5="ab659235456ff67be77714eb8c34f892" sha1="119dc78b22f689b4829695997e19f8eca3c690e2" />
-	</game>
-	<game name="WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es)">
-		<category>Games</category>
-		<description>WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es)</description>
-		<rom name="WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).iso" size="3945037824" crc="c4c6fcbd" md5="4d50da1aa0f251569daa9c64e4464b33" sha1="8e951fc385a843a101bc8c530a3704acec94f992" />
-	</game>
-	<game name="WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es)">
-		<category>Games</category>
-		<description>WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es)</description>
-		<rom name="WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es).iso" size="3442769920" crc="c7afa5b6" md5="5d530f59b3eb3b4ef7d1cfc717b472fe" sha1="14f3058a9436c67f4e85dda4538531af5a0ab50b" />
-	</game>
 	<game name="WWE SmackDown! Here Comes the Pain (USA)">
 		<category>Games</category>
 		<description>WWE SmackDown! Here Comes the Pain (USA)</description>
 		<rom name="WWE SmackDown! Here Comes the Pain (USA).iso" size="4525228032" crc="736e6931" md5="014ae3d46510de9f6b01ce9a6e436a82" sha1="de7c90306843b97d18deaf46a627f5f375d94a22" />
-	</game>
-	<game name="WWE SmackDown! Shut Your Mouth (USA)">
-		<category>Games</category>
-		<description>WWE SmackDown! Shut Your Mouth (USA)</description>
-		<rom name="WWE SmackDown! Shut Your Mouth (USA).iso" size="3509223424" crc="c5b159e5" md5="748c5b60c70b36c52df144cef5b8549a" sha1="870ee46733f57eade607b17702844c31568a1b04" />
-	</game>
-	<game name="WWE SmackDown! vs. Raw (USA)">
-		<category>Games</category>
-		<description>WWE SmackDown! vs. Raw (USA)</description>
-		<rom name="WWE SmackDown! vs. Raw (USA).iso" size="4384358400" crc="d22b875b" md5="c0b7696b2c557b30065e6600cbedf0db" sha1="c10110a127879fd55abe1d1e8c5654c9d2a8b1dd" />
-	</game>
-	<game name="WWE SmackDown! vs. Raw 2006 (USA)">
-		<category>Games</category>
-		<description>WWE SmackDown! vs. Raw 2006 (USA)</description>
-		<rom name="WWE SmackDown! vs. Raw 2006 (USA).iso" size="4251484160" crc="96c01ff3" md5="96e52ee526b7e8e1829a1542a8df9b08" sha1="163ae8f76b365c47616f6c70b8ed33ebc6534cee" />
 	</game>
 	<game name="Wakeboarding Unleashed featuring Shaun Murray (USA)">
 		<category>Games</category>

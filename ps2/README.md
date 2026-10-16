@@ -1,4 +1,4 @@
-# PS2 Shortlist — 516 games
+# PS2 Shortlist — 496 games
 
 A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3,198 are playable without reading Japanese; a few deliberate cuts (below) narrow that pool, and the games here are picked from what's left.
 
@@ -25,6 +25,7 @@ A curated list of PlayStation 2 games worth playing. Of the PS2's 4,338 games, 3
 - **Team and league sports (386):** American football, soccer, basketball, hockey, baseball, cricket, rugby, volleyball and their management sims. Racing, wrestling, boxing, golf, tennis, pool, fishing and extreme sports stay.
 - **Games that need extra hardware (183):** rhythm and music games built around a guitar, drums, a dance mat, a microphone or a camera, plus two Densha de Go! train simulators built around a train controller. Rhythm games playable on a standard controller (Gitaroo Man, Amplitude, Frequency, PaRappa the Rapper 2, Space Channel 5 and others) are included. EyeToy: Play is left out too, since it needs the EyeToy camera.
 - **Superseded editions (7):** when a later release is the same game with more in it, only that one is listed, e.g. Persona 3 FES rather than Persona 3, Virtua Fighter 4: Evolution rather than Virtua Fighter 4, Melty Blood: Actress Again rather than Act Cadenza.
+- **Yearly series (19):** when a series put out near-identical yearly updates, only the best entry is listed: Tiger Woods PGA Tour 2005, WWE SmackDown! Here Comes the Pain, NASCAR Thunder 2004, Fight Night Round 2, Tokyo Xtreme Racer 3 and MotoGP 4. Entries that play differently stay too, e.g. NASCAR: Dirt to Daytona, Tokyo Xtreme Racer: Drift 2 and MotoGP 08.
 - **Online-only games whose servers have closed (8):** Final Fantasy XI and its three expansions, EverQuest Online Adventures and Frontiers, Front Mission Online and Hardware: Online Arena. They can't be played anymore.
 - **Better on another console or PC (12):** a clearly better version exists elsewhere, even when emulated, so they're left to that platform. Dreamcast: Marvel vs. Capcom 2, Crazy Taxi, Virtua Tennis 2 (Sega Sports Tennis on PS2), Capcom vs. SNK 2, Grandia II. Xbox: Splinter Cell: Chaos Theory and Double Agent, Max Payne, Max Payne 2, Psychonauts and Godzilla: Save the Earth. PC: Deus Ex. The first two Splinter Cell games stay, because their PS2 versions have missions the Xbox versions don't.
 - **Retro compilations and straight arcade or Neo Geo ports (55):** collections of older games (Namco Museum, the Mega Man and Sonic collections, Metal Slug Anthology, Sega Genesis Collection, the Oretachi Game Center discs and others), Neo Geo games released unchanged on PS2 (Garou: Mark of the Wolves, Metal Slug 4 and 5, The King of Fighters 2001) and arcade games whose original boards run natively on MiSTer (Hyper Street Fighter II, Dragon Blaze). The originals play just as well under emulation, so they belong on those systems' lists. Ports whose PS2 version adds something you can't get elsewhere stay, e.g. DoDonPachi Dai-Ou-Jou (Death Label mode), Espgaluda (arrange mode), Vampire: Darkstalkers Collection, Metal Slug 3, The King of Fighters 2000, 2002 and 2003, Rockman: Power Battle Fighters, Street Fighter Alpha Anthology and Pinball Hall of Fame. Ports from the PSP and other handhelds are kept and judged on their PS2 ratings.
@@ -208,7 +209,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Radiata Stories | 74 | 1,233 | 3.94 | 3.90 |  | ✓ |
 | Guilty Gear X | 79 | 280 | 3.99 | 3.90 |  |  |
 | OutRun 2006: Coast 2 Coast | 81 | 233 | 4.00 | 3.90 |  |  |
-| WWE SmackDown! Shut Your Mouth | 82 | 612 | 3.96 | 3.89 |  |  |
 | Onimusha 2: Samurai's Destiny |  | 1,037 | 3.94 | 3.89 |  |  |
 | Fate/Unlimited Codes | 72 | 121 | 4.03 | 3.89 |  |  |
 | Mortal Kombat: Shaolin Monks |  | 1,197 | 3.94 | 3.89 | ✓ | ✓ |
@@ -257,7 +257,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Champions: Return to Arms | 77 | 484 | 3.91 | 3.84 |  |  |
 | Metal Slug 3 |  | 111 | 3.98 | 3.84 |  |  |
 | Wangan Midnight |  | 28 | 4.11 | 3.84 |  |  |
-| WWE SmackDown vs. Raw 2011 | 80 | 305 | 3.92 | 3.84 |  |  |
 | Naruto: Ultimate Ninja 2 | 73 | 740 | 3.89 | 3.83 |  |  |
 | Silent Line: Armored Core | 69 | 184 | 3.95 | 3.83 |  |  |
 | Culdcept |  | 97 | 3.99 | 3.83 |  |  |
@@ -282,8 +281,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | .hack//Mutation Part 2 |  | 933 | 3.87 | 3.82 |  |  |
 | Lego Star Wars: The Video Game | 78 | 903 | 3.87 | 3.82 | ✓ |  |
 | FlatOut 2 | 73 | 295 | 3.91 | 3.82 |  |  |
-| Tokyo Xtreme Racer: Zero | 76 | 175 | 3.93 | 3.82 |  |  |
-| WWE SmackDown! vs. RAW 2006 | 84 | 793 | 3.87 | 3.82 |  |  |
 | Gladius | 78 | 172 | 3.93 | 3.81 |  |  |
 | 007: Everything or Nothing | 84 | 397 | 3.89 | 3.81 |  |  |
 | Destroy All Humans! 2 | 74 | 560 | 3.88 | 3.81 |  |  |
@@ -296,7 +293,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Hot Shots Golf 3 | 85 | 185 | 3.91 | 3.80 |  |  |
 | Onimusha: Dawn of Dreams | 81 | 778 | 3.86 | 3.80 |  |  |
 | Phantom Brave | 81 | 612 | 3.86 | 3.80 |  |  |
-| WWE SmackDown vs. Raw 2010 |  | 303 | 3.88 | 3.80 |  |  |
 | Burnout 2: Point of Impact | 86 | 444 | 3.87 | 3.80 |  |  |
 | Raw Danger! | 63 | 151 | 3.92 | 3.79 |  |  |
 | MetropolisMania | 63 | 48 | 4.01 | 3.79 |  |  |
@@ -401,7 +397,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Rayman 3: Hoodlum Havoc | 76 | 407 | 3.78 | 3.70 |  |  |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori |  | 26 | 3.99 | 3.70 |  |  |
 | Romancing SaGa |  | 468 | 3.77 | 3.70 |  |  |
-| Transformers | 75 | 52 | 3.90 | 3.70 |  |  |
 | Armored Core 2: Another Age | 75 | 190 | 3.81 | 3.69 |  |  |
 | Silent Hill 4: The Room | 76 | 1,876 | 3.73 | 3.69 |  | ✓ |
 | Armored Core: Nexus | 73 | 179 | 3.81 | 3.69 |  |  |
@@ -412,7 +407,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Midnight Club II | 85 | 367 | 3.77 | 3.69 |  |  |
 | Time Crisis: Crisis Zone | 66 | 123 | 3.83 | 3.69 |  |  |
 | Phantasy Star Universe: Ambition of the Illuminus (Expansion) | 68 | 179 | 3.80 | 3.69 |  |  |
-| WWE SmackDown vs. Raw 2007 | 80 | 611 | 3.75 | 3.69 |  |  |
 | Justice League Heroes | 68 | 280 | 3.78 | 3.69 |  |  |
 | Kingdom Hearts Re:Chain of Memories | 68 | 2,502 | 3.72 | 3.69 |  |  |
 | Atelier Iris 3: Grand Phantasm | 63 | 533 | 3.75 | 3.69 |  |  |
@@ -428,14 +422,11 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Gran Turismo Concept: 2001 Tokyo |  | 35 | 3.92 | 3.67 |  |  |
 | Sonic Riders: Zero Gravity | 56 | 346 | 3.75 | 3.67 |  |  |
 | Resident Evil Outbreak File #2 | 58 | 777 | 3.72 | 3.66 |  |  |
-| MotoGP 3 | 80 | 52 | 3.87 | 3.66 |  |  |
 | Wizardry: Tale of the Forsaken Land | 70 | 163 | 3.78 | 3.66 |  |  |
 | Red Dead Revolver | 73 | 601 | 3.72 | 3.66 | ✓ |  |
 | Rule of Rose | 59 | 539 | 3.73 | 3.66 |  |  |
-| NASCAR 2005: Chase for the Cup | 87 | 86 | 3.82 | 3.66 |  |  |
 | SSX | 93 | 369 | 3.74 | 3.66 |  |  |
 | Destroy All Humans! | 74 | 727 | 3.72 | 3.66 |  |  |
-| MotoGP 2 | 71 | 42 | 3.89 | 3.66 |  |  |
 | Arc the Lad: Twilight of the Spirits | 72 | 703 | 3.72 | 3.66 |  |  |
 | Digimon Rumble Arena 2 | 63 | 395 | 3.74 | 3.66 |  |  |
 | F1 2001 | 83 | 77 | 3.83 | 3.66 |  |  |
@@ -467,7 +458,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Resident Evil Outbreak | 71 | 1,137 | 3.64 | 3.59 |  | ✓ |
 | Kya: Dark Lineage | 69 | 139 | 3.72 | 3.59 |  |  |
 | Escape from Monkey Island | 84 | 156 | 3.71 | 3.59 |  |  |
-| WWE SmackDown! vs. RAW | 80 | 551 | 3.65 | 3.59 |  |  |
 | Chulip |  | 127 | 3.72 | 3.58 |  |  |
 | Total Overdose: A Gunslinger's Tale in Mexico | 71 | 176 | 3.70 | 3.58 |  |  |
 | Crash Tag Team Racing |  | 751 | 3.64 | 3.58 | ✓ |  |
@@ -503,7 +493,6 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | Manhunt 2 | 67 | 364 | 3.54 | 3.46 |  | ✓ |
 | Gregory Horror Show | 75 | 95 | 3.62 | 3.46 |  |  |
 | The Suffering: Ties That Bind | 75 | 187 | 3.57 | 3.46 |  |  |
-| NASCAR Thunder 2003 | 84 | 86 | 3.62 | 3.45 |  |  |
 | Quake III Revolution | 84 | 136 | 3.59 | 3.45 |  |  |
 | World Rally Championship | 80 | 97 | 3.60 | 3.45 |  |  |
 | Splashdown | 84 | 67 | 3.63 | 3.45 |  |  |
@@ -525,23 +514,16 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | V-Rally 3 | 82 | 71 | 3.52 | 3.34 |  |  |
 | Brothers in Arms: Road to Hill 30 | 82 | 130 | 3.47 | 3.34 |  |  |
 | Dave Mirra Freestyle BMX 2 | 81 | 105 | 3.49 | 3.34 |  |  |
-| Fight Night Round 3 | 84 | 190 | 3.45 | 3.33 |  |  |
 | Frequency | 83 | 155 | 3.46 | 3.33 |  |  |
 | The Legend of Spyro: A New Beginning | 64 | 455 | 3.40 | 3.33 |  |  |
-| NASCAR Heat 2002 | 81 | 44 | 3.56 | 3.33 |  |  |
 | Broken Sword: The Sleeping Dragon | 82 | 87 | 3.48 | 3.32 |  |  |
 | Star Wars: Jedi Starfighter | 81 | 210 | 3.42 | 3.31 |  |  |
-| Tiger Woods PGA Tour 2002 | 80 | 25 | 3.59 | 3.30 |  |  |
-| Fight Night 2004 | 85 | 77 | 3.47 | 3.29 |  |  |
-| NASCAR Thunder 2002 | 85 | 58 | 3.48 | 3.28 |  |  |
 | Scooby-Doo! Unmasked | 61 | 101 | 3.42 | 3.27 |  |  |
 | MDK2: Armageddon | 80 | 91 | 3.42 | 3.26 |  |  |
 | Kelly Slater's Pro Surfer | 77 | 43 | 3.49 | 3.26 |  |  |
 | Mister Mosquito |  | 163 | 3.38 | 3.26 |  |  |
 | Harry Potter and the Sorcerer's Stone | 56 | 259 | 3.33 | 3.24 | ✓ |  |
-| Tiger Woods PGA Tour 06 | 83 | 26 | 3.52 | 3.23 |  |  |
 | Mashed: Drive To Survive | 80 | 19 | 3.54 | 3.21 |  |  |
-| Tiger Woods PGA Tour 2004 | 89 | 100 | 3.37 | 3.21 |  |  |
 | Spider-Man 3 | 50 | 379 | 3.29 | 3.21 |  | ✓ |
 | Crash of the Titans | 70 | 500 | 3.22 | 3.15 | ✓ | ✓ |
 | Shadow the Hedgehog | 45 | 863 | 3.20 | 3.15 | ✓ |  |
@@ -550,4 +532,3 @@ Data pulled September 2026. Also available as a [DAT file](ps2-shortlist.dat) fo
 | World of Outlaws: Sprint Cars 2002 | 80 | 26 | 3.30 | 3.01 |  |  |
 | Wakeboarding Unleashed Featuring Shaun Murray | 83 | 21 | 3.32 | 3.01 |  |  |
 | World Series of Poker 2008: Battle for the Bracelets | 84 | 12 | 3.19 | 2.79 |  |  |
-| Tiger Woods PGA Tour 2003 | 88 | 40 | 2.95 | 2.71 |  |  |
